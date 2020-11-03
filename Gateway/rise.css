@@ -5,6 +5,10 @@
    Anything that is broken is the fault of Eric Shook, eshook@umn.edu
 */
 
+div.run_this_cell {
+    display: block;
+}
+
 .transition-all {
   transition-property: all;
   transition-duration: 0.2s;
