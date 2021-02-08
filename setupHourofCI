@@ -1,0 +1,12 @@
+echo "Hour of CI Setup Starting ..."
+
+# Trust notebooks that auto-run code (init cells, etc.)
+jupyter trust gateway-lesson/gateway/gateway-1.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-2.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-3.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-4.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-5.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-6.ipynb >> hci.log
+jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
+
+echo "Hour of CI Setup Complete!"
