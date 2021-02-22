@@ -9,4 +9,12 @@ jupyter trust gateway-lesson/gateway/gateway-5.ipynb >> hci.log
 jupyter trust gateway-lesson/gateway/gateway-6.ipynb >> hci.log
 jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-1.ipynb >> hci.log 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-2.ipynb >> hci.log 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-3.ipynb >> hci.log 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-4.ipynb >> hci.log 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-5.ipynb >> hci.log 
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
+
+
 echo "Hour of CI Setup Complete!"
