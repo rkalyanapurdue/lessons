@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+
+    <title>D3 Spatial Grid</title>
+
+    <!-- load D3 -->
+    <script src="https://rawcdn.githack.com/coopbri/hci-binder/362464110b5273593e9fdd1dc1c0ae3e4f1da224/lib/d3.min.js"></script>
+      
+    <!-- v7: load jQuery (bundled with Jupyter; only needed outside of Jupyter) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- v7: load jQuery md5 plugin -->
+    <script src="https://rawcdn.githack.com/placemarker/jQuery-MD5/b985fce4e867773e5fb7a29b4fb5df74c53595d0/jquery.md5.js"></script>
+
+    <!-- global styles -->
+    <style>
+      body   { font-family: helvetica, sans-serif;
+               -moz-user-select: none;
+               -webkit-user-select: none;
+               -ms-user-select: none;
+               user-select: none; }
+      text   { pointer-events: none; }
+    </style>
+  </head>
+
+  <body>
+    <script>
+        
+      // variables for logging
+      var username = location.href.split('/')[4];
+      var username_hash = $.md5(username);
+      var user_agent_hash = $.md5(navigator.userAgent);
+      var answer
+      var url_pre = "https://check.hourofci.org:4000/"+user_agent_hash+"/geospatial-data/beginner/4D/";
+        
+      var body = d3.select("body");
+      var svg = body.append("svg")
+        .attr("width", 600).attr("height", 400);
+      var img = svg.append("image")
+        .attr("href", "https://raw.githack.com/hourofci/lessons-dev/master/beginner-lessons/geospatial-data/supplementary/gd-image-4.png");
+
+      d3.select("image").on("click", function() {
+        // mouse coordinates (x,y)
+        var x = d3.event.x;
+        var y = d3.event.y;
+
+        // check if click within shelf bounds
+        if (x > 352) {
+          if (y > 0 && y < 138) {
+            // logging
+            correct_logging();
+            console.log("Nice!");
+            success();
+          }
+          else {
+            incorrect_logging();
+          }
+        }
+        else {
+          incorrect_logging();
+        }
+      });
+        
+      // logging: log "False" when click the incorrect space
+      function incorrect_logging() {
+        // log "False" when click incorrect space
+        answer = false
+        url = url_pre+answer;
+        // $.get(url)
+        $.ajax({
+          type: 'GET',
+          url: url,
+          success: function() {
+            console.log("Answer is false");
+          },
+          error: function() {
+            alert("Error");
+          }
+        });
+      }
+
+      // logging: log "True" when click the correct space
+      function correct_logging() {
+        answer = true;
+        url = url_pre+answer;
+        // $.get(url)
+        $.ajax({
+          type: 'GET',
+          url: url,
+          success: function() {
+            console.log("Answer is true");
+          },
+          error: function() {
+             alert("Error");
+          }
+        });
+      
+      }
+        
+      // success animation
+      function success() {
+        svg.append("text").text("Nice!")
+          .classed("success", true)
+          .attr("x", 400)
+          .attr("y", 80)
+          .attr("fill", "#ffffb3")
+          .attr("fill-opacity", 0)
+          .attr("stroke", "black")
+          .attr("stroke-width", 1.5)
+          .attr("stroke-opacity", 0)
+          .attr("font-size", 60)
+          .transition().duration(700)
+            .attr("fill-opacity", 1)
+            .attr("stroke-opacity", 1)
+          .transition().duration(4000)
+            .attr("fill-opacity", 0)
+            .attr("stroke-opacity", 0);
+      }
+    </script>
+  </body>
+</html>

@@ -16,5 +16,13 @@ jupyter trust beginner-lessons/interdisciplinary-communication/ic-4.ipynb >> hci
 jupyter trust beginner-lessons/interdisciplinary-communication/ic-5.ipynb >> hci.log 
 jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
 
+jupyter trust beginner-lessons/geospatial-data/gd-1.ipynb >> hci.log
+jupyter trust beginner-lessons/geospatial-data/gd-2.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-3.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-4.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-5.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-6.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-example_1.ipynb >> hci.log 
+jupyter trust beginner-lessons/geospatial-data/gd-example_2.ipynb >> hci.log 
 
 echo "Hour of CI Setup Complete!"
