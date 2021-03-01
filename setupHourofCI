@@ -25,4 +25,12 @@ jupyter trust beginner-lessons/geospatial-data/gd-6.ipynb >> hci.log
 jupyter trust beginner-lessons/geospatial-data/gd-example_1.ipynb >> hci.log 
 jupyter trust beginner-lessons/geospatial-data/gd-example_2.ipynb >> hci.log 
 
+
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-1.ipynb >> hci.log  
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-2.ipynb >> hci.log  
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-3.ipynb >> hci.log  
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-4.ipynb >> hci.log  
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-5.ipynb >> hci.log  
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-exploration.ipynb >> hci.log  
+
 echo "Hour of CI Setup Complete!"
