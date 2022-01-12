@@ -11,22 +11,26 @@ echo "Hour of CI Setup Starting ..."
 # Gateway Lesson
 for i in 1 2 3 4 5 6; do
     jupyter trust gateway-lesson/gateway/gateway-$i.ipynb >> hci.log
+done
 jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
 
 # Interdisciplinary Communication Lesson
 for i in 1 2 3 4 5; do
     jupyter trust beginner-lessons/interdisciplinary-communication/ic-$i.ipynb >> hci.log 
+done
 jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
 
 # Geospatial Data Lesson
 for i in 1 2 3 4 5 6; do
     jupyter trust beginner-lessons/geospatial-data/gd-$i.ipynb >> hci.log
+done
 jupyter trust beginner-lessons/geospatial-data/gd-example_1.ipynb >> hci.log 
 jupyter trust beginner-lessons/geospatial-data/gd-example_2.ipynb >> hci.log 
 
 # Cyberinfrastructure Lesson
 for i in 1 2 3 4 5; do
     jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-$i.ipynb >> hci.log  
+done
 jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-exploration.ipynb >> hci.log  
 
 echo "Hour of CI Setup Complete!"
