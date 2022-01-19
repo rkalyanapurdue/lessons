@@ -10,7 +10,7 @@ dependencies:
   - pillow
   - ipyleaflet
   - osmnx
-  - mapflassify
+  - mapclassify
   - mplleaflet
   - pip:
     - numpy
