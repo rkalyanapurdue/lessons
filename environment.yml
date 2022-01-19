@@ -1,0 +1,24 @@
+name: gisandbox
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - gdal
+  - fiona  
+  - rasterio
+  - pillow
+  - ipyleaflet
+  - osmnx
+  - mapflassify
+  - mplleaflet
+  - pip:
+    - numpy
+    - scipy
+    - pandas
+    - keplergl
+    - geopandas
+    - shapely
+    - folium
+    - matplotlib
+    - mordecai

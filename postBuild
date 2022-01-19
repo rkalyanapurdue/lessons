@@ -3,5 +3,11 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
 jupyter nbextension enable python-markdown/main
 
+# Used for mordecai package
+python -m spacy download en_core_web_lg
+
+# Microsoft TrueType core fonts, for the certificate
+apt install ttf-mscorefonts-installer
+
 sh setupHourofCI
 
