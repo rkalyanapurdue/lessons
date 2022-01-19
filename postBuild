@@ -1,6 +1,14 @@
 # Install and enable notebook extensions
-jupyter contrib nbextension install --user
+# This command does not work in BinderHub
+#jupyter contrib nbextension install --user
+#
+#
+jupyter nbextension install init_cell
+
 jupyter nbextension enable init_cell/main
+
+jupyter nbextension install python-markdown
+
 jupyter nbextension enable python-markdown/main
 
 # Used for mordecai package
