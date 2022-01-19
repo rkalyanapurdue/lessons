@@ -2,7 +2,7 @@ name: gisandbox
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
+  - python
   - pip
   - gdal
   - fiona  
@@ -13,12 +13,13 @@ dependencies:
   - mapclassify
   - mplleaflet
   - pip:
-    - numpy
-    - scipy
-    - pandas
-    - keplergl
+          # - numpy
+          # - scipy
+          # - pandas
+          # - keplergl
     - geopandas
     - shapely
     - folium
     - matplotlib
+    - tensorflow
     - mordecai
