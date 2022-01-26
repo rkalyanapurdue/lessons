@@ -18,6 +18,7 @@ dependencies:
           # - scipy
           # - pandas
           # - keplergl
+    - jupyter_contrib_nbextensions
     - geopandas
     - shapely
     - folium
