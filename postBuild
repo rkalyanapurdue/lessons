@@ -3,13 +3,13 @@
 #jupyter contrib nbextension install --user
 #
 #
-jupyter nbextension install init_cell
+#jupyter nbextension install init_cell
 
-jupyter nbextension enable init_cell/main
+jupyter nbextension enable init_cell/main --user
 
-jupyter nbextension install python-markdown
+#jupyter nbextension install python-markdown
 
-jupyter nbextension enable python-markdown/main
+jupyter nbextension enable python-markdown/main --user
 
 # Used for mordecai package
 python -m spacy download en_core_web_lg
