@@ -1,6 +1,6 @@
 # Install and enable notebook extensions
 # This command does not work in BinderHub
-#jupyter contrib nbextension install --user
+jupyter contrib nbextension install --user
 #
 #
 #jupyter nbextension install init_cell
@@ -15,7 +15,7 @@ jupyter nbextension enable python-markdown/main --user
 python -m spacy download en_core_web_lg
 
 # Microsoft TrueType core fonts, for the certificate
-apt install ttf-mscorefonts-installer
+#apt install ttf-mscorefonts-installer
 
 sh setupHourofCI
 
