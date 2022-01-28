@@ -1,8 +1,8 @@
 import ipywidgets as widgets
 from ipywidgets import Layout
-import requests
+#import requests
 # Encoding
-import hashlib
+#import hashlib
 
 # Default response of a question
 # def out():
@@ -41,7 +41,7 @@ def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,tex
 
     # Submit function
     def submit(b):
-
+        '''
         # Logging
         host = "check.hourofci.org"
         port = "4000" 
@@ -78,5 +78,7 @@ def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,tex
                 print("Answer successfully submitted.\n")
                 
             out_func()
-    
+        '''
+        print("Great! Move to the next slide to see the answer.")
+
     button.on_click(submit)
