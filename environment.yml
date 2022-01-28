@@ -13,6 +13,7 @@ dependencies:
   - osmnx
   - mapclassify
   - mplleaflet
+  - mscorefonts
   - pip:
           # - numpy
           # - scipy
