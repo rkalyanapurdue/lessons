@@ -13,15 +13,11 @@ dependencies:
   - osmnx
   - mapclassify
   - mplleaflet
-  - mscorefonts
   - pip:
-          # - numpy
-          # - scipy
-          # - pandas
-          # - keplergl
     - jupyter_contrib_nbextensions
-    - matplotlib_scalebar
     - utm
+    - matplotlib
+    - matplotlib_scalebar
     - geopandas
     - shapely
     - folium
