@@ -663,3 +663,11 @@ div.hciheader {
 div.hcifooter {
     
 }
+
+.hcibluebutton {
+    background-color:blue;
+    color:white;
+    padding:12px;
+    margin:10px;
+    font-weight:bold;
+}

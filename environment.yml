@@ -20,6 +20,8 @@ dependencies:
           # - pandas
           # - keplergl
     - jupyter_contrib_nbextensions
+    - matplotlib_scalebar
+    - utm
     - geopandas
     - shapely
     - folium

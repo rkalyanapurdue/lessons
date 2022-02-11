@@ -10,6 +10,7 @@ from ipywidgets import Layout
 def out():
     pass
 
+
 # Add user_agent parameter, which is from the notebook
 def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,text="Submit",test=False):
     """ Display a submit button
@@ -82,3 +83,9 @@ def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,tex
         print("Great! Move to the next slide to see the answer.")
 
     button.on_click(submit)
+
+
+#def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,text="Submit",test=False):
+def SubmitBtn2(widget,out_func=out,text="Submit",test=False):
+    return SubmitBtn("NoUA","Lesson","Level","?",widget,out,text,test)
+
