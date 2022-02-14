@@ -13,7 +13,6 @@ dependencies:
   - osmnx
   - mapclassify
   - mplleaflet
-  - spacy
 
   - pip:
     - jupyter_contrib_nbextensions
