@@ -23,5 +23,6 @@ dependencies:
     - shapely
     - folium
     - earthpy
+    - pysal
       #- tensorflow
       #- mordecai

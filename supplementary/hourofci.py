@@ -1,18 +1,20 @@
 import ipywidgets as widgets
 from ipywidgets import Layout
+from IPython.display import display, clear_output
 #import requests
 # Encoding
 #import hashlib
 
 # Default response of a question
-# def out():
-#     print("Answer successfully submitted.\n")
 def out():
-    pass
+#     print("Answer successfully submitted.\n")
+    print("Great! Move to the next slide to see the answer.")
+# def out():
+#     pass
 
 
 # Add user_agent parameter, which is from the notebook
-def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,text="Submit",test=False):
+def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,text="Submit",test=False, display_wgt=True):
     """ Display a submit button
 
     Input:
@@ -80,12 +82,21 @@ def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,tex
                 
             out_func()
         '''
-        print("Great! Move to the next slide to see the answer.")
+#         print("Great! Move to the next slide to see the answer.")
+#         clear_output()
+        clear_output()
 
+#         SubmitBtn2(widget,out_func=out,text="Submit",test=False)
+        if display_wgt: # for ic-5.ipynb quizzes this is False
+            display(widget)
+            
+        display(button)
+        display(output)
+        out_func()
     button.on_click(submit)
 
 
 #def SubmitBtn(user_agent, lesson, lesson_level, question,widget,out_func=out,text="Submit",test=False):
-def SubmitBtn2(widget,out_func=out,text="Submit",test=False):
-    return SubmitBtn("NoUA","Lesson","Level","?",widget,out,text,test)
+def SubmitBtn2(widget,out_func=out,text="Submit",test=False, display_wgt = True):
+    return SubmitBtn("NoUA","Lesson","Level","?",widget,out_func,text,test, display_wgt)
 
