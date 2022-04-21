@@ -24,5 +24,7 @@ dependencies:
     - folium
     - earthpy
     - pysal
+    - textblob
+    - wordcloud
       #- tensorflow
       #- mordecai
