@@ -26,5 +26,6 @@ dependencies:
     - pysal
     - textblob
     - wordcloud
+    - spatialite
       #- tensorflow
       #- mordecai
