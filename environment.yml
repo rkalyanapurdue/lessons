@@ -27,5 +27,6 @@ dependencies:
     - textblob
     - wordcloud
     - spatialite
+    - geojson
       #- tensorflow
       #- mordecai
