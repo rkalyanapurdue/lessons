@@ -35,7 +35,7 @@ class QueryWindow:
         self.disPlayWindow = VBox([HBox([self.qOut,self.queryArea,self.execute,self.resultMessage]),\
         VBox([VBox([self.expectOut,self.expectedOutput]\
                    ),VBox([self.yourOut,self.yourOutput])])]\
-                                  ,layout = Layout(width='80%'))
+                                  ,layout = Layout(width='100%'))
         self.qset = pd.read_csv('questions.csv')
         self.questionData = self.qset.loc[self.qset.qNo==self.qNo]
         expected = self.getExpected()
@@ -84,6 +84,6 @@ class QueryWindow:
                 display(result)
             msg = '<span style="color:green">Success!!!!!</span>'
             if not match:
-                msg = '<span style="color:red">Sorry your query results doesnot match the expected result. Please try again</span>'
+                msg = '<span style="color:red">Sorry, your query results does not match the expected result. Please try again</span>'
             with self.resultMessage:
                 display(HTML(msg))

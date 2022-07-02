@@ -39,3 +39,12 @@ qNo,result_type,results,isOrder,question,database,sort_key
 38,set,38.pkl,FALSE,Select artist Name and the total number of albums composed by them as TotalAlbums,chinook,Name
 39,set,39.pkl,TRUE,select customers first_name and last_name and the total amount they spend as TotalAmount. Sort the results by total amount in descending order.,sqlite-sakila,
 40,set,40.pkl,TRUE,select customers first_name and last_name and the total number of rentals they had as TotalRentals. Sort the results by total rentals in descending order,sqlite-sakila,
+1001,set,1001.pkl,FALSE, Select all columns from film table,sqlite-sakila,
+1002,set,1002.pkl,FALSE,"select title, release year, and movie length from the film table.",sqlite-sakila,
+1003,set,1003.pkl,FALSE,select unique ratings from the film table,sqlite-sakila,
+1004,set,1004.pkl,FALSE,select all films with duration greater than 80 and less than 90 from the film table. ,sqlite-sakila,
+1005,set,1005.pkl,FALSE,select all films that are rated other than G.,sqlite-sakila,
+1006,set,1006.pkl,TRUE,Select film titles along with their lengths from the film table sorted by length descending,sqlite-sakila,length
+1007,scalar,1007.pkl,FALSE,Select the minimum movie length from the film table.,sqlite-sakila,
+1008,set,1008.pkl,FALSE,Count the number of movies for each rating type from the film table. ,sqlite-sakila,
+1009,set,1009.pkl,FALSE,Select the average rental_rate for each rating for each release year from the film table. Name the average rental_rate column as Average_Rental.,sqlite-sakila,

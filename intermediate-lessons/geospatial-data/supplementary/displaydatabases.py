@@ -6,7 +6,7 @@ class Display:
     def __init__(self):
         self.currentConnection = None
         self.currentDB = ''
-        self.tableOut = Output(layout = Layout(max_width='30%'))
+        self.tableOut = Output(layout = Layout(max_width='50%'))
         self.schemaOut = Output()
         self.tableSelect = Dropdown(
             options=[''],
