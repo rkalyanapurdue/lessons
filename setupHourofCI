@@ -3,8 +3,6 @@
 echo "Hour of CI Setup Starting ..."
 
 
-
-
 # Trust all Hour of CI notebooks to improve learner experience
 # This enables us to auto-run code, initialize Markdown/code cells, etc.
 
@@ -14,31 +12,97 @@ for i in 1 2 3 4 5 6; do
 done
 jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
 
-# Interdisciplinary Communication Lesson
-for i in 1 2 3 4 5; do
-    jupyter trust beginner-lessons/interdisciplinary-communication/ic-$i.ipynb >> hci.log 
-done
-jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
+######Beginner######
 
-# Geospatial Data Lesson
+# BD 
+for i in 1 2 3 4 5 6; do
+    jupyter trust beginner-lessons/big-data/bigdata-$i.ipynb >> hci.log  
+done
+
+# CT
+for i in 1 2 3 4 5 6; do
+    jupyter trust beginner-lessons/computational-thinking/ct-$i.ipynb >> hci.log  
+done
+
+# CI
+for i in 1 2 3 4 5; do
+    jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-$i.ipynb >> hci.log  
+done
+jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-exploration.ipynb >> hci.log  
+
+# GD
 for i in 1 2 3 4 5 6; do
     jupyter trust beginner-lessons/geospatial-data/gd-$i.ipynb >> hci.log
 done
 jupyter trust beginner-lessons/geospatial-data/gd-example_1.ipynb >> hci.log 
 jupyter trust beginner-lessons/geospatial-data/gd-example_2.ipynb >> hci.log 
 
-# Cyberinfrastructure Lesson
+# IC
 for i in 1 2 3 4 5; do
-    jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-$i.ipynb >> hci.log  
+    jupyter trust beginner-lessons/interdisciplinary-communication/ic-$i.ipynb >> hci.log 
 done
-jupyter trust beginner-lessons/cyberinfrastructure/cyberinfrastructure-exploration.ipynb >> hci.log  
+jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
 
-# Spatial Modeling and Analytics 
+# PC
+for i in 1 2 3 4 5 6; do
+    jupyter trust beginner-lessons/parallel-computing/pc-$i.ipynb >> hci.log 
+done
+
+# SMA
 for i in 1 2 3 4 5; do
     jupyter trust beginner-lessons/spatial-modeling-analytics/sma-$i.ipynb >> hci.log  
 done
 jupyter trust beginner-lessons/spatial-modeling-analytics/sma-exploration.ipynb >> hci.log  
 jupyter trust beginner-lessons/spatial-modeling-analytics/try_it1_sma.ipynb >> hci.log  
 jupyter trust beginner-lessons/spatial-modeling-analytics/try_it2_sma.ipynb >> hci.log  
+
+# ST
+for i in 1 2 3 4 5 6; do
+    jupyter trust beginner-lessons/spatial-thinking/st-$i.ipynb >> hci.log
+done
+
+######Intermediate#######
+
+# BD 
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/big-data/bigdata-$i.ipynb >> hci.log  
+done
+
+# CT
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/computational-thinking/ct-$i.ipynb >> hci.log  
+done
+
+# CI
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/cyberinfrastructure/cyberinfrastructure-$i.ipynb >> hci.log  
+done
+
+# Geospatial Data Lesson
+for i in 1 2 3 4 5; do
+    jupyter trust intermediate-lessons/geospatial-data/gd-$i.ipynb >> hci.log
+done
+jupyter trust intermediate-lessons/geospatial-data/gd-exploration.ipynb >> hci.log 
+
+# IC
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/interdisciplinary-communication/ic-$i.ipynb >> hci.log 
+done
+
+# PC
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/parallel-computing/pc-$i.ipynb >> hci.log 
+done
+
+# SMA
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/spatial-modeling-analytics/sma-$i.ipynb >> hci.log  
+done
+
+# Spatial Thinking
+for i in 1 2 3 4 5 6; do
+    jupyter trust intermediate-lessons/spatial-thinking/st-$i.ipynb >> hci.log
+done
+
 
 echo "Hour of CI Setup Complete!"

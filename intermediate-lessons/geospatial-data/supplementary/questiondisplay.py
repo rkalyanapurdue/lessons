@@ -70,16 +70,18 @@ class QueryWindow:
             if self.questionData.result_type.values[0] != 'set':
                 if result.shape == (1,1):
                     result = result.iloc[0][0]
-                    match = result == expected
+                    match = result==expected
             else:
-                if not self.questionData.isOrder.values[0]:
-                    #check all columns are same
-                    if set(result.columns.values)==set(expected.columns.values) == 0:
-                        match=result.sort_values(by=[self.questionData.sort_key.values[0]])\
-                        .reset_index(drop=True).equals(expected.sort_values(by=[self.questionData.sort_key.values[0]])\
-                                                       .reset_index(drop=True))
-                else:
-                    match = result.reset_index(drop=True).equals(expected.reset_index(drop=True))
+                match = result.equals(expected)
+#                 if not self.questionData.isOrder.values[0]:
+#                     #check all columns are same
+#                     match = result.equals(expected)
+# #                     if set(result.columns.values)==set(expected.columns.values) == 0:
+# #                         match=result.sort_values(by=[self.questionData.sort_key.values[0]])\
+# #                         .reset_index(drop=True).equals(expected.sort_values(by=[self.questionData.sort_key.values[0]])\
+# #                                                        .reset_index(drop=True))
+#                 else:
+#                     match = result.reset_index(drop=True).equals(expected.reset_index(drop=True))
             with self.yourOutput:
                 display(result)
             msg = '<span style="color:green">Success!!!!!</span>'
@@ -87,3 +89,5 @@ class QueryWindow:
                 msg = '<span style="color:red">Sorry, your query results does not match the expected result. Please try again</span>'
             with self.resultMessage:
                 display(HTML(msg))
+
+
