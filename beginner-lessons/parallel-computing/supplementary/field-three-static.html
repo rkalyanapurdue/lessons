@@ -6,8 +6,10 @@
     <title>D3 Field Planting</title>
 
     <!-- load D3 -->
-    <script src="https://rawcdn.githack.com/coopbri/hci-binder/362464110b5273593e9fdd1dc1c0ae3e4f1da224/lib/d3.min.js"></script>
+<!--     <script src="https://rawcdn.githack.com/coopbri/hci-binder/362464110b5273593e9fdd1dc1c0ae3e4f1da224/lib/d3.min.js"></script> -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.2/d3.js"></script>
     <!-- global styles -->
     <style>
       body          { font-family: helvetica, sans-serif;
@@ -52,7 +54,7 @@
         .attr("patternUnits", "userSpaceOnUse")
         .attr("width", 100).attr("height", 100)
       patterns.append("image")
-        .attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/seedling.svg")
+        .attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling.svg?raw=true")
         .attr("x", 0).attr("y", 0)
         .attr("width", 100).attr("height", 100);
 
@@ -115,11 +117,11 @@
         .enter().append("image")
         .attr("xlink:href", function(d) {
            if (d.y < yvalOne) {
-            return "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-red.svg";
+            return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true";
           } else if (d.y > yvalOne && d.y < yvalTwo) {
-            return "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-blue.svg";
+            return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true";
           } else {
-            return "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-purple.svg";
+            return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true";
           }
         })
         .attr("x", function (d) { return d.x; })
@@ -220,9 +222,9 @@
         d3.select("#bluefarmer").attr("y", yblue - 77);
 
         // color cells according to portions
-        above.attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-red.svg");
-        middle.attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-blue.svg");
-        below.attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/empty-purple.svg");
+        above.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true");
+        middle.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true");
+        below.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true");
       }
 
       // snap dragged position
@@ -246,19 +248,19 @@
       }
 
       // draw red farmer
-      svg.append("image").attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/farmer.svg")
+      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/farmer.svg?raw=true")
         .attr("id", "redfarmer")
         .attr("width", 40)
         .attr("y", 0);
 
       // draw blue farmer
-      svg.append("image").attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/bluefarmer.svg")
+      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/bluefarmer.svg?raw=true")
         .attr("id", "bluefarmer")
         .attr("width", 40)
         .attr("y", 105);
 
       // draw purple farmer
-      svg.append("image").attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/purplefarmer.svg")
+      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/purplefarmer.svg?raw=true")
         .attr("id", "purplefarmer")
         .attr("width", 40)
         .attr("y", 175);
@@ -308,7 +310,7 @@
         redinterval = setInterval(function() {
           if (+redfarmer.attr("y") < +d3.select("#sliderOne").attr("y1")-50) {
             var col = d3.select("#col" + i);
-            col.select("#cell" + j).attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/seedling-red.svg");
+            col.select("#cell" + j).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-red.svg?raw=true");
 
             // check if row is even or odd
             if (j % 2 === 0) {
@@ -379,7 +381,7 @@
           if (+bluefarmer.attr("y") > +d3.select("#sliderOne").attr("y1")-50
            && +bluefarmer.attr("y") < +d3.select("#sliderTwo").attr("y1")-50) {
             var col = d3.select("#col" + m);
-            col.select("#cell" + n).attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/seedling-blue.svg");
+            col.select("#cell" + n).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-blue.svg?raw=true");
 
             // starting on odd row
             if (nstart === 1) {
@@ -466,7 +468,7 @@
         purpleinterval = setInterval(function() {
           if (+purplefarmer.attr("y") > +d3.select("#sliderTwo").attr("y1")-50) {
             var col = d3.select("#col" + k);
-            col.select("#cell" + l).attr("xlink:href", "https://rawcdn.githack.com/coopbri/hci-binder/0a0f8e02e3a3e7429f881b69634200d671c0f560/notebooks/parallel-computation/supplementary/seedling-purple.svg");
+            col.select("#cell" + l).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-purple.svg?raw=true");
 
             // check if row is even or odd
             if (l % 2 === 0) {
