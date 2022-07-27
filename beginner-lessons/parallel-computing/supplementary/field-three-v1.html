@@ -53,7 +53,7 @@
       var divRight = 3;
 
       patterns.append("image")
-        .attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling.svg?raw=true")
+        .attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling.svg?raw=true")
         .attr("x", 0).attr("y", 0)
         .attr("width", 100).attr("height", 100)
 
@@ -98,12 +98,12 @@
           // initial field coloring
           if (d.y < 148) {
             if (d.x < 100) {
-              return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true";
+              return "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true";
             } else {
-              return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true";
+              return "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true";
             }
           } else {
-            return "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true";
+            return "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true";
           }
         })
         .attr("x", function (d) { return d.x; })
@@ -279,26 +279,26 @@
         divRight = 6 - factor;
 
         // color cells according to portions
-        above.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true");
-        below.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true");
-        left.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true");
-        right.attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true");
+        above.attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true");
+        below.attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-red.svg?raw=true");
+        left.attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-blue.svg?raw=true");
+        right.attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/empty-purple.svg?raw=true");
       }
 
       // draw blue farmer
-      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/bluefarmer.svg?raw=true")
+      svg.append("image").attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/bluefarmer.svg?raw=true")
         .attr("id", "bluefarmer")
         .attr("width", 40)
         .attr("x", 0);
 
       // draw purple farmer
-      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/purplefarmer.svg?raw=true")
+      svg.append("image").attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/purplefarmer.svg?raw=true")
         .attr("id", "purplefarmer")
         .attr("width", 40)
         .attr("x", 175);
 
       // draw red farmer
-      svg.append("image").attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/farmer.svg?raw=true")
+      svg.append("image").attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/farmer.svg?raw=true")
         .attr("id", "redfarmer")
         .attr("width", 40)
         .attr("y", 175);
@@ -464,7 +464,7 @@
           blueinterval = setInterval(function() {
             if (divLeft != 0 && +bluefarmer.attr("y") < +d3.select("#slider").attr("y1")-50) {
               var col = d3.select("#col" + i);
-              col.select("#cell" + j).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-blue.svg?raw=true");
+              col.select("#cell" + j).attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-blue.svg?raw=true");
 
               // check if row is even or odd
               if (j % 2 === 0) {
@@ -512,7 +512,7 @@
           purpleinterval = setInterval(function() {
             if (divRight != 0 && +purplefarmer.attr("y") < +d3.select("#slider").attr("y1")-50) {
               var col = d3.select("#col" + m);
-              col.select("#cell" + n).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-purple.svg?raw=true");
+              col.select("#cell" + n).attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-purple.svg?raw=true");
 
               // check if row is even or odd
               if (n % 2 === 0) {
@@ -560,7 +560,7 @@
           redinterval = setInterval(function() {
             if (+redfarmer.attr("y") > +d3.select("#slider").attr("y1")-50) {
               var col = d3.select("#col" + k);
-              col.select("#cell" + l).attr("xlink:href", "https://github.com/mohsenumn/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-red.svg?raw=true");
+              col.select("#cell" + l).attr("xlink:href", "https://github.com/hourofci/lessons/blob/master/beginner-lessons/parallel-computing/supplementary/seedling-red.svg?raw=true");
 
               // check if row is even or odd
               if (l % 2 === 0) {
