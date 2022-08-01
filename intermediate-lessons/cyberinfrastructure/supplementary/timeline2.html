@@ -1,0 +1,29 @@
+<center><form id="form1" name="form1" method="post" >
+  <img width = 200 src="cash_register.jpeg" onclick="SetImageName('1879 - 1950')"/>
+  <img width = 200 src="room_computer.jpg" onclick="SetImageName('1946 - 1964')"/>
+  <img width = 200 src="older-computer.jpg" onclick="SetImageName('1964 - 2022')"/>
+  <img width = 200 src="laptop.png" onclick="SetImageName('1981 - 2022')"/>
+  <img width = 200 src="tablet.png" onclick="SetImageName('1989 - 2022')"/>
+  <img height = 200 src="iphone.jpg" onclick="SetImageName('1992 - 2022')"/>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+        <big>
+            <big>
+                <big>
+                    <output width='400' value="Existance Time" type="textarea" id="ImageName" name="ImageName"></output>
+                </big>
+            </big>
+        </big>
+    </center>
+</form>
+</center>
+<script language="javascript" type="text/javascript">
+function SetImageName(strName)
+{
+  document.getElementById("ImageName").value = strName;
+}
+</script>
