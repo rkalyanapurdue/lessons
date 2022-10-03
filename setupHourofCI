@@ -57,9 +57,10 @@ jupyter trust beginner-lessons/spatial-modeling-analytics/try_it1_sma.ipynb >> h
 jupyter trust beginner-lessons/spatial-modeling-analytics/try_it2_sma.ipynb >> hci.log  
 
 # ST
-for i in 1 2 3 4 5; do
+for i in 1 2; do
     jupyter trust beginner-lessons/spatial-thinking/st-$i.ipynb >> hci.log
 done
+jupyter trust beginner-lessons/spatial-thinking/st-exploration.ipynb >> hci.log
 
 ######Intermediate#######
 
