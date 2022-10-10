@@ -432,7 +432,7 @@
             else { return "Duration: " + time + " seconds" }
           });
         });
-
+        
         m = 0;
         var bluefarmer = d3.select("#bluefarmer");
         var bluestart = +bluefarmer.attr("y");
@@ -533,7 +533,9 @@
             }
           } else {
             bstop = true;
-            ptimer.stop();
+            if(bstop && pstop){
+                ptimer.stop();
+            };
             clearInterval(blueinterval);
           }
         }, purplespeed);
@@ -582,13 +584,13 @@
             }
           } else {
             pstop = true;
-//            pstop = true;
-//              ptimer.stop();
+            if(bstop && pstop){
+                ptimer.stop();
+            };
             clearInterval(purpleinterval);
           }
         }, purplespeed);
       }
-        
         
       // reset simulation
       control.append("button").text("Reset").attr("id", "reset")
