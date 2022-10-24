@@ -331,7 +331,7 @@
           purplespeed = 100;
           d3.select("#purplespeed").text("Speed: fast");
         });
-
+    console.log('mohsennnnnnn')
       // purple counter value display
       pstats.append("p").attr("id", "pcounter")
         .text("Duration: " + 0 + " seconds")
@@ -347,11 +347,11 @@
       var dist = 36;
       var i = 0;
       var j = 0;
+        
       control.append("button").text("Start").attr("id", "start").on("click", function() {
         // start timers
         var rstop = false;
-        var bstop = false;
-        var pstop = false;
+        
         rtimer.restart(function(dur) {
           d3.select("#rcounter").text(function() {
             var time = Math.floor(dur / 1000);
@@ -362,23 +362,13 @@
             rtimer.stop();
           }
         });
-        ptimer.restart(function(dur) {
-          d3.select("#pcounter").text(function() {
-            var time = Math.floor(dur / 1000);
-            if (time === 1) { return "Duration: " + time + " second" }
-            else { return "Duration: " + time + " seconds" }
-          });
-          if (pstop && bstop) {
-            ptimer.stop();
-          }
-        });
 
         d3.select(this).attr("disabled", true);
         d3.select("#reset").attr("disabled", null);
 
         // disable dragging
-        d3.selectAll("line").on(".drag", null);
-
+        d3.selectAll("line").on(".drag", null); 
+          
         var redfarmer = d3.select("#redfarmer");
         redinterval = setInterval(function() {
           if (+redfarmer.attr("y") < +d3.select("#sliderOne").attr("y1")-50) {
@@ -422,9 +412,27 @@
           } else {
             rstop = true;
             clearInterval(redinterval);
+            // start parallel farmers
+            parallel();
+              
           }
         }, redspeed);
+      });
 
+      // start parallel farmer motion
+      function parallel() {
+        var bstop = false;
+        var pstop = false;
+
+          
+        ptimer.restart(function(dur) {
+          d3.select("#pcounter").text(function() {
+            var time = Math.floor(dur / 1000);
+            if (time === 1) { return "Duration: " + time + " second" }
+            else { return "Duration: " + time + " seconds" }
+          });
+        });
+        
         m = 0;
         var bluefarmer = d3.select("#bluefarmer");
         var bluestart = +bluefarmer.attr("y");
@@ -525,6 +533,9 @@
             }
           } else {
             bstop = true;
+            if(bstop && pstop){
+                ptimer.stop();
+            };
             clearInterval(blueinterval);
           }
         }, purplespeed);
@@ -573,18 +584,22 @@
             }
           } else {
             pstop = true;
+            if(bstop && pstop){
+                ptimer.stop();
+            };
             clearInterval(purpleinterval);
           }
         }, purplespeed);
-      });
-
+      }
+        
       // reset simulation
       control.append("button").text("Reset").attr("id", "reset")
         .attr("disabled", true)
-        .on("click", function() {
+        .on("click", function() {``
           // stop timers and reset duration
           rtimer.stop();
           ptimer.stop();
+                                 
           d3.select("#rcounter").text("Duration: " + 0 + " seconds");
           d3.select("#pcounter").text("Duration: " + 0 + " seconds");
 
