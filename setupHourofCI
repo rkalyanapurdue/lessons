@@ -44,9 +44,10 @@ done
 jupyter trust beginner-lessons/interdisciplinary-communication/ic-exploration.ipynb >> hci.log 
 
 # PC
-for i in 1 2 3 4 5 6; do
+for i in 1 2 3 4; do
     jupyter trust beginner-lessons/parallel-computing/pc-$i.ipynb >> hci.log 
 done
+jupyter trust beginner-lessons/parallel-computing/pc-exploration.ipynb >> hci.log 
 
 # SMA
 for i in 1 2 3 4 5; do
