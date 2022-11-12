@@ -4,11 +4,19 @@ The Hour of Cyberinfrastructure lessons repository will contain one gateway less
 
 # Lesson Links:  
 
-### Gateway Lesson 
+## Gateway Lesson 
 
-
+<table>
+<tbody>
+<tr>
+<td>
 [HCI Server](http://try.hourofci.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fhourofci%2Flessons&urlpath=tree%2Flessons%2Fgateway-lesson%2Fgateway%2Fgateway-1.ipynb&branch=master)  
 [Binder Server](https://mybinder.org/v2/gh/hourofci/lessons/master?filepath=gateway-lesson/gateway/gateway-1.ipynb) 
+</td>
+</tr>
+</tbody>
+</table>
+
 
 <table>
 <tbody>
