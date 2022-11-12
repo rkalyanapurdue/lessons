@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - pip
+  - numba==0.56.3
   - rise
   - gdal
   - fiona  
