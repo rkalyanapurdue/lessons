@@ -1,0 +1,114 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20221021</CreaDate>
+		<CreaTime>23275200</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">STOP_RouteListByStop</itemName>
+				<imsContentType Sync="TRUE">002</imsContentType>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\g46palgdrftp001\Z\var\ftp\gdrs_temp\update\us_mn_state_metc\trans_transit_stops\shp\STOP_RouteListByStop.dbf</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<itemSize Sync="TRUE">0.000</itemSize>
+			</itemProps>
+			<lineage>
+				<Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\TableToTable" Date="20221021" Time="232755">TableToTable \\rafsshare.mc.local\gis\gis_library\Resources\DatabaseConnections\SDE@GISTransit.sde\GISTransit.DBO.STOP_RouteListByStop \\rafsshare.mc.local\gis\gis_library\GDRS\STAGE\trans_transit_stops\fgdb\trans_transit_stops.gdb STOP_RouteListByStop # "site_id "site_id" true false false 4 Long 0 10 ,First,#,\\rafsshare.mc.local\gis\gis_library\Resources\DatabaseConnections\SDE@GISTransit.sde\GISTransit.DBO.STOP_RouteListByStop,site_id,-1,-1;Route "Route" true false false 4 Text 0 0 ,First,#,\\rafsshare.mc.local\gis\gis_library\Resources\DatabaseConnections\SDE@GISTransit.sde\GISTransit.DBO.STOP_RouteListByStop,Route,-1,-1;routesort "routesort" true true false 4 Text 0 0 ,First,#,\\rafsshare.mc.local\gis\gis_library\Resources\DatabaseConnections\SDE@GISTransit.sde\GISTransit.DBO.STOP_RouteListByStop,routesort,-1,-1;last_edited "last_edited" true true false 8 Date 0 0 ,First,#,\\rafsshare.mc.local\gis\gis_library\Resources\DatabaseConnections\SDE@GISTransit.sde\GISTransit.DBO.STOP_RouteListByStop,last_edited,-1,-1" #</Process>
+				<Process ToolSource="C:\program files\arcgis\server\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyRows" Date="20221024" Time="235623">CopyRows /var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\STOP_RouteListByStop \var\ftp\gdrs_temp\update\us_mn_state_metc\trans_transit_stops\shp\STOP_RouteListByStop.dbf #</Process>
+			</lineage>
+		</DataProperties>
+		<SyncDate>20221024</SyncDate>
+		<SyncTime>23562300</SyncTime>
+		<ModDate>20221024</ModDate>
+		<ModTime>23562300</ModTime>
+	</Esri>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Professional x64 Edition Version 5.2 (Build 3790) Service Pack 2; Esri ArcGIS 10.4.1.5686</envirDesc>
+		<dataLang>
+			<languageCode value="en" Sync="TRUE"/>
+			<countryCode value="US" Sync="TRUE"/>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">STOP_RouteListByStop</resTitle>
+			<presForm>
+				<PresFormCd value="011" Sync="TRUE"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd value="003" Sync="TRUE"/>
+		</spatRpType>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode value="en" Sync="TRUE"/>
+		<countryCode value="US" Sync="TRUE"/>
+	</mdLang>
+	<distInfo>
+		<distFormat>
+			<formatName Sync="TRUE">dBASE Table</formatName>
+		</distFormat>
+		<distTranOps>
+			<transSize Sync="TRUE">0.000</transSize>
+		</distTranOps>
+	</distInfo>
+	<mdHrLv>
+		<ScopeCd value="007" Sync="TRUE"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<eainfo>
+		<detailed Name="STOP_RouteListByStop">
+			<enttyp>
+				<enttypl Sync="TRUE">STOP_RouteListByStop</enttypl>
+				<enttypt Sync="TRUE">Table</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">OID</attrlabl>
+				<attalias Sync="TRUE">OID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">site_id</attrlabl>
+				<attalias Sync="TRUE">site_id</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Route</attrlabl>
+				<attalias Sync="TRUE">Route</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">routesort</attrlabl>
+				<attalias Sync="TRUE">routesort</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">last_edite</attrlabl>
+				<attalias Sync="TRUE">last_edite</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20221024</mdDateSt>
+</metadata>
