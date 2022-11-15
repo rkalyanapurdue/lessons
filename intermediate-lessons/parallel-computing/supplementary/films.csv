@@ -6,1655 +6,1654 @@ index,Title,Year,Length,Subject,Popularity
 4,Days of Heaven,1978,94,Drama,14
 5,Octopussy,1983,140,Action,68
 6,Target Eagle,1984,101,Action,14
-7,"American Angels: Baptism of Blood, The",1989,99,Drama,28
-8,Subway,1985,104,Drama,6
-9,Camille Claudel,1990,149,Drama,32
-10,Fanny and Alexander,1982,188,Drama,81
-11,Tragedy of a Ridiculous Man,1982,117,Drama,17
-12,A Man & a Woman,1966,103,Drama,46
-13,A Man & a Woman: Twenty Years Later,1986,112,Drama,49
-14,Un Hombre y una Mujer,1966,103,Drama,6
-15,"Official Story, The",1985,112,Drama,39
-16,"Lindbergh Kidnapping Case, The",1976,150,Drama,51
-17,Blackmail,1929,84,Mystery,2
-18,Donovan's Reef,1963,109,Comedy,62
-19,Tucker: The Man & His Dream,1988,110,Drama,68
-20,Scrooged,1988,101,Comedy,15
-21,Raiders of the Lost Ark,1981,116,Action,8
-22,"Running Man, The",1987,101,Science Fiction,31
-23,Predator 2,1991,105,Action,79
-24,Colors,1988,127,Drama,23
-25,Zandalee,1990,97,Drama,80
-26,Miles from Home,1988,108,Drama,53
-27,Happy Birthday to Me,1980,,Horror,88
-28,Final Notice,1989,88,Mystery,88
-29,Quintet,1979,110,Drama,19
-30,"Devil's Eye, The",1960,90,Drama,20
-31,Wild Strawberries,1957,91,Drama,42
-32,"Seventh Seal, The",1956,96,Drama,62
-33,Germicide,1992,90,Drama,36
-34,Dreams,1955,86,Drama,14
-35,"Naked Night, The",1955,95,Drama,38
-36,Through a Glass Darkly,1962,91,Drama,64
-37,Cries & Whispers,1972,91,Drama,18
-38,"Barbarian & the Geisha, The",1958,104,Action,52
-39,Casino Royale,1967,130,Comedy,11
-40,Dr. No,1962,,Action,7
-41,Elephant Walk,1954,103,Drama,11
-42,Ten,1979,121,Comedy,60
-43,"Man Who Loved Women, The",1983,118,Comedy,67
-44,Hawaii,1966,190,Drama,8
-45,Torn Curtain,1966,125,Mystery,35
-46,Duet for One,1986,107,Drama,82
-47,"Sound of Music, The",1965,172,Music,59
-48,Gonzo Presents Muppet Weird Stuff,1985,55,Comedy,88
-49,Tartuffe,1984,140,Comedy,67
-50,A New Life,1988,104,Comedy,53
-51,Magic,1978,106,Mystery,85
-52,Tommy,1992,286,Music,5
-53,"Big Fix, The",1978,108,Mystery,19
-54,Alan & Naomi,1992,95,Drama,3
-55,Fatal Attraction,1987,120,Mystery,61
-56,Patriot Games,1992,117,Action,28
-57,"Woman Next Door, The",1981,106,Drama,82
-58,Hunting,1992,97,Mystery,68
-59,Bataan,1991,115,War,68
-60,"Siegfried, The Nibelungenlied",1924,110,Drama,79
-61,"Henry, Portrait of a Serial Killer",1991,90,Horror,69
-62,"Big Blue, The",1988,118,Drama,7
-63,Flight of the Intruder,1991,115,Drama,51
-64,Nobody's Fool,1986,108,Comedy,52
-65,After Hours,1985,97,Comedy,81
-66,Desperately Seeking Susan,1985,104,Comedy,41
-67,A New Leaf,1971,102,Comedy,83
-68,Killers of Kilimanjaro,1959,91,Action,11
-69,Don Juan,1926,126,Action,55
-70,Babette's Feast,1987,102,Drama,79
-71,"Vincent, Francois, Paul & the Others",1989,118,Drama,20
-72,Thunderball,1988,141,Action,8
-73,Lodger (Story of the London Fog),1926,66,Mystery,76
-74,Appointment with Death,1988,103,Mystery,75
-75,Murder on the Orient Express,1974,128,Mystery,8
-76,Blood Alley,1955,115,War,15
-77,"Spy Who Loved Me, The",1977,136,Action,27
-78,Storm,1988,100,Action,61
-79,Bloodbath,1991,89,Horror,37
-80,Miami Cops,1989,103,Action,40
-81,"Island of Dr. Moreau, The",1996,96,Horror,39
-82,Eighty-Four Charing Cross Road,1992,100,Drama,9
-83,"Elephant Man, The",1980,124,Drama,3
-84,Dr Alien,1988,90,Science Fiction,70
-85,Creepshow,1982,120,Horror,70
-86,Sammy & Rosie Get Laid,1987,100,Drama,6
-87,"Goalie's Anxiety at the Penalty Kick, The",1971,101,Drama,62
-88,Mademoiselle Striptease,1957,99,Comedy,25
-89,"Women, The",1969,86,Drama,66
-90,That Naughty Girl,1958,77,Comedy,37
-91,Voulez-Vous Danser Avec Moi?,1959,90,Comedy,16
-92,"A Coeur Joie, (Head Over Heels)",1967,100,Action,54
-93,Shalako,1968,113,Westerns,0
-94,Contempt,1964,102,Drama,81
-95,Dear Brigitte,1965,100,Comedy,71
-96,A Very Private Affair,1962,134,Drama,30
-97,"Ravishing Idiot, The",1964,99,Comedy,34
-98,"Bride Is Much Too Beautiful, The",1958,90,Comedy,70
-99,Doctor at Sea,1955,90,Comedy,83
-100,"Le Repos Du Guerrier, (Warrior's Rest)",1962,100,War,8
-101,And God Created Woman,1957,90,Drama,29
-102,Ms. Don Juan,1973,87,Drama,39
-103,Siesta,1987,97,Drama,48
-104,Rich & Strange,1932,92,Drama,57
-105,Lionheart,1987,104,Action,9
-106,E. T. The Extra-Terrestrial,1982,115,Science Fiction,8
-107,Cool World,1992,101,Drama,44
-108,Nadine,1988,83,Comedy,47
-109,Batman,1989,126,Action,14
-110,Blind Date,1987,95,Comedy,7
-111,Mother Lode,1982,101,Action,40
-112,Final Analysis,1992,125,Drama,50
-113,Never Say Never Again,1983,134,Action,8
-114,Nine & a Half Weeks,1986,117,Drama,7
-115,Killjoy,1989,,Mystery,71
-116,No Mercy,1986,108,Drama,11
-117,"Marrying Man, The",1991,116,Comedy,84
-118,Misery,1990,123,Horror,48
-119,Crisis,1946,93,Drama,66
-120,Samson & Delilah,1984,95,Drama,36
-121,Act of Piracy,1990,101,Mystery,74
-122,Split Decisions,1988,96,Drama,52
-123,Vampire's Kiss,1989,103,Comedy,49
-124,Nightmare at Noon,1988,96,Action,0
-125,Presumed Innocent,1990,127,Mystery,69
-126,Reap the Wild Wind,1942,123,Drama,59
-127,Pocket Money,1972,100,Comedy,55
-128,Mary White,1977,102,Drama,2
-129,"Catch a Rising Star, Tenth Anniversary",1982,,Comedy,18
-130,Guilty by Suspicion,1990,105,Drama,88
-131,Secret Beyond the Door,1948,99,Mystery,31
-132,Scarlet Street,1945,103,Drama,80
-133,Daffy Duck's Quackbusters,1988,76,Action,68
-134,Rowlf's Rhapsodies with the Muppets,1985,55,Comedy,79
-135,Gandhi,1982,188,Drama,7
-136,"Wind & the Lion, The",1975,120,Action,2
-137,Carnal Knowledge,1971,96,Drama,10
-138,Getting Straight,1970,126,Comedy,83
-139,"Scarlet Letter, The",1972,90,Drama,55
-140,"Count of Old Town, The",1935,75,Comedy,72
-141,Autumn Sonata,1978,97,Drama,49
-142,Gaslight,1944,114,Drama,25
-143,Indiscreet,1958,100,Drama,1
-144,Walpurgis Night,1941,75,Drama,32
-145,Joan of Arc,1948,100,Drama,7
-146,A Woman Called Golda,1982,195,Drama,15
-147,A Walk in the Spring Rain,1969,98,Drama,2
-148,Under Capricorn,1949,117,Drama,74
-149,Notorious,1946,101,Mystery,42
-150,June Night,1940,90,Drama,14
-151,Goodbye Again,1961,120,Drama,6
-152,Anastasia,1956,106,Drama,24
-153,"Bells of St. Mary's, The",1945,126,Drama,31
-154,Intermezzo,1937,91,Drama,32
-155,A Woman's Face,1938,104,Drama,49
-156,Swedenhielms,1935,90,Drama,88
-157,Only One Night,1939,87,Drama,26
-158,Dollar,1938,74,Drama,19
-159,Elena & Her Men,1956,98,Drama,33
-160,Europa Fifty-One,1952,110,Drama,34
-161,Voyage in Italy,1953,83,Drama,57
-162,Fear,1954,81,Drama,69
-163,Stromboli,1950,107,Drama,69
-164,Cactus Flower,1969,103,Comedy,67
-165,Hideaways,1989,105,Comedy,16
-166,Twenty Four Hours in a Woman's Life,1990,90,Drama,16
-167,Programmed to Kill,1987,91,Action,71
-168,Conan the Barbarian,1982,128,Action,45
-169,Raw Nerve,1991,91,Mystery,88
-170,Think Dirty,1970,94,Comedy,31
-171,King of Comedy,1982,108,Drama,84
-172,"Best of the Big Laff Off, The",1983,60,Comedy,20
-173,Amadeus,1984,158,Drama,6
-174,White Lightning,1973,101,Action,54
-175,"Unbearable Lightness of Being, The",1988,172,Drama,5
-176,"Life & Times of Judge Roy Bean, The",1972,124,Western,65
-177,Airport,1970,137,Drama,0
-178,Day for Night,1973,116,Drama,10
-179,Secrets of Women,1952,107,Comedy,66
-180,Burnt Offerings,1976,116,Horror,35
-181,Easy Rider,1969,94,Drama,36
-182,Five Easy Pieces,1991,98,Drama,2
-183,"Day of the Locust, The",1974,144,Drama,81
-184,Goldfinger,1964,112,Action,77
-185,"Exorcist II, The Heretic",1977,117,Horror,29
-186,White Lightning,1953,61,,
-187,Lady for a Night,1942,88,Drama,12
-188,Charly,1968,103,Drama,38
-189,High Plains Drifter,1973,105,Western,57
-190,Honkytonk Man,1982,123,Drama,69
-191,Nightbreed,1990,102,Horror,72
-192,Under the Sun of Satan,1987,98,Drama,45
-193,Vagabond,1985,105,Drama,49
-194,"Bill Cosby, Live at Harrah's",1993,60,Comedy,13
-195,Monty Python & the Holy Grail,1974,89,Comedy,83
-196,John Cleese on How to Irritate People,1993,65,Comedy,62
-197,"Matchmaker, The",1958,101,Comedy,67
-198,For Your Eyes Only,1981,129,Action,86
-199,Wings,1928,139,War,44
-200,Medicine Man,1992,106,Action,6
-201,Good Fellas,1989,,Drama,15
-202,Kiss of the Spider Woman,1985,119,Drama,10
-203,"Rookie, THe",1990,121,Action,48
-204,"Sting, The",1973,129,Drama,83
-205,Torpedo Run,1958,96,War,50
-206,Instant Justice,1986,101,Drama,45
-207,Cyrano de Bergerac,1990,135,Drama,76
-208,Border Street,1948,110,Drama,73
-209,Firehouse,1987,91,Comedy,66
-210,Morituri,1965,123,Drama,9
-211,From the Life of the Marionettes,1980,104,Drama,58
-212,Frantic,1988,120,Mystery,17
-213,Coma,1978,114,Science Fiction,64
-214,Dead Ringers,1988,117,Drama,29
-215,Golden Ninja Invasion,1988,90,Action,13
-216,"Exorcist, The",1973,122,Horror,28
-217,Alice Doesn't Live Here Anymore,1975,112,Comedy,82
-218,"Eyes of the Amaryllis, The",1982,94,Drama,70
-219,What Price Glory?,1952,109,War,4
-220,Inauguration of the Pleasure Dome,1954,40,Short,62
-221,School Daze,1989,114,Comedy,18
-222,"End of Innocence, The",1990,102,Drama,6
-223,"Anderson Tapes, The",1971,98,Mystery,1
-224,"Father Murphy, A Horse from Heaven",1983,50,Comedy,28
-225,Skull,1989,80,Drama,19
-226,"Quick & The Dead, The",1987,91,Western,40
-227,Best Defense,1984,94,Comedy,75
-228,Dreamscape,1984,99,Science Fiction,63
-229,Black Rain,1989,125,Action,73
-230,8 1/2,1963,138,Drama,80
-231,One Frightened Night,1935,64,Horror,33
-232,"Year My Voice Broke, The",1988,103,Drama,71
-233,Is Paris Burning?,1966,175,War,63
-234,QB VII,1974,313,Drama,28
-235,"Island of Dr. Moreau, The",1977,104,Horror,54
-236,Beyond the Limit,1983,104,Drama,51
-237,Secret Agent,1936,84,Mystery,50
-238,Paramount Comedy Theater: Well-Developed,1986,71,Comedy,40
-239,"Big Bust Out, The",1972,71,Action,50
-240,"Fourth Protocol, The",1987,119,Mystery,14
-241,Gremlins 2: The New Batch,1990,107,Comedy,61
-242,Fast Times at Ridgemont High,1982,92,Comedy,65
-243,Mannequin,1987,,Comedy,23
-244,Rabid,1977,91,Horror,34
-245,"Party, The",1990,,Comedy,32
-246,"Vampire Raiders, Ninja Queen",1989,90,Action,15
-247,Bloopers from Star Trek,1970,26,Comedy,22
-248,Destroyer,1943,99,Action,87
-249,Party Girl,1992,99,Comedy,85
-250,Twin Peaks,1989,113,Mystery,86
-251,Moonstruck,1987,103,Comedy,6
-252,"Witches of Eastwick, The",1987,119,Comedy,8
-253,Moonraker,1979,128,Action,32
-254,Beat Street,1984,106,Drama,72
-255,Running Out of Luck,1986,88,Comedy,16
-256,Never on Tuesday,1989,90,Drama,77
-257,Shampoo,1975,109,Comedy,69
-258,Power,1985,111,Drama,43
-259,Darling,1965,122,Drama,44
-260,"Ugly American, The",1963,120,Drama,63
-261,Ambassador Bill,1931,68,Comedy,66
-262,"Big Trail, The",1931,110,Western,22
-263,Hombre,1967,111,Western,50
-264,Coogan's Bluff,1968,103,Action,57
-265,Penn & Teller Get Killed,1989,91,Comedy,12
-266,Shy People,1987,118,Drama,7
-267,It's My Turn,1980,91,Comedy,0
-268,Dangerous Liaisons,1988,119,Drama,77
-269,Reversal of Fortune,1990,111,Drama,73
-270,Meeting Venus,1991,119,Comedy,74
-271,Tomorrow Is Forever,1946,105,Drama,65
-272,Like Father Like Son,1987,101,Comedy,20
-273,Rope,1948,81,Drama,39
-274,Road to Hong Kong,1962,91,Comedy,37
-275,Shirley Valentine,1989,108,Comedy,51
-276,City of Joy,1992,135,Drama,87
-277,"Appaloosa, The",1966,99,Western,15
-278,Seven Minutes in Heaven,1986,88,Comedy,49
-279,"Hearts of Darkness, A Filmmaker's Apocalypse",1991,96,Drama,72
-280,Tonight for Sure,1961,66,Comedy,4
-281,"White Hunter, Black Heart",1990,110,Adventure,66
-282,Sundays & Cybele,1962,110,Drama,11
-283,Puppet Master,1989,90,Science Fiction,20
-284,Night Gallery,1991,95,Horror,31
-285,Pet Sematary,1989,103,Horror,27
-286,"America's Music, Gospel",1992,60,Music,13
-287,Slap Shot,1977,123,Comedy,82
-288,O. C. & Stiggs,1987,109,Comedy,3
-289,A Fish Called Wanda,1988,108,Comedy,7
-290,A Lesson in Love,1954,96,Comedy,48
-291,Brink of Life,1957,82,Drama,57
-292,Betty Blue,1986,120,Drama,71
-293,Hair,1979,122,Music,67
-294,National Lampoon's Christmas Vacation,1989,97,Comedy,81
-295,"Dersu Uzala, (The Hunter)",1974,124,Adventure,81
-296,Alice,1990,106,Comedy,22
-297,"Fifth Floor, The",1980,90,Mystery,74
-298,Snow Kill,1990,94,Drama,35
-299,"People, The",1971,74,Drama,36
-300,True Grit,1969,128,Western,77
-301,"Battle of Midway, The",1942,18,War,75
-302,Three Godfathers,1948,103,Western,72
-303,"Hush, Hush, Sweet Charlotte",1965,133,Mystery,68
-304,A Stolen Life,1946,110,Drama,20
-305,"Old Maid, The",1939,96,Drama,18
-306,All about Eve,1950,138,Drama,23
-307,"Fly, The",1986,96,Horror,33
-308,Quick Change,1990,89,Comedy,24
-309,"Lair of the White Worm, The",1988,93,Horror,16
-310,"Rainbow, The",1989,104,Drama,53
-311,"Man Who Knew Too Much, The",1956,120,Mystery,15
-312,Beauty & the Beast,1992,90,Science Fiction,14
-313,Foreign Correspondent,1940,120,Mystery,61
-314,"Heiress, The",1949,115,Drama,81
-315,"Boy Who Could Fly, The",1986,120,Drama,25
-316,"Terrorists, The",1975,89,Action,4
-317,Wheel of Fortune,1942,85,Drama,36
-318,Do the Right Thing,1989,120,Drama,5
-319,"Court-Martial of Jackie Robinson, The",1990,93,Drama,33
-320,Elvira Madigan,1967,90,Drama,28
-321,Hurricane Smith,1992,86,Action,16
-322,Fair Game,1987,86,Action,24
-323,"Rape of the Sabines, The",1989,95,Action,83
-324,Risky Business,1983,99,Comedy,28
-325,I Love All of You (Je Vous Aime),1980,103,Drama,40
-326,Love Songs,1986,108,Drama,15
-327,Le Choix des Armes,1983,114,Mystery,15
-328,Choice of Arms,1981,135,Action,87
-329,March or Die,1977,107,War,59
-330,"Last Metro, The",1980,135,Drama,66
-331,Jean de Florette,1986,120,Drama,87
-332,Fat Man & Little Boy,1989,127,Drama,86
-333,Wild at Heart,1990,125,Drama,6
-334,Family Business,1989,113,Action,5
-335,Stand & Deliver,1988,103,Drama,19
-336,Looker,1981,94,Science Fiction,62
-337,Fire & Rain,1989,89,Action,10
-338,"Best of Candid Camera, The",1990,56,Comedy,12
-339,Seven Sinners,1940,83,Drama,24
-340,Judgment at Nuremberg,1961,190,Drama,39
-341,Minsky's Follies,1989,60,Comedy,12
-342,"Novice, The",1990,97,Comedy,72
-343,Wings of Desire,1987,130,Drama,71
-344,Until the End of the World,1991,158,Drama,57
-345,Castaway,1987,118,Drama,41
-346,"Alfred Hitchcock Presents, Sorcerer's Apprentice",1993,30,Mystery,60
-347,Delicatessen,1991,99,Comedy,78
-348,"Great Train Robbery, The",1979,110,Mystery,7
-349,Hanover Street,1991,110,Drama,81
-350,Hunchback,1991,102,Drama,33
-351,My Darling Clementine,1946,97,Western,12
-352,Wagon Master,1950,86,Western,30
-353,She Wore a Yellow Ribbon,1949,93,Western,84
-354,Fantasy Man,1985,90,Comedy,82
-355,Monster in the Closet,1986,87,Comedy,39
-356,Double Edge,1992,85,Drama,69
-357,Network,1976,116,Comedy,48
-358,Chinatown,1974,131,Drama,55
-359,Three Days of the Condor,1975,117,Drama,87
-360,Voyage of the Damned,1977,134,Drama,34
-361,Barfly,1987,97,Drama,23
-362,"Wait Until Spring, Bandini",1990,104,Drama,20
-363,Life with Father,1947,118,Comedy,10
-364,A Guy Named Joe,1943,,Drama,42
-365,Stavisky,1974,117,Drama,1
-366,Time Bandits,1981,117,Comedy,5
-367,"Shining, The",1980,144,Horror,32
-368,Flame of Barbary Coast,1945,91,Western,54
-369,"Naked Truth, The",1993,92,Comedy,34
-370,"Brood, The",1979,92,Horror,51
-371,"Molly Maguires, The",1970,123,Action,3
-372,Beverly Hills Cop,1984,105,Comedy,41
-373,Blind Man's Bluff,1991,86,Mystery,64
-374,La Dolce Vita,1961,140,Drama,20
-375,After the Fox,1966,103,Comedy,60
-376,"Man with the Golden Gun, The",1974,127,Action,41
-377,Marbella,1985,96,Action,45
-378,"Bobo, The",1967,103,Comedy,80
-379,"Big Bands, The",1993,53,Music,48
-380,Killer Image.,1992,97,Mystery,8
-381,Kandyland,1987,94,Drama,41
-382,Campus Man,1987,94,Drama,38
-383,Jubal,1956,101,Drama,32
-384,"Purple Rose of Cairo, The",1985,84,Comedy,20
-385,Broadway Danny Rose,1984,85,Comedy,14
-386,Husbands & Wives,1992,108,Comedy,80
-387,Hannah & Her Sisters,1986,103,Comedy,8
-388,Hurricane,1979,115,Action,8
-389,Between Two Women,1986,95,Drama,52
-390,"Cannonball Run, The",1981,96,Comedy,80
-391,Doughnuts & Society,1936,70,Comedy,28
-392,Holocaust,1978,450,Drama,1
-393,Meridian,1990,103,Science Fiction,47
-394,Diary of a Hitman,1992,90,Drama,67
-395,Gor,1988,95,Action,2
-396,Surrender,1987,95,Comedy,84
-397,Places in the Heart,1984,112,Drama,83
-398,Not Without My Daughter,1991,106,Drama,55
-399,Heroes,1977,113,Drama,17
-400,Absence of Malice,1981,116,Drama,76
-401,Norma Rae,1979,110,Drama,64
-402,Steel Magnolias,1989,118,Drama,66
-403,"Burbs, The",1989,101,Comedy,42
-404,"Empire Strikes Back, The",1980,124,Science Fiction,33
-405,Star Wars,1977,121,Science Fiction,44
-406,Return of the Jedi,1983,132,Science Fiction,4
-407,Hear My Song,1991,104,Drama,72
-408,Slightly Scarlet,1956,99,Action,52
-409,Gunfight at the OK Corral,1957,120,Western,84
-410,"Range Feud, The",1931,,Western,51
-411,Bloodsucking Pharaohs in Pittsburgh,1990,89,Comedy,79
-412,Roma,1972,129,Drama,75
-413,"China Syndrome, The",1979,122,Drama,43
-414,"Morning After, The",1986,100,Mystery,6
-415,Klute,1971,114,Drama,15
-416,"Electric Horseman, The",1979,113,Comedy,34
-417,Cat Ballou,1965,97,Comedy,62
-418,Coming Home,1991,,Drama,1
-419,Rebecca,1940,130,Drama,78
-420,Jane Eyre,1944,96,Drama,44
-421,Stacey!,1973,87,Action,31
-422,Naked Obsession,1992,85,Mystery,26
-423,"Stripped to Kill II, Live Girls",1989,83,Mystery,80
-424,"Rain Killer, The",1990,94,Mystery,10
-425,Valley Girl,1983,95,Comedy,30
-426,"Silence of the Lambs, The",1991,118,Mystery,8
-427,Stealing Home,1988,98,Drama,76
-428,Napoleon & Samantha,1972,92,Comedy,33
-429,Five Corners,1988,,Drama,88
-430,"Blackboard Jungle, The",1955,,Drama,66
-431,My Left Foot,1989,103,Drama,32
-432,Back to the Beach,1987,92,Comedy,45
-433,"Painted Veil, The",1934,85,Drama,57
-434,Inspiration,1931,74,Drama,66
-435,Anna Christie,1930,92,Drama,0
-436,"Flesh & the Devil, The",1926,109,Drama,72
-437,Woman of Affairs,1928,90,Drama,83
-438,Anna Karenina,1935,96,Drama,35
-439,Camille,1936,110,Drama,74
-440,Mata Hari,1931,91,Drama,67
-441,Wild Orchids,1929,100,Drama,70
-442,Grand Hotel,1932,112,Drama,81
-443,"Susan Lennox, Her Fall & Rise",1931,84,Drama,64
-444,Ninotchka,1939,108,Comedy,40
-445,Queen Christina,1933,97,Drama,82
-446,"Mysterious Lady, The",1928,96,Drama,72
-447,Joyless Street,1925,125,Drama,73
-448,"Single Standard, The",1929,74,Drama,73
-449,As You Desire Me,1932,71,Drama,85
-450,Romance,1930,76,Drama,62
-451,A Child Is Waiting,1962,105,Drama,60
-452,Tootsie,1982,116,Comedy,8
-453,Let It Ride,1989,86,Comedy,88
-454,Julius Caesar,1953,120,Drama,50
-455,Nineteen Forty-One,1979,120,Comedy,24
-456,Jaws,1975,124,Action,6
-457,Hot Pursuit,1987,93,Drama,44
-458,Triumph of the Spirit,1989,120,Drama,49
-459,Brannigan,1975,111,Drama,64
-460,Buffet Froid,1979,89,Comedy,75
-461,Salvador,1986,122,Drama,77
-462,"Horse Soldiers, The",1959,102,Western,76
-463,Long John Silver,1954,108,Action,56
-464,"Hustler, The",1961,134,Drama,43
-465,"Star Chamber, The",1983,109,Drama,3
-466,Clara's Heart,1988,100,Drama,60
-467,Burglar,1987,102,Comedy,44
-468,Comic Relief,1986,120,Comedy,69
-469,Bloodbrothers,1978,117,Drama,11
-470,Rain Man,1988,134,Drama,8
-471,Masculine Feminine,1966,95,Drama,20
-472,"Outer Limits, The",1964,51,Science Fiction,27
-473,Mama's Dirty Girls,1988,,Horror,62
-474,"Last Ride of the Dalton Gang, The",1979,180,Western,62
-475,Why Me?,1991,,Comedy,74
-476,Number Seventeen,1932,66,Crime,66
-477,Manhunter,1986,120,Drama,19
-478,"Bonfire of the Vanities, The",1990,126,Drama,82
-479,Working Girl,1988,115,Comedy,25
-480,Shining Through,1992,133,Mystery,11
-481,Slumber Party Massacre III,1991,76,Horror,40
-482,Tokyo Pop,1988,99,Comedy,2
-483,Terminator 2,1991,136,Action,8
-484,"Terminator, The",1984,108,Action,17
-485,King Kong Lives!,1986,105,Action,20
-486,Those Daring Young Men in Their Jaunty,1969,125,Comedy,59
-487,At Play in the Fields of the Lord,1991,186,Drama,81
-488,Crazy People,1990,,Comedy,61
-489,Memoirs of an Invisible Man,1992,99,Comedy,58
-490,"Clan of the Cave Bear, The",1985,100,Drama,73
-491,"Final Terror, The",1983,82,Horror,24
-492,Reckless,1984,93,Drama,14
-493,High Spirits,1989,,Comedy,53
-494,Roxanne,1987,107,Comedy,66
-495,Blade Runner,1982,117,Action,1
-496,Wall Street,1987,126,Drama,6
-497,Pope of Greenwich Village,1992,111,Drama,58
-498,After School,1989,89,Drama,59
-499,Flaming Frontiers,1938,298,Western,82
-500,Libeled Lady,1936,89,Comedy,86
-501,Inserts,1976,99,Drama,85
-502,"Blue Iguana, The",1988,88,Drama,65
-503,Tender Mercies,1983,93,Drama,61
-504,Nights in White Satin,1987,96,Drama,5
-505,Videodrome,1989,87,Horror,36
-506,Intimate Stranger,1991,96,Mystery,23
-507,Highlander,1986,110,Science Fiction,8
-508,Bodycount,1987,93,Action,51
-509,Tango & Cash,1989,104,Action,9
-510,There's a Girl in My Soup,1970,94,Comedy,41
-511,Swing Shift,1984,100,Drama,81
-512,Foul Play,1978,112,Comedy,46
-513,Best Friends,1982,109,Comedy,74
-514,Butterflies Are Free,1972,109,Drama,82
-515,Overboard,1987,112,Comedy,6
-516,"Girl from Petrovka, The",1974,103,Drama,23
-517,Housesitter,1992,102,Comedy,14
-518,Wildcats,1986,106,Comedy,22
-519,Protocol,1984,100,Comedy,53
-520,Seems Like Old Times,1980,102,Comedy,49
-521,"Sugarland Express, The",1974,109,Drama,28
-522,Private Benjamin,1980,110,Comedy,61
-523,Deceived,1991,115,Mystery,55
-524,Arrowsmith,1931,95,Drama,84
-525,Say Goodbye Maggie Cole,1972,78,Drama,84
-526,Circus World,1964,132,Drama,29
-527,Affair in Trinidad,1952,98,Drama,49
-528,Lady from Shanghai,1948,87,Mystery,16
-529,Lady in Question,1940,81,Drama,57
-530,Gilda,1946,110,Drama,57
-531,"Loves of Carmen, The",1948,98,Drama,48
-532,Dick Tracy,1990,105,Comedy,84
-533,Marnie,1964,130,Drama,2
-534,Hot Child in the City,1987,85,Mystery,0
-535,Johnny Dangerously,1984,90,Comedy,3
-536,Stark,1985,95,Mystery,27
-537,Three Strange Loves,1949,84,Drama,87
-538,My Fair Lady,1964,170,Music,10
-539,"Unforgiven, The",1960,123,Drama,32
-540,Robin & Marian,1976,106,Action,6
-541,"Children's Hour, The",1961,109,Drama,60
-542,"Rainmaker, The",1956,121,Drama,21
-543,Pat & Mike,1952,95,Comedy,48
-544,"Lion in Winter, THe",1968,134,Drama,78
-545,"Sea of Grass, The",1991,132,Western,75
-546,Guess Who's Coming to Dinner,1967,108,Drama,50
-547,Desk Set,1957,153,Comedy,51
-548,Rooster Cogburn,1975,107,Western,76
-549,On Golden Pond,1981,109,Drama,23
-550,Adam's Rib,1991,101,Comedy,62
-551,Boom Town,1991,116,Drama,73
-552,Dragon Seed,1991,145,Drama,34
-553,Little Women,1991,115,Drama,22
-554,"Philadelphia Story, The",1991,113,Comedy,25
-555,Without Love,1991,112,Comedy,66
-556,Woman of the Year,1991,113,Comedy,12
-557,Juice,1992,95,Drama,31
-558,Hoosiers,1986,114,Drama,2
-559,Tin Men,1987,112,Comedy,50
-560,"Last Temptation of Christ, The",1988,163,Drama,32
-561,Paris Trout,1991,99,Drama,53
-562,Souvenir,1988,87,Drama,42
-563,A Man for All Seasons,1966,120,Drama,20
-564,Knights & Emeralds,1986,90,Drama,
-565,Masque of the Red Death,1989,83,Horror,9
-566,"Adventures of Smilin' Jack, The",1943,265,Mystery,77
-567,Adventures in Dinosaur City,1992,88,Action,19
-568,"Allnighter, The",1987,95,Comedy,71
-569,Caddyshack,1980,99,Comedy,70
-570,Tom Sawyer,1973,102,Music,11
-571,"Rita, Sue & Bob Too",1987,94,Comedy,5
-572,Hawk of Powder River,1947,56,Western,61
-573,Tempest,1928,148,Drama,33
-574,Running Mates,1986,90,Drama,63
-575,Prettykill,1987,105,Drama,71
-576,Judge Priest,1934,80,Drama,9
-577,Harvey,1950,104,Comedy,42
-578,If Looks Could Kill,1991,89,Action,10
-579,Raising Arizona,1987,94,Comedy,23
-580,Once Around,1989,114,Comedy,68
-581,Loulou,1980,110,Drama,65
-582,"World According to Garp, The",1982,136,Drama,59
-583,Virus,1980,106,Science Fiction,62
-584,Northwest Passage,1940,127,Action,51
-585,Gardens of Stone,1987,112,Drama,27
-586,"Enemies, a Love Story",1989,121,Drama,5
-587,"Addams Family, The",1992,102,Comedy,8
-588,Freaks,1932,65,Horror,61
-589,Necessary Roughness,1991,108,Comedy,60
-590,A Show of Force,1990,93,Drama,1
-591,"Competition, The",1980,129,Drama,45
-592,Crossing Delancey,1988,97,Comedy,6
-593,"State of Things, The",1982,120,Drama,73
-594,Business As Usual,1987,89,Comedy,17
-595,A Touch of Class,1973,103,Comedy,79
-596,Women in Love.,1970,129,Drama,18
-597,Salome's Last Dance,1988,89,Comedy,76
-598,Casino,1986,100,Mystery,5
-599,Smiles of a Summer Night,1955,108,Comedy,58
-600,New Year's Day,1989,90,Comedy,88
-601,Mephisto,1981,132,Drama,80
-602,Easy Virtue,1927,60,Mystery,45
-603,Swing It Sailor!,1937,59,Comedy,6
-604,Strictly Business,1991,83,Comedy,3
-605,Blame It on Rio,1983,90,Comedy,10
-606,Straight to Hell,1987,86,Action,47
-607,A View to a Kill,1990,131,Action,44
-608,American Anthem,1986,100,Drama,74
-609,Bedtime Story,1963,99,Comedy,7
-610,"Courtship of Eddie's Father, The",1991,117,Comedy,43
-611,"Night Train to Katmandu, THe",1988,102,Action,43
-612,Port of Call,1948,100,Drama,29
-613,Paper Moon,1973,103,Comedy,3
-614,Yellowbeard,1983,97,Comedy,34
-615,Adventures of Sherlock Holmes' Smarter,1975,91,Comedy,42
-616,Flashback,1990,108,Comedy,19
-617,"World's Greatest Lover, The",1977,89,Comedy,42
-618,Killer's Kiss,1955,67,Mystery,66
-619,"Deceivers, The",1988,103,Action,14
-620,Breathless,1983,97,Action,51
-621,Born on the Fourth of July,1989,145,Drama,8
-622,Awakenings,1991,120,Drama,8
-623,Annie Hall,1977,94,Comedy,68
-624,Manhattan,1979,96,Comedy,82
-625,Reds,1981,195,Drama,76
-626,Crimes of the Heart,1986,105,Comedy,84
-627,Looking for Mr. Goodbar,1977,136,Drama,54
-628,"Godfather, The",1972,175,Drama,8
-629,"Godfather, Pt 2., The",1974,201,Drama,8
-630,"I Will, I Will...For Now",1976,109,Comedy,6
-631,"Play It Again, Sam",1972,86,Comedy,81
-632,Love & Death,1975,82,Comedy,84
-633,Sleeper,1973,88,Comedy,59
-634,Fellini Satyricon,1970,130,Drama,88
-635,"Formula, The",1980,117,Mystery,82
-636,Black Sunday,1977,143,Drama,76
-637,Bobby Deerfield,1977,124,Drama,36
-638,Last of the Red Hot Lovers,1972,98,Comedy,40
-639,Mogambo,1953,116,Action,71
-640,To Catch a Thief,1955,103,Mystery,69
-641,Rear Window,1954,113,Mystery,25
-642,Woman Who Came Back,1945,69,Drama,26
-643,Stanley & Livingstone,1939,101,Action,11
-644,"Bad Seed, The",1956,129,Horror,69
-645,Lethal Weapon 2,1989,113,Action,69
-646,Blame It on the Bellboy,1992,79,Comedy,69
-647,"Drop Kick, The",1927,62,Drama,
-648,"Superman, The Movie",1978,145,Action,87
-649,Superman IV: The Quest for Peace,1987,90,Action,77
-650,Quackser Fortune Has a Cousin in the Bronx,1970,90,Comedy,49
-651,Dead Calm,1989,96,Mystery,1
-652,Days of Thunder,1990,107,Action,3
-653,My Life As a Dog,1987,101,Comedy,21
-654,"Moon in the Gutter, The",1983,,Action,29
-655,"Paris, Texas",1984,150,Drama,27
-656,Unfaithfully Yours,1984,96,Comedy,73
-657,Bullseye!,1987,95,Comedy,8
-658,Erik the Viking,1989,104,Action,25
-659,Dragonard,1987,90,Drama,71
-660,Hard Choices,1986,90,Drama,41
-661,"Rain People, The",1969,102,Drama,78
-662,A Year of the Quiet Sun,1984,106,Drama,78
-663,"Desert Trail, The",1935,54,Western,50
-664,Almost an Angel,1990,98,Comedy,14
-665,Crocodile Dundee,1986,98,Comedy,66
-666,"American Friend, The",1977,127,Mystery,35
-667,See You in the Morning,1989,119,Drama,53
-668,"Arrogant, The",1987,88,Drama,62
-669,Dracula's Widow,1989,86,Horror,55
-670,Ninja Masters of Death,1987,90,Action,15
-671,Mystery Train,1990,110,Comedy,23
-672,Go Tell the Spartans,1978,114,War,67
-673,True Stories,1986,89,Comedy,79
-674,Ugetsu Monogatari,1953,94,Drama,82
-675,Rebel Rousers,1969,80,Action,44
-676,Plain Clothes,1988,98,Comedy,4
-677,"Whose Life Is It, Anyway?",1981,119,Drama,62
-678,Running on Empty,1988,116,Drama,2
-679,Funny about Love,1990,101,Comedy,60
-680,"A Chorus Line, The Movie",1985,118,Music,71
-681,Stewardess School,1986,84,Comedy,28
-682,"Big Town, The",1987,109,Drama,11
-683,Rumble Fish,1983,94,Drama,4
-684,"Outsiders, The",1983,91,Drama,56
-685,Priceless Beauty,1990,94,Science Fiction,7
-686,Streets of Fire,1989,93,Action,65
-687,Men Don't Leave,1990,115,Drama,66
-688,Everybody's All American,1988,127,Romance,62
-689,Cape Fear,1992,128,Mystery,7
-690,"Postman Always Rings Twice, The",1992,121,Mystery,24
-691,Crashing Thru,1949,58,Western,19
-692,Get Out Your Handkerchiefs,1978,109,Comedy,78
-693,"Boy Friend, THe",1971,137,Music,8
-694,Hard To Kill,1990,100,Action,49
-695,Psycho,1960,109,Horror,56
-696,Jet Pilot,1957,112,Action,43
-697,Under Cover,1987,95,Mystery,36
-698,A Streetcar Named Desire,1951,122,Drama,75
-699,"Golden Child, The",1986,93,Comedy,86
-700,"Statue, The",1971,84,Drama,80
-701,Christopher Columbus,1985,128,Drama,69
-702,In Country,1989,116,Drama,76
-703,"Wild Geese, The",1978,132,Action,21
-704,"Second Coming of Suzanne., The",1974,90,Drama,21
-705,Bronco Billy,1980,116,Westerns,57
-706,"Gauntlet, The",1977,109,Action,18
-707,Ratboy,1986,105,Drama,1
-708,Lady Vanishes,1938,96,Mystery,27
-709,"Kitchen Toto, THe",1987,95,Drama,41
-710,Carlton-Browne of the F.O.,1959,88,Comedy,63
-711,Racketeer,1929,68,Drama,2
-712,Mr. & Mrs. Smith,1941,95,Comedy,3
-713,Alrededor de Medianoche,1986,132,Drama,47
-714,Losin' It,1982,101,Comedy,4
-715,Into the Homeland,1987,114,Action,34
-716,Boxing Babes,1991,60,Action,9
-717,Shock 'em Dead,1991,94,Horror,31
-718,Heller in Pink Tights,1960,101,Drama,52
-719,Two Women,1961,100,Drama,83
-720,"Gold of Naples, The",1954,107,Drama,40
-721,"Yesterday, Today & Tomorrow",1963,118,Comedy,73
-722,Legend of the Lost,1957,109,Action,84
-723,Brass Target,1978,111,Action,53
-724,"Fall of the Roman Empire, The",1964,188,Drama,62
-725,El Cid,1961,172,Drama,10
-726,Desire under the Elms,1958,114,Drama,13
-727,Two Nights with Cleo,1953,92,Drama,54
-728,"Black Orchid, The",1959,,Drama,54
-729,Angela,1977,91,Drama,80
-730,A Special Day,1977,105,Drama,80
-731,Blood Feud,1979,112,Action,52
-732,"Sophia Loren, Her Own Story",1991,145,Drama,49
-733,Running Away,1990,,Drama,2
-734,Man of La Mancha,1991,130,Music,55
-735,Operation Crossbow,1992,116,Action,1
-736,Courage,1986,141,Drama,56
-737,RAD,1986,94,Action,75
-738,Secret Admirer,1992,98,Comedy,55
-739,Cocaine Cowboys,1979,85,Action,17
-740,Test Pilot,1991,118,Drama,13
-741,"Ape Man, The",1943,64,Horror,83
-742,"Mission, The",1986,125,Drama,20
-743,Curly Sue,1991,102,Comedy,2
-744,Lolita,1962,150,Drama,80
-745,"Sex, Lies, and Videotape",1989,101,Drama,70
-746,Green Card,1990,107,Comedy,25
-747,Gator Bait II,1988,95,Action,73
-748,Being There,1979,129,Comedy,31
-749,Terms of Endearment,1983,132,Drama,32
-750,Woman Times Seven,1967,99,Comedy,36
-751,"Bliss of Mrs. Blossom, The",1968,,Comedy,86
-752,Postcards from the Edge,1990,101,Comedy,63
-753,Two Mules for Sister Sara,1970,105,Western,36
-754,Dragonfight,1992,84,Drama,71
-755,Back Door to Heaven,1939,85,Drama,83
-756,"Ciao Italia, Madonna Live from Italy",1988,100,Music,74
-757,"Madonna, Truth or Dare",1991,118,Music,54
-758,A Certain Sacrifice,1992,60,Music,24
-759,"National Enquirer, The Untold Story",1991,40,Music,65
-760,"Immaculate Collection, The",1990,60,Music,32
-761,"Madonna Live, The Virgin Tour",1987,50,Music,75
-762,"Madonna, Justify My Love",1990,5,Music,77
-763,"Madonna, Like a Virgin",1991,16,Music,63
-764,Hot to Trot,1988,83,Comedy,78
-765,Fire with Fire,1986,103,Drama,9
-766,Hot Spot,1990,120,Drama,70
-767,Amarcord,1974,124,Drama,50
-768,Casablanca Express,1988,85,Action,33
-769,Out of the Blue,1980,94,Drama,4
-770,Sands of Iwo Jima,1949,110,War,72
-771,"Hand, The",1981,104,Horror,44
-772,Deep Cover,1989,81,Mystery,15
-773,Il Bidone,1955,92,Drama,70
-774,El Guerrero Solitario,1986,130,Drama,77
-775,Heartbreak Ridge,1986,130,War,61
-776,"Goodbye Girl, The",1977,110,Comedy,6
-777,Audrey Rose,1991,113,Drama,62
-778,Polyester,1981,86,Comedy,68
-779,Robin Hood: Prince of Thieves,1991,144,Action,8
-780,White Sands,1992,101,Drama,38
-781,"Color of Money, The",1986,119,Drama,6
-782,Children of a Lesser God,1986,119,Drama,20
-783,Matador,1986,,Comedy,34
-784,Women on the Verge of a Nervous Breakdown,1989,88,Comedy,65
-785,Pepi Luci Bom,1980,86,Comedy,66
-786,"Forgotten, The",1989,100,Mystery,69
-787,"Flame & the Arrow, The",1992,89,Action,0
-788,After the Shock,1990,92,Drama,28
-789,Modern Love,1990,110,Comedy,18
-790,Riff Raff,1992,95,Comedy,71
-791,"Glory Stompers, The",1967,81,Action,27
-792,Dances with Wolves,1990,181,Western,8
-793,Matewan,1987,130,Drama,81
-794,Mississippi Burning,1988,120,Drama,41
-795,"Eiger Sanction, The",1975,130,Action,69
-796,Unsettled Land,1988,109,Drama,75
-797,Cat Chaser,1991,98,Drama,6
-798,"Accused, The",1988,110,Drama,71
-799,Winter People,1989,109,Drama,30
-800,"Reuben, Reuben",1983,101,Comedy,2
-801,Made in Heaven,1987,102,Fantasy,57
-802,Top Gun,1986,109,Action,8
-803,Witness,1985,112,Drama,59
-804,"House on Carroll Street, The",1988,111,Mystery,6
-805,Racing with the Moon,1984,109,Drama,50
-806,Lovesick,1983,98,Comedy,51
-807,She's Having a Baby,1988,106,Comedy,18
-808,"Greatest Story Ever Told, The",1965,199,Drama,26
-809,Hawks,1989,105,Drama,11
-810,So Fine,1981,91,Comedy,17
-811,Paths of Glory,1957,89,Drama,47
-812,Tom Jones,1964,120,Drama,39
-813,"Sunshine Boys, The",1975,103,Comedy,35
-814,Caddyshack 2,1988,98,Comedy,34
-815,Internal Affairs,1990,117,Drama,3
-816,JFK,1991,206,Drama,78
-817,New Jack City,1991,97,Action,80
-818,Scenes from a Mall,1991,87,Comedy,8
-819,Hope & Glory,1987,118,War,3
-820,Ryan's Daughter,1970,194,Drama,81
-821,"Man Who Loved Cat Dancing, The",1973,127,Western,40
-822,"Man Who Shot Liberty Valance, The",1962,123,Western,85
-823,Dead-Bang,1989,102,Action,9
-824,Big Top Pee-wee,1988,90,Comedy,17
-825,"Time Machine, The",1960,103,Science Fiction,88
-826,Cabaret,1972,128,Drama,59
-827,Arthur,1981,97,Comedy,79
-828,A Matter of Time,1976,97,Drama,70
-829,"New York, New York",1977,137,Drama,8
-830,"Nightmare on Elm Street, Pt. 5, The Dream Child",1989,89,Horror,41
-831,"Fiendish Plot of Dr. Fu Manchu, The",1980,100,Comedy,29
-832,Four American Composers,1991,240,Music,3
-833,"Asphalt Jungle, The",1950,112,Action,77
-834,Ladies of the Chorus,1992,61,Music,60
-835,How to Marry a Millionaire,1953,95,Comedy,65
-836,Hollywood Out-Takes & Rare Footage,1983,,Comedy,27
-837,Nothing But Trouble,1991,94,Comedy,25
-838,Wisdom,1987,109,Action,25
-839,One Crazy Summer,1986,94,Comedy,61
-840,We're No Angels,1989,110,Comedy,51
-841,No Small Affair,1984,102,Comedy,10
-842,Ghost,1990,127,Science Fiction,6
-843,About Last Night,1986,113,Drama,66
-844,Six Weeks,1982,107,Drama,73
-845,Return of October,1948,89,Comedy,35
-846,"Come Back, Little Sheba",1952,99,Drama,50
-847,Going Places,1974,117,Drama,66
-848,Monte Walsh,1970,99,Western,29
-849,Mr. Arkadin,1955,100,Drama,80
-850,White of the Eye,1988,,Mystery,48
-851,"Producers, The",1968,90,Comedy,33
-852,"Front, The",1976,94,Drama,70
-853,House of the Rising Sun,1987,86,Drama,45
-854,In a Shallow Grave,1988,91,Drama,72
-855,Mc Q,1974,111,Action,73
-856,Lady from Louisiana,1941,85,Drama,38
-857,Wait Until Spring Bandini,1990,102,Drama,29
-858,"Long Voyage Home, The",1940,105,Drama,88
-859,"Trouble with Harry, The",1955,100,Mystery,28
-860,Encounters,1987,60,Drama,44
-861,Hud,1963,112,Drama,2
-862,Operation Pacific,1951,111,War,5
-863,Surf Nazis Must Die,1987,83,Horror,50
-864,Teahouse of the August Moon,1956,124,Drama,11
-865,Back in the U.S.S.R.,1992,88,Action,61
-866,"Man Who Haunted Himself, The",1970,91,Drama,75
-867,Prisoner of Honor.,1991,108,Drama,58
-868,Control,1988,83,Drama,27
-869,Desert Rider,1923,57,Western,
-870,Wholly Moses!,1980,109,Comedy,25
-871,Star Trek VI: The Undiscovered Country,1991,110,Science Fiction,11
-872,Star Trek V: The Final Frontier,1989,107,Action,87
-873,Circuitry Man,1991,85,Action,78
-874,Cobra,1986,87,Action,57
-875,Beverly Hills Cop II,1987,103,Comedy,37
-876,Red Sonja,1990,90,Action,40
-877,To Joy,1950,93,Drama,65
-878,Macbeth,1992,112,Drama,45
-879,Vertigo,1958,128,Drama,10
-880,Young Love: Lemon Popsicle Seven,1987,91,Comedy,47
-881,Crack-Up,1946,93,Mystery,25
-882,Bury Me Not on the Lone Prairie,1941,57,Western,85
-883,Law & Order,1940,57,Western,87
-884,Man from Montana,1941,56,Western,85
-885,"Long Gray Line, The",1992,137,Drama,26
-886,Rio Grande,1950,105,Western,64
-887,"Wings of Eagles, The",1957,107,Drama,29
-888,Jamaica Inn,1939,94,Drama,75
-889,Big Jake,1971,110,Action,68
-890,"Quiet Man, The",1992,153,Drama,74
-891,After the Rehearsal,1983,72,Drama,0
-892,Big Jim McLain,1952,90,Western,14
-893,Smith!,1969,101,Western,62
-894,"Wild One, The",1953,79,Drama,26
-895,"Manxman, The",1929,129,Drama,65
-896,International Velvet,1978,126,Drama,40
-897,Scanners,1981,104,Horror,32
-898,Trick or Treat,1986,98,Horror,47
-899,48 Hrs.,1982,92,Action,67
-900,"Trip to Bountiful, The",1985,108,Drama,62
-901,Mister Roberts,1955,116,Comedy,8
-902,Z,1969,127,Drama,72
-903,Maurice,1987,139,Drama,45
-904,Hamlet,1969,114,Drama,39
-905,La Femme Nikita,1991,117,Drama,6
-906,Honeymoon in Vegas,1993,95,Comedy,53
-907,Going for the Gold,1988,90,Action,10
-908,Shout at the Devil,1976,128,Action,0
-909,A Smoky Mountain Christmas,1986,94,Music,23
-910,Getting Physical,1984,95,Drama,75
-911,Torn Apart,1990,95,Drama,8
-912,From the Hip,1986,112,Comedy,36
-913,"Ratings Game, The",1984,102,Comedy,21
-914,Class Act,1992,100,Drama,88
-915,Water,1986,89,Comedy,47
-916,Silent Movie,1978,88,Comedy,27
-917,Pink Cadillac,1989,122,Comedy,12
-918,"Jerk, The",1979,94,Comedy,22
-919,Wild Times,1980,180,,75
-920,Sweet Liberty,1986,107,Comedy,12
-921,Grease II,1982,115,Music,64
-922,Married to the Mob,1989,104,Comedy,8
-923,Ladyhawke,1985,121,Adventure,68
-924,"Fabulous Baker Boys, The",1989,114,Drama,66
-925,Into the Night,1985,115,Comedy,62
-926,"Russia House, The",1991,124,Drama,3
-927,Tequila Sunrise,1988,116,Mystery,50
-928,B. A. D. Cats,1989,74,Action,87
-929,"Last Movie, The",1971,108,Drama,22
-930,Dillinger,1973,106,Drama,83
-931,Little Dorrit,1988,360,Drama,12
-932,My Best Girl,1927,78,Drama,31
-933,Seizure,1989,93,Horror,59
-934,A Chorus of Disapproval,1990,89,Comedy,0
-935,Rome Adventure,1962,119,Drama,39
-936,Drowning by Numbers,1992,121,Mystery,28
-937,Born to Ride,1991,88,Action,59
-938,Her Alibi,1988,94,Comedy,80
-939,Glitz,1988,96,Mystery,9
-940,Dangerous Pursuit,1990,95,Mystery,88
-941,Experiment in Terror,1962,123,Mystery,77
-942,"Hideaways, The",1972,105,Comedy,42
-943,What's New Pussycat,1965,108,Comedy,83
-944,What's New Pussycat?,1965,108,Comedy,46
-945,Packin' It In,1983,98,Comedy,8
-946,"Naked Gun: From the Files of Police Squad!, THe",1988,90,Comedy,9
-947,In Too Deep,1990,106,Drama,50
-948,Twins,1988,107,Comedy,23
-949,"Experts, The",1988,94,Comedy,67
-950,Naked Lie,1989,94,Drama,7
-951,Mistress,1987,87,Drama,36
-952,Pleasure Palace,1992,,Action,45
-953,Adam at 6 A.M.,1970,100,Drama,3
-954,Web of Deceit,1990,93,Drama,6
-955,New York Stories,1991,119,Comedy,6
-956,"Dreams Lost, Dreams Found",1987,97,Drama,66
-957,Au Revoir les Enfants,1987,103,Drama,35
-958,Quo Vadis,1989,122,Drama,6
-959,"Fighting Kentuckian, The",1949,100,Action,74
-960,Zardoz,1974,104,Science Fiction,6
-961,Police Academy 6: City under Siege,1989,84,Comedy,29
-962,Police Academy 5: Assignment Miami Beach,1988,90,Comedy,59
-963,Police Academy 3: Back in Training,1986,84,Comedy,6
-964,"America's Music, Blues",1991,60,Music,54
-965,Julia,1977,100,Drama,75
-966,"Devils, The",1971,111,Drama,69
-967,Ransom,1984,90,Drama,73
-968,Cadillac Man,1990,97,Comedy,28
-969,"Best of Times, The",1986,104,Comedy,88
-970,Death of a Salesman,1985,135,Drama,13
-971,It Started with a Kiss,1993,104,Drama,80
-972,"Money, The",1989,88,Drama,29
-973,Empire of the Sun,1987,153,Drama,6
-974,"Comfort of Strangers, The",1991,102,Mystery,5
-975,On Her Majesty's Secret Service,1969,135,Action,66
-976,Pretty in Pink,1986,96,Drama,75
-977,PK. & the Kid.,1987,90,Drama,49
-978,"Lone Star Trail, The",1943,60,Western,27
-979,Summer,1986,98,Comedy,11
-980,"Planes, Trains & Automobiles",1987,93,Comedy,73
-981,Pretty Woman,1990,119,Comedy,43
-982,Flatliners,1991,111,Drama,19
-983,Hook,1991,142,Action,4
-984,Riders of Pasco Basin,1940,56,Western,17
-985,"Gotta Dance, Gotta Sing",1992,53,Music,20
-986,Desperate Hours,1990,106,Mystery,58
-987,Gung Ho,1986,111,Comedy,59
-988,Shooting Elizabeth,1992,96,Mystery,5
-989,Strangers on a Train,1951,101,Mystery,17
-990,"Sacketts, The",1979,198,Western,86
-991,To Die Standing,1991,87,Action,53
-992,Rodeo Girl,1980,92,Drama,80
-993,Butch Cassidy & the Sundance Kid,1969,110,Western,29
-994,Hellfighters,1968,121,Action,22
-995,"Final Countdown, The",1980,92,Action,35
-996,Blue Velvet,1986,120,Mystery,6
-997,Cousins,1989,110,Comedy,28
-998,Black & White in Color,1976,90,Comedy,24
-999,Another Woman,1988,81,Drama,7
-1000,Night on Earth,1992,128,Drama,24
-1001,Permanent Record,1988,92,Drama,42
-1002,"Fisher King, The",1992,138,Drama,8
-1003,Another You,1991,98,Comedy,75
-1004,"Young Lions, The",1958,167,Drama,10
-1005,Cheerleader Camp,1988,89,Horror,79
-1006,Trapper County War,1990,98,Action,5
-1007,Angel & the Badman,1947,96,Western,84
-1008,Impulse,1990,109,Mystery,23
-1009,Track Twenty-Nine,1988,91,Drama,48
-1010,Freejack,1991,110,Action,26
-1011,"John Wayne Matinee Double Feature, No. 1",1939,109,Western,30
-1012,"Smallest Show on Earth, The",1988,81,Comedy,24
-1013,Innerspace,1987,120,Science Fiction,41
-1014,"Presidio, The",1988,97,Action,4
-1015,Joe Versus the Volcano,1990,102,Comedy,17
-1016,"Doors, The",1991,135,Drama,60
-1017,"Welcome Home, Roxy Carmichael",1990,98,Comedy,41
-1018,Cancel My Reservation,1972,99,Comedy,60
-1019,North by Northwest,1991,135,Mystery,20
-1020,"Russians Are Coming, the Russians Are, The",1966,127,Comedy,79
-1021,Exodus,1992,213,Drama,13
-1022,"Ballad of Narayama, The",1982,128,Drama,88
-1023,Out of the Darkness,1985,96,Mystery,86
-1024,"Garden of the Finzi-Continis, The",1971,90,Drama,42
-1025,Steppenwolf,1974,105,Drama,20
-1026,"Mackintosh Man, The",1973,100,Action,65
-1027,Partner,1968,105,Drama,26
-1028,"Conformist, The",1970,107,Drama,72
-1029,Dirty Harry,1971,102,Drama,72
-1030,Ferris Bueller's Day Off,1986,103,Comedy,12
-1031,Legend,1986,89,Science Fiction,42
-1032,"Buddy System, The",1984,110,Drama,48
-1033,A Dry White Season,1989,97,Drama,71
-1034,"Rocky Horror Picture Show, The",1975,105,Music,59
-1035,War & Peace,1968,360,Drama,80
-1036,Defense of the Realm,1992,96,Drama,79
-1037,Basil The Rat,1991,90,Comedy,9
-1038,"Fawlty Towers, Gourmet Night, Waldorf Salad & The Kipper & the Corpse",1979,90,Comedy,46
-1039,Going Under,1991,80,Comedy,30
-1040,U S. Sub Standard.,1990,83,Comedy,27
-1041,Hells Angels on Wheels,1990,,Action,1
-1042,"Passenger, The",1975,118,Drama,32
-1043,Last Tango in Paris,1973,127,Drama,28
-1044,Indigo Autumn & Lilac Dream,1987,155,Drama,72
-1045,"Kriemhild's Revenge, The Nibelungenlied",1924,95,Drama,74
-1046,Johnny Tiger,1966,102,Drama,69
-1047,Head Office,1986,90,Comedy,88
-1048,Live & Let Die,1990,,Action,62
-1049,Le Charme Discret de la Bourgeoisie,1972,100,Comedy,4
-1050,Blue City,1986,83,Action,38
-1051,Bad Boys,1983,123,Drama,7
-1052,"Whoopee Boys, The",1986,82,Comedy,54
-1053,"Last Picture Show, The",1971,118,Drama,62
-1054,"Diamond Trap, The",1988,93,Drama,58
-1055,Endless Love,1981,115,Drama,20
-1056,Rocky,1976,90,Drama,78
-1057,Cocktail,1988,103,Drama,13
-1058,Sabotage,1936,77,Mystery,74
-1059,Madame Rosa,1977,105,Drama,11
-1060,Fozzie's Muppet Scrapbook,1985,56,Comedy,86
-1061,Desiree,1954,110,Drama,22
-1062,Spartacus,1960,185,Drama,67
-1063,Guys & Dolls,1955,150,Comedy,70
-1064,Until They Sail,1992,95,Drama,77
-1065,Coming to America,1988,116,Comedy,11
-1066,Lilies of the Field,1963,93,Drama,36
-1067,River's Edge,1987,99,Drama,3
-1068,Ruthless People,1986,93,Comedy,84
-1069,"Secret of My Success, The",1987,110,Comedy,5
-1070,"Shop on Main Street, The",1965,128,Drama,37
-1071,Funny Farm,1988,101,Comedy,30
-1072,"Lonely Passion of Judith Hearne, The",1988,120,Drama,24
-1073,California Suite,1978,103,Comedy,11
-1074,Maximum Overdrive,1986,97,Horror,40
-1075,Pale Rider,1985,116,Western,45
-1076,"Kissing Place, The",1990,88,Drama,41
-1077,French Lesson,1986,90,Comedy,29
-1078,Roller Blade,1985,88,Action,31
-1079,A Shot in the Dark,1964,101,Comedy,51
-1080,"Treasure Seekers, The",1979,88,Action,2
-1081,Missing,1982,122,Drama,30
-1082,Picasso Trigger,1989,99,Action,20
-1083,Hard Ticket to Hawaii,1987,97,Action,36
-1084,Diamonds are Forever,1990,,Action,8
-1085,Baby Face,1933,72,Drama,66
-1086,"Violent Men, The",1992,95,Action,25
-1087,Cocoon,1985,117,Science Fiction,45
-1088,Clockwise,1986,96,Comedy,10
-1089,Romantic Comedy,1993,103,Comedy,8
-1090,Outland,1981,111,Science Fiction,7
-1091,Hang 'em High,1967,114,Western,67
-1092,Basic Instinct,1992,123,Mystery,41
-1093,Total Recall,1990,113,Action,8
-1094,Stakeout,1987,115,Comedy,13
-1095,"Unnamable II, The Statement of Randolph Carter, The",1992,104,Drama,36
-1096,"Trip, The",1967,85,Drama,64
-1097,Ironweed,1987,135,Drama,32
-1098,Kramer vs. Kramer,1979,,Drama,8
-1099,Still of the Night,1988,,Mystery,42
-1100,Defending Your Life,1991,112,Comedy,75
-1101,"Deer Hunter, The",1978,183,Drama,82
-1102,Falling in Love,1984,106,Drama,31
-1103,Heartburn,1986,108,Comedy,57
-1104,Silkwood,1983,131,Drama,52
-1105,Sophie's Choice,1982,151,Drama,64
-1106,Out of Africa,1985,161,Drama,88
-1107,"French Lieutenant's Woman, The",1981,127,Drama,37
-1108,Plenty,1985,124,Drama,9
-1109,A Cry in the Dark,1988,122,Drama,67
-1110,She-Devil,1989,99,Comedy,43
-1111,Death Becomes Her,1992,103,Drama,61
-1112,Kids & Pesticides,1991,28,Drama,36
-1113,On a Clear Day You Can See Forever,1970,129,Music,67
-1114,Nuts,1987,100,Drama,52
-1115,Yentl,1983,134,Music,46
-1116,Funny Girl,1968,151,Music,30
-1117,Fellow Traveller,1990,97,Drama,39
-1118,Dodesukaden,1970,140,Drama,75
-1119,"Sicilian, The",1987,,Drama,41
-1120,So Ends Our Night,1941,117,Drama,2
-1121,Sword of the Valiant,1984,102,Action,5
-1122,"Devil's Wanton, The",1949,78,Drama,66
-1123,Driving Miss Daisy,1989,99,Drama,6
-1124,"Seventh Cross, The",1991,111,Drama,35
-1125,Between Friends,1983,105,Drama,54
-1126,Raintree County,1957,173,Drama,74
-1127,"Driver's Seat, The",1975,101,Drama,72
-1128,Reflections in a Golden Eye,1967,109,Drama,81
-1129,"X, Y & Zee",1972,110,Drama,87
-1130,Secret Ceremony,1968,109,Drama,60
-1131,Cleopatra,1963,243,Drama,80
-1132,Father of the Bride,1950,,Comedy,54
-1133,Who's Afraid of Virginia Woolf?,1992,130,Drama,82
-1134,A Little Night Music,1977,110,Music,61
-1135,Giant,1956,201,Drama,61
-1136,"Rumor Mill, The",1985,94,Drama,62
-1137,Lassie Come Home,1943,90,Drama,79
-1138,Return Engagement,1993,76,Drama,26
-1139,Hammersmith Is Out,1972,108,Drama,80
-1140,Super Duper Bloopers,1991,60,Comedy,21
-1141,"Elizabeth Taylor Collection, The",1991,,Drama,21
-1142,Ash Wednesday,1973,99,Drama,54
-1143,"Last Time I Saw Paris, The",1991,117,Drama,13
-1144,Cimarron,1931,125,Western,44
-1145,Apache Woman,1992,83,Western,32
-1146,Gary Numan - Berzerker,1984,,Music,60
-1147,Mystic Pizza,1988,101,Comedy,74
-1148,Dogfight,1991,95,Action,66
-1149,"Adventures of Rex & Rinty, The",1935,234,Western,87
-1150,Daphnis & Chloe,1988,60,Music,85
-1151,Marathon,1980,97,Comedy,76
-1152,Fort Apache,1948,127,Western,4
-1153,Wee Willie Winkie,1937,100,Drama,78
-1154,Big Shots,1987,91,Action,5
-1155,Doin' Time on Planet Earth,1988,85,Comedy,44
-1156,All the Right Moves,1983,91,Drama,65
-1157,Some Kind of Wonderful,1987,93,Drama,16
-1158,"All New Tales from the Crypt, A Trilogy",1990,87,Horror,33
-1159,Back to the Future,1985,116,Comedy,9
-1160,Winter Light,1963,80,Drama,2
-1161,"Silence, The",1963,95,Drama,79
-1162,"Magician, The",1959,100,Drama,3
-1163,"Four Horsemen of the Apocalypse, The",1961,154,Drama,71
-1164,Critical Condition,1986,99,Comedy,41
-1165,Center of the Web,1989,88,Mystery,42
-1166,Border Shootout,1990,110,Action,7
-1167,Lean on Me,1989,109,Drama,51
-1168,On Wings of Eagles,1986,221,Drama,53
-1169,Texas,1941,94,Western,79
-1170,Allegheny Uprising,1939,80,Drama,53
-1171,Dark Command,1940,95,Western,52
-1172,Peggy Sue Got Married,1986,103,Drama,62
-1173,"Dear America, Letters Home from Vietnam",1989,84,War,57
-1174,Prizzi's Honor,1985,130,Comedy,25
-1175,"Man with Two Brains, The",1983,90,Comedy,68
-1176,Crimes of Passion,1984,101,Drama,4
-1177,"Jewel of the Nile, The",1985,106,Action,68
-1178,Romancing the Stone,1984,106,Action,83
-1179,"Accidental Tourist, The",1988,121,Comedy,56
-1180,"Sea Chase, The",1955,117,War,4
-1181,"Another Time, Another Place",1958,98,Drama,4
-1182,Cannibal Women in the Avocado Jungle of Death,1988,90,Comedy,56
-1183,Mr Love.,1986,91,Comedy,10
-1184,2001: A Space Odyssey,1968,139,Science Fiction,83
-1185,Persona,1966,81,Drama,81
-1186,Scenes from a Marriage,1973,,Drama,3
-1187,Hour of the Wolf,1968,88,Drama,37
-1188,"Passion of Anna, The",1969,101,Drama,6
-1189,Dangerous Moves,1984,96,Drama,7
-1190,Sayonara,1957,147,Drama,19
-1191,Where Eagles Dare,1968,158,War,57
-1192,Teen Wolf,1985,95,Drama,58
-1193,Amazon,1990,88,Action,30
-1194,"Paper Chase, The",1973,,Drama,7
-1195,"Virgin Spring, The",1959,88,Drama,8
-1196,Spider's Stratagem,1970,97,Drama,45
-1197,Play Misty for Me,1971,102,Mystery,47
-1198,Going Ape,1981,88,Comedy,65
-1199,Cool Hand Luke,1967,127,Drama,49
-1200,Phantom of the Ritz,1988,89,Horror,85
-1201,Crash & Burn,1990,85,Science Fiction,75
-1202,After Dark My Sweet,1991,114,Mystery,33
-1203,Christopher Columbus: The Discovery,1992,121,Adventure,39
-1204,Young Sherlock Holmes,1986,109,Mystery,16
-1205,Doc Hollywood,1991,104,Comedy,64
-1206,Baja Oklahoma,1988,96,Comedy,71
-1207,Aliens,1986,137,Science Fiction,82
-1208,Alien Three,1992,115,Science Fiction,59
-1209,Alien: resurrection,1997,109,Science Fiction,60
-1210,Alien,1979,117,Science Fiction,83
-1211,One Woman or Two,1985,97,Comedy,64
-1212,Soggy Bottom U. S. A.,1984,96,Comedy,50
-1213,Bang the Drum Slowly,1973,96,Drama,73
-1214,"Catamount Killing, The",1974,82,Action,84
-1215,Fuzz,1972,92,Action,37
-1216,"Shoot Loud, Louder, I Don't Understand!",1966,101,Mystery,70
-1217,Bedazzled,1967,107,Comedy,67
-1218,"Prince & the Pauper, The",1977,120,Action,86
-1219,One Hundred Rifles,1969,110,Western,48
-1220,"Wild Party, The",1975,90,Drama,75
-1221,Bandolero!,1968,106,Western,9
-1222,"Last of Sheila, The",1973,119,Mystery,39
-1223,Hannie Caulder,1972,87,Drama,9
-1224,Sounds of the Seventies...& the Beat Goes,1990,,Music,13
-1225,Bird,1988,161,Drama,24
-1226,Meet Millie,1955,60,Drama,82
-1227,Hell Comes to Frogtown,1987,88,Science Fiction,74
-1228,"Fortune Cookie, The",1966,126,Comedy,3
-1229,"Sun Shines Bright, The",1990,92,Action,46
-1230,"Squeeze, The",1987,106,Action,23
-1231,Start the Revolution Without Me,1970,91,Comedy,62
-1232,Major League,1989,107,Comedy,64
-1233,"Bright Lights, Big City",1990,108,Drama,30
-1234,"Lost Boys, The",1987,97,Horror,67
-1235,Cookie,1989,93,Comedy,43
-1236,"Conversation, The",1974,114,Drama,59
-1237,American Graffiti,1973,112,Comedy,39
-1238,Dangerous When Wet,1953,96,Music,67
-1239,Stir Crazy,1980,111,Comedy,40
-1240,Young Einstein,1989,91,Comedy,47
-1241,"Killing, The",1956,83,Drama,51
-1242,"Cahill, United States Marshal",1973,102,Western,12
-1243,"Savage Intruder, The",1989,90,Horror,24
-1244,"Sheltering Sky, The",1992,139,Drama,64
-1245,An Officer & a Gentleman,1982,125,Drama,1
-1246,Black Widow,1987,101,Mystery,54
-1247,Legal Eagles,1986,116,Comedy,39
-1248,Bloody Mama,1970,90,Action,17
-1249,A Patch of Blue,1965,106,Drama,51
-1250,I Died a Thousand Times,1955,109,Drama,23
-1251,Tentacles,1977,90,Horror,62
-1252,"Scalphunters, The",1968,100,Western,33
-1253,A Day in October,1992,96,Drama,76
-1254,A Fistful of Dollars,1964,102,Westerns,61
-1255,My Science Project,1985,94,Comedy,84
-1256,"Great Race, The",1991,160,Comedy,88
-1257,"Searchers, The",1956,119,Western,9
-1258,Meteor,1979,105,Action,5
-1259,Rebel Without a Cause,1955,111,Drama,82
-1260,West Side Story,1961,153,Music,38
-1261,Trash,1970,110,Comedy,68
-1262,A Big Hand for the Little Lady,1966,95,Comedy,12
-1263,A Fine Madness,1966,104,Comedy,6
-1264,"Glass Menagerie, The",1987,134,Drama,68
-1265,Harry & Son,1989,117,Drama,57
-1266,"Rachel, Rachel",1968,102,Drama,32
-1267,Paris Blues,1961,98,Drama,54
-1268,"Fugitive Kind, The",1960,135,Drama,3
-1269,Mr. & Mrs. Bridge,1993,,Drama,29
-1270,State of Grace,1991,144,Drama,49
-1271,Shadow of a Doubt,1943,108,Drama,32
-1272,"Men, The",1950,85,Drama,27
-1273,Stage Fright,1950,110,Mystery,72
-1274,Magic Town,1947,103,Drama,4
-1275,That Lucky Touch,1975,93,Action,85
-1276,Lust for Gold,1949,90,Drama,57
-1277,Heat,1987,103,Mystery,69
-1278,Employee's Entrance,1993,75,Drama,0
-1279,Night Is My Future,1947,87,Drama,17
-1280,"Witches, The",1990,92,Science Fiction,18
-1281,Vera Cruz,1953,94,Action,71
-1282,Apache,1954,91,Western,78
-1283,Twilight's Last Gleaming,1977,146,Drama,84
-1284,"Frisco Kid, The",1979,119,Comedy,10
-1285,Bank on the Stars,1954,30,Drama,
-1286,Law of Desire,1987,100,Drama,73
-1287,"Quiller Memorandum, The",1966,103,Mystery,34
-1288,"Longest Day, The",1962,183,War,7
-1289,"Name of the Rose, The",1986,128,Drama,8
-1290,Bloodsport,1988,92,Action,78
-1291,Torment,1986,85,Horror,8
-1292,Pelle the Conqueror,1988,138,Drama,14
-1293,Taps,1981,118,Drama,84
-1294,"Freshman, The",1991,102,Comedy,32
-1295,"Last Emperor, The",1987,164,Drama,1
-1296,"Grim Reaper, The",1962,100,Drama,35
-1297,Le Dernier Combat,1983,90,Drama,72
-1298,Too Beautiful for You,1989,91,Drama,35
-1299,"Fire, Ice & Dynamite",1991,105,Action,72
-1300,Heavens Above,1963,113,Comedy,38
-1301,One Eyed Jacks,1961,141,Western,26
-1302,"Swing It, Sailor!",1937,61,Comedy,83
-1303,"Wolf at the Door, The",1987,94,Drama,68
-1304,Modern Times,1936,87,Comedy,4
-1305,Thunderbolt & Lightfoot,1991,114,Action,16
-1306,A Nous la Liberte,1931,87,Drama,60
-1307,Scum,1979,95,Action,68
-1308,"Inside Man, The",1984,90,Action,45
-1309,Apocalypse Now,1979,153,Drama,8
-1310,"Bellboy & the Playgirls, The",1990,94,Drama,7
-1311,"Terror, The",1963,81,Horror,88
-1312,"Raven, The",1963,86,Horror,85
-1313,They Came from Within,1975,87,Horror,21
-1314,"Boy in Blue, The",1986,97,Drama,63
-1315,Killer Tomatoes Strike Back,1991,87,Comedy,24
-1316,Attack of the Killer Tomatoes,1979,87,Comedy,47
-1317,"Untouchables, The",1987,119,Drama,7
-1318,Wise Guys,1986,91,Comedy,16
-1319,American Autobahn,1989,90,Drama,75
-1320,"Final Alliance, The",1990,94,Action,10
-1321,"Bounty, The",1984,130,Drama,25
-1322,"Little Prince, The",1974,89,Music,31
-1323,Posse,1975,94,Western,76
-1324,Firefox,1982,136,Action,64
-1325,Penitentiary III,1987,91,Action,82
-1326,Ginger & Fred,1993,,Comedy,29
-1327,"Wrong Box, The",1966,107,Comedy,40
-1328,Wagonmaster,1990,86,Western,1
-1329,They Were Expendable,1945,135,War,88
-1330,"Last Hurrah, The",1991,125,Drama,46
-1331,Law of the Golden West,1949,59,Western,1
-1332,Pioneer Marshal,1949,60,Western,8
-1333,Ranger of the Cherokee Strip,1949,60,Western,31
-1334,Vanishing Westerner,1950,60,Western,6
-1335,Bandits of Dark Canyon,1948,59,Western,72
-1336,"Bold Frontiersman, The",1948,60,Western,18
-1337,"Wild Frontier, The",1948,59,Western,61
-1338,"Firemen's Ball, The",1968,73,Comedy,8
-1339,Local Hero,1983,112,Comedy,54
-1340,"French Connection, The",1971,104,Drama,88
-1341,To Live & Die in L. A.,1985,114,Action,70
-1342,Ferry to Hong Kong,1961,113,Drama,77
-1343,"Eddie Murphy, Delirious",1983,69,Comedy,6
-1344,"Secret Policeman's Private Parts, The",1984,77,Comedy,36
-1345,Up the Creek,1958,83,Comedy,54
-1346,Yol,1982,111,Drama,53
-1347,Sara Dane,1989,150,Drama,75
-1348,Night Tide,1988,84,Drama,50
-1349,His Majesty O'Keefe,1953,92,Action,3
-1350,North to Alaska,1960,122,Western,31
-1351,Flight to Fury,1966,76,Action,70
-1352,Ride in the Whirlwind,1966,82,Western,26
-1353,Powderkeg,1970,93,Western,26
-1354,I Confess,1953,95,Drama,63
-1355,"Thirty-Nine Steps, The",1935,88,Science Fiction,8
-1356,Topaz,1969,126,Mystery,12
-1357,Murder,1930,95,Mystery,50
-1358,Dial M for Murder,1954,123,Mystery,52
-1359,Young & Innocent,1937,80,Mystery,43
-1360,Creature from Black Lake,1976,95,Horror,88
-1361,Chariots of Fire,1981,124,Drama,6
-1362,Monty Python Live at the Hollywood Bowl,1982,81,Comedy,81
-1363,"Man Who Would Be King, The",1975,129,Drama,6
-1364,Victory,1981,117,Drama,39
-1365,Kelly's Heroes,1970,146,War,84
-1366,Next of Kin,1989,109,Mystery,63
-1367,Chattahoochee,1990,96,Drama,30
-1368,"Angelic Conversation, The",1985,82,Comedy,41
-1369,Down by Law,1986,107,Comedy,49
-1370,"Killing Fields, The",1984,141,Drama,6
-1371,Survival Zone,1992,85,Action,25
-1372,Monty Python's Life of Brian,1979,94,Comedy,11
-1373,Monty Python's the Meaning of Life,1983,107,Comedy,33
-1374,"Red Tent, The",1971,121,Action,7
-1375,Dakota,1945,82,Western,27
-1376,Viva Zapata!,1952,112,Drama,86
-1377,"Green Berets, The",1968,133,War,36
-1378,Big Bad John,1990,90,Action,84
-1379,"Ticket of Leave Man, The",1937,71,Mystery,45
-1380,"D-Day, The Sixth of June",1956,106,War,84
-1381,"Apprenticeship of Duddy Kravitz, The",1974,121,Drama,64
-1382,A Clockwork Orange,1971,138,Science Fiction,83
-1383,Full Metal Jacket,1991,117,War,45
-1384,Sanshiro Sugata,1943,82,Drama,85
-1385,Rhapsody in August,1991,97,Drama,50
-1386,No Regrets for Our Youth,1946,110,Drama,31
-1387,"Bad Sleep Well, The",1960,152,Drama,65
-1388,"Idiot, The",1951,166,Drama,40
-1389,Rashomon,1951,83,Drama,59
-1390,Sanjuro,1962,96,Mystery,6
-1391,Seven Samurai,1955,200,Drama,9
-1392,Throne of Blood,1957,110,Drama,60
-1393,Yojimbo,1961,110,Action,60
-1394,Kagemusha,1980,161,Drama,74
-1395,Ikiru,1952,134,Drama,36
-1396,Empire of Spiritual Ninja,1987,90,Action,26
-1397,"Ninja, the Violent Sorcerer",1986,90,Action,
-1398,Metropolis,1926,139,Science Fiction,49
-1399,Cloak & Dagger,1946,106,Mystery,55
-1400,Spiders,1920,137,Drama,29
-1401,Human Desire,1954,90,Drama,27
-1402,Spies,1928,130,Drama,49
-1403,"Testament of Dr. Mabuse, The",1933,120,Drama,4
-1404,Fury,1991,95,Drama,48
-1405,Mo' Better Blues,1990,129,Drama,78
-1406,Matt Talbot,1989,30,Drama,35
-1407,"Will Rogers, Look Back in Laughter",1989,55,Comedy,6
-1408,For a Few Dollars More,1991,130,Westerns,34
-1409,Thirty Seconds over Tokyo,1944,139,War,45
-1410,Class of 1984,1982,93,Drama,23
-1411,Juggernaut,1974,109,Action,63
-1412,"Good Morning, Vietnam",1987,120,Comedy,37
-1413,Blood on the Sun,1945,94,Drama,76
-1414,Paint Your Wagon,1969,161,Music,46
-1415,Ensign Pulver,1964,105,Comedy,16
-1416,Street People,1976,92,Action,25
-1417,"Manhunt, The",1984,83,Action,34
-1418,Operation Nam,1987,85,War,37
-1419,"Fighting Seabees, The",1944,100,War,35
-1420,Let It Rock,1988,75,Drama,32
-1421,Eraserhead,1978,90,Horror,2
-1422,"Ladykillers, The",1955,87,Comedy,28
-1423,Sweet Smell of Success,1957,97,Drama,12
-1424,And Now for Something Completely Different,1971,88,Comedy,44
-1425,Crackers,1984,92,Action,17
-1426,Green Glove,1991,89,Drama,54
-1427,Menace on the Mountain,1970,89,Action,69
-1428,In Old California,1940,90,Western,27
-1429,"Thirty Is a Dangerous Age, Cynthia",1967,85,Comedy,28
-1430,Ffolkes,1980,99,Action,62
-1431,Chisum,1970,111,Western,72
-1432,"Hunt for Red October, The",1990,135,Drama,8
-1433,Closely Watched Trains,1966,123,Drama,75
-1434,Executive Action,1973,91,Drama,6
-1435,Flying Tigers,1942,101,Action,61
-1436,Father's Little Dividend,1991,87,Comedy,52
-1437,An Evening with Robin Williams,1982,92,Comedy,68
-1438,Eddie Murphy Raw,1987,90,Comedy,51
-1439,Harlem Nights,1989,118,Comedy,11
-1440,Santee,1973,93,Western,47
-1441,"Good Father, The",1987,90,Drama,42
-1442,Sometimes a Great Notion,1971,115,Drama,7
-1443,Catch Twenty-Two,1970,117,Comedy,50
-1444,Dark Age,1988,90,Action,3
-1445,Deadline,1981,94,Mystery,9
-1446,Mysterious Mr. Wong,1935,60,Mystery,71
-1447,A Month in the Country,1988,92,Drama,57
-1448,"Prom Night III, The Last Kiss",1990,97,Horror,29
-1449,"Blood in, Blood Out",1990,,Drama,88
-1450,"Wrong Arm of the Law, The",1989,94,Comedy,25
-1451,Orphans,1987,116,Drama,21
-1452,All the President's Men,1976,139,Drama,45
-1453,J-Men Forever,1987,73,Action,59
-1454,"Wild Bunch, The",1969,144,Western,50
-1455,Judgement in Berlin,1988,92,Drama,13
-1456,"Hot Line, The",1993,,Comedy,70
-1457,Rocket Gibraltar,1988,100,Drama,26
-1458,"Yakuza, The",1975,112,Action,16
-1459,Jeremiah Johnson,1972,116,Drama,88
-1460,Burn!,1970,112,Drama,75
-1461,Magnum Force,1973,122,Action,28
-1462,Cyborg,1989,86,Action,31
-1463,"Prisoner of Zenda, The",1979,108,Comedy,12
-1464,Scream,1983,86,Horror,24
-1465,"Assault, The",1986,140,Drama,71
-1466,Flying Leathernecks,1951,102,Action,23
-1467,What Comes Around,1985,92,Drama,49
-1468,Mon Oncle D'Amerique,1980,123,Comedy,71
-1469,"Culpepper Cattle Company, The",1972,92,Western,29
-1470,"Survivors, The",1983,102,Comedy,52
-1471,Roadhouse Sixty-Six,1984,96,Action,20
-1472,"Burning Poles, Cecil Taylor in Performance",1991,60,Music,82
-1473,Russkies,1987,98,Action,87
-1474,My Blue Heaven,1990,96,Comedy,63
-1475,Altered States,1990,103,Science Fiction,22
-1476,"Cowboys, The",1972,128,Western,58
-1477,"Code Name, Emerald",1985,95,Drama,22
-1478,Patton,1970,170,War,8
-1479,Midnight Cowboy,1969,123,Drama,33
-1480,"Falcon & the Snowman, The",1985,131,Drama,61
-1481,Maitresse,1976,112,Drama,39
-1482,Disorderlies,1987,86,Comedy,69
-1483,Raging Bull,1991,,Drama,25
-1484,Garrison Keillor's Home,1991,60,Comedy,6
-1485,Overland Stage Raiders,1938,55,Western,83
-1486,Pals of the Saddle,1938,55,Western,33
-1487,Alone in the Dark,1982,92,Horror,75
-1488,"Beguiled, The",1971,109,Drama,60
-1489,Escape from Alcatraz,1979,112,Drama,22
-1490,Criss Cross,1948,88,Drama,77
-1491,Midway,1976,132,War,36
-1492,Indiana Jones & the Last Crusade,1990,126,Action,8
-1493,Duel,1993,90,Mystery,48
-1494,Separate but Equal,1991,193,Drama,56
-1495,Gosta Berling's Saga,1924,123,Drama,63
-1496,Platoon,1986,120,Drama,8
-1497,"Crawling Hand, The",1963,89,Science Fiction,79
-1498,Willy Wonka & the Chocolate Factory,1971,100,Music,65
-1499,Joe Kidd,1971,88,Western,79
-1500,"Santa Claus, The Movie",1985,104,Comedy,19
-1501,Boys Town,1938,96,Drama,21
-1502,"Erasure, Live Wild!",1990,59,Music,48
-1503,A Question of Honor,1982,150,Drama,80
-1504,Check Your Guns,1947,61,Western,80
-1505,West to Glory,1947,56,Western,43
-1506,"Throwback, The",1937,60,Western,53
-1507,Border Feud,1992,54,Action,43
-1508,"Fighting Vigilantes, The",1947,58,Western,21
-1509,Law of the Lash,1947,53,Western,66
-1510,Outlaw Country,1949,66,Western,62
-1511,Return of the Lash,1992,53,Action,78
-1512,Mystery of the Hooded Horsemen,1937,60,Western,52
-1513,Tex Rides with the Boy Scouts,1937,60,Western,17
-1514,Shadows of the West,1949,59,Western,40
-1515,Instant Karma,1991,102,Comedy,47
-1516,Time Lock,1957,73,Drama,5
-1517,Appointment in Honduras,1953,79,Drama,7
-1518,Danton,1982,136,Drama,5
-1519,"Alamo, The",1960,164,Action,29
-1520,"La Chevre, (The Goat)",1986,91,Drama,24
-1521,Les Comperes,1985,109,Comedy,54
-1522,Dead Poets Society,1990,128,Drama,8
-1523,"Othello, The Lost Masterpiece",1952,93,Drama,23
-1524,"Battleground, The",1949,119,War,7
-1525,Kings of the Road (In the Course of Time),1976,176,Drama,41
-1526,Hiroshima,1990,98,Drama,17
-1527,"Return of Martin Guerre, The",1982,111,Drama,51
-1528,Somebody up There Likes Me,1956,97,Drama,56
-1529,Jack Benny Show,1955,57,Comedy,51
-1530,Mutiny on the Bounty,1962,182,Action,35
-1531,"Death Valley Days, Deadly Decision",1989,,Western,9
-1532,Monty Python's Flying Circus,1986,60,Comedy,4
-1533,"Monty Python's Flying Circus, Vol 1.",1986,60,Comedy,24
-1534,"Monty Python's Flying Circus, Vol 2.",1986,59,Comedy,79
-1535,"Monty Python's Flying Circus, Vol 3.",1986,58,Comedy,63
-1536,Valkenvania,1990,,Comedy,82
-1537,"Secret Policeman's Other Ball, The",1982,101,Comedy,86
-1538,"Taming of the Shrew, The",1981,127,Drama,2
-1539,From Russia with Love,1964,,Action,6
-1540,"Offence, The",1993,108,Mystery,6
-1541,Hollywood Mavericks,1992,60,Comedy,22
-1542,Live at Harrah's,1990,60,Comedy,6
-1543,"Persuaders, The Overture, The",1992,52,Mystery,40
-1544,Nineteen Hundred,1977,255,Drama,82
-1545,"Van, The",1989,90,Comedy,5
-1546,My Country Right or Wrong,1972,15,War,21
-1547,"Clint Eastwood Collection, The",1991,,Westerns,11
-1548,"Complete Dirty Harry, Magnum Force, The",1991,,Action,53
-1549,"Dead Pool, The",1992,92,Action,26
-1550,"Good, the Bad & the Ugly, The",1992,163,Westerns,68
-1551,"Rawhide, Premiere Episode",1959,60,Western,54
-1552,Tightrope,1992,118,Mystery,55
-1553,Hearts of Fire,1987,95,Drama,25
-1554,How the West Was Won,1992,165,Western,45
-1555,"Mummy's Hand, The",1992,,Mystery,54
-1556,Great White Death,1993,88,Action,26
-1557,"Mosquito Coast, The",1986,119,Drama,54
-1558,Today We Kill....Tomorrow We Die,1993,102,Western,25
-1559,Tormenta Sobre Arizona,1991,,Drama,81
-1560,Back to the Future II,1989,116,Comedy,65
-1561,"Maverick, Duel at Sundown",1959,60,Western,26
-1562,Shakespeare Series,1983,,Drama,23
-1563,Deadly Trackers,1973,105,Western,54
-1564,"American Film Institute, Alfred Hitchcock",1992,72,Mystery,70
-1565,A Married Man,1990,,Drama,79
-1566,Othello,1982,208,Drama,84
-1567,"Only Way Home, The",1975,85,Drama,60
-1568,Tales of Tomorrow,1953,120,Horror,0
-1569,Inherit the Wind,1991,128,Drama,18
-1570,This Is Horror,1990,45,Horror,3
-1571,Conversation Piece,1992,112,Drama,1
-1572,"Crimson Pirate, The",1992,105,Action,60
-1573,"Devil's Disciple, The",1992,83,Mystery,65
-1574,"Hallelujah Trail, The",1992,166,Drama,6
-1575,"Train, The",1992,133,Action,68
-1576,Jay Leno: The American Dream,1986,49,Comedy,67
-1577,Primal Rage,1990,92,Mystery,3
-1578,"Industrial Symphony, The Dream of the Broken-Hearted",1990,50,Music,49
-1579,Howie Mandel's North American Watusi Tour,1986,52,Comedy,65
-1580,"Branford Marsalis, Steep",1989,90,Music,52
-1581,L. A. Story,1991,98,Comedy,81
-1582,Steve Martin Live!,1986,60,Comedy,3
-1583,"Steve Martin, The Funnier Side of Eastern Canada",1974,60,Comedy,34
-1584,"Runaway Barge, The",1993,,Action,38
-1585,Romulus & the Sabines,1992,101,Action,76
-1586,"Saint, The",1989,,Mystery,29
-1587,Strange Brew,1983,91,Comedy,24
-1588,Another Forty-Eight Hours,1990,98,Action,54
-1589,"Best of Eddie Murphy, Saturday Night Live, The",1989,,Comedy,56
-1590,What about Bob?,1991,99,Comedy,6
-1591,"Mummy's Revenge, The",1953,91,Horror,56
-1592,Harper,1992,121,Mystery,86
-1593,"Left Handed Gun, The",1992,102,Western,26
-1594,Once upon a Wheel,1989,,Action,40
-1595,"Prize, The",1992,136,Drama,66
-1596,"Secret War of Harry Frigg, The",1968,,Comedy,28
-1597,"Two Jakes, The",1990,,Mystery,3
-1598,Exile in Concert,1989,61,Music,12
-1599,Joe Piscopo New Jersey Special,1987,60,Comedy,14
-1600,"Joe Piscopo Video, The",1991,60,Comedy,44
-1601,"Death Valley Days, No Gun Behind His Badge",1989,,Western,1
-1602,Salsa: The Motion Picture,1988,96,Drama,26
-1603,Hollywood's Greatest War Movies,1991,80,War,41
-1604,Out for Justice,1991,91,Action,2
-1605,"Case of the Mukkinese Battle Horn, The",1956,27,Comedy,45
-1606,"Goon Show Movie, The",1953,75,Comedy,80
-1607,"Great McGonagall, The",1975,95,Comedy,72
-1608,I'm All Right Jack,1991,101,Comedy,23
-1609,"Magic Christian, The",1991,101,Comedy,75
-1610,Never Let Go,1960,91,Action,5
-1611,"Pink Panther, The",1991,121,Comedy,77
-1612,Two-Way Stretch,1991,84,Comedy,7
-1613,"Face at the Window, The",1988,65,Horror,79
-1614,Tom Thumb,1958,92,Science Fiction,30
-1615,Beartooth,1989,90,Action,70
-1616,James Taylor in Concert,1979,90,Music,38
-1617,Gangbusters,1942,253,Drama,31
-1618,El Rublo de las Dos Caras,1992,,Action,83
-1619,"Law & Jake Wade, The",1992,87,Drama,68
-1620,Chuka,1967,105,Western,47
-1621,Cry of the Innocent,1980,93,Drama,13
-1622,Edison the Man,1991,108,Drama,19
-1623,Keeper of the Flame,1991,101,Drama,76
-1624,"Spencer Tracy Legacy, The",1991,92,Comedy,44
-1625,"Cheyenne, The Iron Trail",1957,60,Western,1
-1626,"Dawn Rider, The",1992,56,Western,44
-1627,"Duke, The Films of John Wayne",1993,,Western,70
-1628,Frontier Horizon,1939,55,Western,73
-1629,Hell Town,1934,54,Western,23
-1630,Hurricane Express,1932,,Western,7
-1631,"Hurricane Express, The",1932,210,Action,68
-1632,In Harm's Way,1965,165,War,66
-1633,"John Wayne Collection, Red River, The",1991,,War,49
-1634,John Wayne Collector's Limited Edition,1992,,War,3
-1635,John Wayne Four Pack,1991,,Western,58
-1636,"John Wayne Matinee Double Feature, No. 2",1939,112,Western,3
-1637,"John Wayne Matinee Double Feature, No. 3",1939,110,Western,24
-1638,"John Wayne Matinee Double Feature, No. 4",1938,110,Western,28
-1639,John Wayne Six Pack,1990,,Western,87
-1640,"John Wayne Western Greats, Rio Bravo",1991,,Western,22
-1641,King of the Pecos,1991,56,Western,78
-1642,Lawless Frontier,1992,59,Western,8
-1643,"Lawless Frontier, The",1991,52,Western,35
-1644,"Lawless Nineties, The",1991,56,Western,3
-1645,Lucky Texan,1934,54,Western,48
-1646,McQ,1992,112,Action,5
-1647,Neath Arizona Skies,1993,,Western,73
-1648,Neath the Arizona Skies,1991,54,Western,28
-1649,Randy Rides Alone,1991,53,Western,75
-1650,Range Feud,1993,58,Western,77
-1651,Red River,1992,134,Western,16
-1652,Riders of Destiny,1991,52,Western,30
-1653,Sagebrush Trail,1990,,Western,23
-1654,"Shadow of the Eagle, The",1932,226,Action,19
-1655,Blood & Guns,1989,103,Action,43
-1656,Hot Money,1988,78,Drama,19
-1657,Comedy Tonight,1977,75,Comedy,18
-1658,Robin Williams,1991,65,Comedy,4
+7,Subway,1985,104,Drama,6
+8,Camille Claudel,1990,149,Drama,32
+9,Fanny and Alexander,1982,188,Drama,81
+10,Tragedy of a Ridiculous Man,1982,117,Drama,17
+11,A Man & a Woman,1966,103,Drama,46
+12,A Man & a Woman: Twenty Years Later,1986,112,Drama,49
+13,Un Hombre y una Mujer,1966,103,Drama,6
+14,"Official Story, The",1985,112,Drama,39
+15,"Lindbergh Kidnapping Case, The",1976,150,Drama,51
+16,Blackmail,1929,84,Mystery,2
+17,Donovan's Reef,1963,109,Comedy,62
+18,Tucker: The Man & His Dream,1988,110,Drama,68
+19,Scrooged,1988,101,Comedy,15
+20,Raiders of the Lost Ark,1981,116,Action,8
+21,"Running Man, The",1987,101,Science Fiction,31
+22,Predator 2,1991,105,Action,79
+23,Colors,1988,127,Drama,23
+24,Zandalee,1990,97,Drama,80
+25,Miles from Home,1988,108,Drama,53
+26,Happy Birthday to Me,1980,,Horror,88
+27,Final Notice,1989,88,Mystery,88
+28,Quintet,1979,110,Drama,19
+29,"Devil's Eye, The",1960,90,Drama,20
+30,Wild Strawberries,1957,91,Drama,42
+31,"Seventh Seal, The",1956,96,Drama,62
+32,Germicide,1992,90,Drama,36
+33,Dreams,1955,86,Drama,14
+34,"Naked Night, The",1955,95,Drama,38
+35,Through a Glass Darkly,1962,91,Drama,64
+36,Cries & Whispers,1972,91,Drama,18
+37,"Barbarian & the Geisha, The",1958,104,Action,52
+38,Casino Royale,1967,130,Comedy,11
+39,Dr. No,1962,,Action,7
+40,Elephant Walk,1954,103,Drama,11
+41,Ten,1979,121,Comedy,60
+42,"Man Who Loved Women, The",1983,118,Comedy,67
+43,Hawaii,1966,190,Drama,8
+44,Torn Curtain,1966,125,Mystery,35
+45,Duet for One,1986,107,Drama,82
+46,"Sound of Music, The",1965,172,Music,59
+47,Gonzo Presents Muppet Weird Stuff,1985,55,Comedy,88
+48,Tartuffe,1984,140,Comedy,67
+49,A New Life,1988,104,Comedy,53
+50,Magic,1978,106,Mystery,85
+51,Tommy,1992,286,Music,5
+52,"Big Fix, The",1978,108,Mystery,19
+53,Alan & Naomi,1992,95,Drama,3
+54,Fatal Attraction,1987,120,Mystery,61
+55,Patriot Games,1992,117,Action,28
+56,"Woman Next Door, The",1981,106,Drama,82
+57,Hunting,1992,97,Mystery,68
+58,Bataan,1991,115,War,68
+59,"Siegfried, The Nibelungenlied",1924,110,Drama,79
+60,"Henry, Portrait of a Serial Killer",1991,90,Horror,69
+61,"Big Blue, The",1988,118,Drama,7
+62,Flight of the Intruder,1991,115,Drama,51
+63,Nobody's Fool,1986,108,Comedy,52
+64,After Hours,1985,97,Comedy,81
+65,Desperately Seeking Susan,1985,104,Comedy,41
+66,A New Leaf,1971,102,Comedy,83
+67,Killers of Kilimanjaro,1959,91,Action,11
+68,Don Juan,1926,126,Action,55
+69,Babette's Feast,1987,102,Drama,79
+70,"Vincent, Francois, Paul & the Others",1989,118,Drama,20
+71,Thunderball,1988,141,Action,8
+72,Lodger (Story of the London Fog),1926,66,Mystery,76
+73,Appointment with Death,1988,103,Mystery,75
+74,Murder on the Orient Express,1974,128,Mystery,8
+75,Blood Alley,1955,115,War,15
+76,"Spy Who Loved Me, The",1977,136,Action,27
+77,Storm,1988,100,Action,61
+78,Bloodbath,1991,89,Horror,37
+79,Miami Cops,1989,103,Action,40
+80,"Island of Dr. Moreau, The",1996,96,Horror,39
+81,Eighty-Four Charing Cross Road,1992,100,Drama,9
+82,"Elephant Man, The",1980,124,Drama,3
+83,Dr Alien,1988,90,Science Fiction,70
+84,Creepshow,1982,120,Horror,70
+85,Sammy & Rosie Get Laid,1987,100,Drama,6
+86,"Goalie's Anxiety at the Penalty Kick, The",1971,101,Drama,62
+87,Mademoiselle Striptease,1957,99,Comedy,25
+88,"Women, The",1969,86,Drama,66
+89,That Naughty Girl,1958,77,Comedy,37
+90,Voulez-Vous Danser Avec Moi?,1959,90,Comedy,16
+91,"A Coeur Joie, (Head Over Heels)",1967,100,Action,54
+92,Shalako,1968,113,Westerns,0
+93,Contempt,1964,102,Drama,81
+94,Dear Brigitte,1965,100,Comedy,71
+95,A Very Private Affair,1962,134,Drama,30
+96,"Ravishing Idiot, The",1964,99,Comedy,34
+97,"Bride Is Much Too Beautiful, The",1958,90,Comedy,70
+98,Doctor at Sea,1955,90,Comedy,83
+99,"Le Repos Du Guerrier, (Warrior's Rest)",1962,100,War,8
+100,And God Created Woman,1957,90,Drama,29
+101,Ms. Don Juan,1973,87,Drama,39
+102,Siesta,1987,97,Drama,48
+103,Rich & Strange,1932,92,Drama,57
+104,Lionheart,1987,104,Action,9
+105,E. T. The Extra-Terrestrial,1982,115,Science Fiction,8
+106,Cool World,1992,101,Drama,44
+107,Nadine,1988,83,Comedy,47
+108,Batman,1989,126,Action,14
+109,Blind Date,1987,95,Comedy,7
+110,Mother Lode,1982,101,Action,40
+111,Final Analysis,1992,125,Drama,50
+112,Never Say Never Again,1983,134,Action,8
+113,Nine & a Half Weeks,1986,117,Drama,7
+114,Killjoy,1989,,Mystery,71
+115,No Mercy,1986,108,Drama,11
+116,"Marrying Man, The",1991,116,Comedy,84
+117,Misery,1990,123,Horror,48
+118,Crisis,1946,93,Drama,66
+119,Samson & Delilah,1984,95,Drama,36
+120,Act of Piracy,1990,101,Mystery,74
+121,Split Decisions,1988,96,Drama,52
+122,Vampire's Kiss,1989,103,Comedy,49
+123,Nightmare at Noon,1988,96,Action,0
+124,Presumed Innocent,1990,127,Mystery,69
+125,Reap the Wild Wind,1942,123,Drama,59
+126,Pocket Money,1972,100,Comedy,55
+127,Mary White,1977,102,Drama,2
+128,"Catch a Rising Star, Tenth Anniversary",1982,,Comedy,18
+129,Guilty by Suspicion,1990,105,Drama,88
+130,Secret Beyond the Door,1948,99,Mystery,31
+131,Scarlet Street,1945,103,Drama,80
+132,Daffy Duck's Quackbusters,1988,76,Action,68
+133,Rowlf's Rhapsodies with the Muppets,1985,55,Comedy,79
+134,Gandhi,1982,188,Drama,7
+135,"Wind & the Lion, The",1975,120,Action,2
+136,Carnal Knowledge,1971,96,Drama,10
+137,Getting Straight,1970,126,Comedy,83
+138,"Scarlet Letter, The",1972,90,Drama,55
+139,"Count of Old Town, The",1935,75,Comedy,72
+140,Autumn Sonata,1978,97,Drama,49
+141,Gaslight,1944,114,Drama,25
+142,Indiscreet,1958,100,Drama,1
+143,Walpurgis Night,1941,75,Drama,32
+144,Joan of Arc,1948,100,Drama,7
+145,A Woman Called Golda,1982,195,Drama,15
+146,A Walk in the Spring Rain,1969,98,Drama,2
+147,Under Capricorn,1949,117,Drama,74
+148,Notorious,1946,101,Mystery,42
+149,June Night,1940,90,Drama,14
+150,Goodbye Again,1961,120,Drama,6
+151,Anastasia,1956,106,Drama,24
+152,"Bells of St. Mary's, The",1945,126,Drama,31
+153,Intermezzo,1937,91,Drama,32
+154,A Woman's Face,1938,104,Drama,49
+155,Swedenhielms,1935,90,Drama,88
+156,Only One Night,1939,87,Drama,26
+157,Dollar,1938,74,Drama,19
+158,Elena & Her Men,1956,98,Drama,33
+159,Europa Fifty-One,1952,110,Drama,34
+160,Voyage in Italy,1953,83,Drama,57
+161,Fear,1954,81,Drama,69
+162,Stromboli,1950,107,Drama,69
+163,Cactus Flower,1969,103,Comedy,67
+164,Hideaways,1989,105,Comedy,16
+165,Twenty Four Hours in a Woman's Life,1990,90,Drama,16
+166,Programmed to Kill,1987,91,Action,71
+167,Conan the Barbarian,1982,128,Action,45
+168,Raw Nerve,1991,91,Mystery,88
+169,Think Dirty,1970,94,Comedy,31
+170,King of Comedy,1982,108,Drama,84
+171,"Best of the Big Laff Off, The",1983,60,Comedy,20
+172,Amadeus,1984,158,Drama,6
+173,White Lightning,1973,101,Action,54
+174,"Unbearable Lightness of Being, The",1988,172,Drama,5
+175,"Life & Times of Judge Roy Bean, The",1972,124,Western,65
+176,Airport,1970,137,Drama,0
+177,Day for Night,1973,116,Drama,10
+178,Secrets of Women,1952,107,Comedy,66
+179,Burnt Offerings,1976,116,Horror,35
+180,Easy Rider,1969,94,Drama,36
+181,Five Easy Pieces,1991,98,Drama,2
+182,"Day of the Locust, The",1974,144,Drama,81
+183,Goldfinger,1964,112,Action,77
+184,"Exorcist II, The Heretic",1977,117,Horror,29
+185,White Lightning,1953,61,,
+186,Lady for a Night,1942,88,Drama,12
+187,Charly,1968,103,Drama,38
+188,High Plains Drifter,1973,105,Western,57
+189,Honkytonk Man,1982,123,Drama,69
+190,Nightbreed,1990,102,Horror,72
+191,Under the Sun of Satan,1987,98,Drama,45
+192,Vagabond,1985,105,Drama,49
+193,"Bill Cosby, Live at Harrah's",1993,60,Comedy,13
+194,Monty Python & the Holy Grail,1974,89,Comedy,83
+195,John Cleese on How to Irritate People,1993,65,Comedy,62
+196,"Matchmaker, The",1958,101,Comedy,67
+197,For Your Eyes Only,1981,129,Action,86
+198,Wings,1928,139,War,44
+199,Medicine Man,1992,106,Action,6
+200,Good Fellas,1989,,Drama,15
+201,Kiss of the Spider Woman,1985,119,Drama,10
+202,"Rookie, THe",1990,121,Action,48
+203,"Sting, The",1973,129,Drama,83
+204,Torpedo Run,1958,96,War,50
+205,Instant Justice,1986,101,Drama,45
+206,Cyrano de Bergerac,1990,135,Drama,76
+207,Border Street,1948,110,Drama,73
+208,Firehouse,1987,91,Comedy,66
+209,Morituri,1965,123,Drama,9
+210,From the Life of the Marionettes,1980,104,Drama,58
+211,Frantic,1988,120,Mystery,17
+212,Coma,1978,114,Science Fiction,64
+213,Dead Ringers,1988,117,Drama,29
+214,Golden Ninja Invasion,1988,90,Action,13
+215,"Exorcist, The",1973,122,Horror,28
+216,Alice Doesn't Live Here Anymore,1975,112,Comedy,82
+217,"Eyes of the Amaryllis, The",1982,94,Drama,70
+218,What Price Glory?,1952,109,War,4
+219,Inauguration of the Pleasure Dome,1954,40,Short,62
+220,School Daze,1989,114,Comedy,18
+221,"End of Innocence, The",1990,102,Drama,6
+222,"Anderson Tapes, The",1971,98,Mystery,1
+223,"Father Murphy, A Horse from Heaven",1983,50,Comedy,28
+224,Skull,1989,80,Drama,19
+225,"Quick & The Dead, The",1987,91,Western,40
+226,Best Defense,1984,94,Comedy,75
+227,Dreamscape,1984,99,Science Fiction,63
+228,Black Rain,1989,125,Action,73
+229,8 1/2,1963,138,Drama,80
+230,One Frightened Night,1935,64,Horror,33
+231,"Year My Voice Broke, The",1988,103,Drama,71
+232,Is Paris Burning?,1966,175,War,63
+233,QB VII,1974,313,Drama,28
+234,"Island of Dr. Moreau, The",1977,104,Horror,54
+235,Beyond the Limit,1983,104,Drama,51
+236,Secret Agent,1936,84,Mystery,50
+237,Paramount Comedy Theater: Well-Developed,1986,71,Comedy,40
+238,"Big Bust Out, The",1972,71,Action,50
+239,"Fourth Protocol, The",1987,119,Mystery,14
+240,Gremlins 2: The New Batch,1990,107,Comedy,61
+241,Fast Times at Ridgemont High,1982,92,Comedy,65
+242,Mannequin,1987,,Comedy,23
+243,Rabid,1977,91,Horror,34
+244,"Party, The",1990,,Comedy,32
+245,"Vampire Raiders, Ninja Queen",1989,90,Action,15
+246,Bloopers from Star Trek,1970,26,Comedy,22
+247,Destroyer,1943,99,Action,87
+248,Party Girl,1992,99,Comedy,85
+249,Twin Peaks,1989,113,Mystery,86
+250,Moonstruck,1987,103,Comedy,6
+251,"Witches of Eastwick, The",1987,119,Comedy,8
+252,Moonraker,1979,128,Action,32
+253,Beat Street,1984,106,Drama,72
+254,Running Out of Luck,1986,88,Comedy,16
+255,Never on Tuesday,1989,90,Drama,77
+256,Shampoo,1975,109,Comedy,69
+257,Power,1985,111,Drama,43
+258,Darling,1965,122,Drama,44
+259,"Ugly American, The",1963,120,Drama,63
+260,Ambassador Bill,1931,68,Comedy,66
+261,"Big Trail, The",1931,110,Western,22
+262,Hombre,1967,111,Western,50
+263,Coogan's Bluff,1968,103,Action,57
+264,Penn & Teller Get Killed,1989,91,Comedy,12
+265,Shy People,1987,118,Drama,7
+266,It's My Turn,1980,91,Comedy,0
+267,Dangerous Liaisons,1988,119,Drama,77
+268,Reversal of Fortune,1990,111,Drama,73
+269,Meeting Venus,1991,119,Comedy,74
+270,Tomorrow Is Forever,1946,105,Drama,65
+271,Like Father Like Son,1987,101,Comedy,20
+272,Rope,1948,81,Drama,39
+273,Road to Hong Kong,1962,91,Comedy,37
+274,Shirley Valentine,1989,108,Comedy,51
+275,City of Joy,1992,135,Drama,87
+276,"Appaloosa, The",1966,99,Western,15
+277,Seven Minutes in Heaven,1986,88,Comedy,49
+278,"Hearts of Darkness, A Filmmaker's Apocalypse",1991,96,Drama,72
+279,Tonight for Sure,1961,66,Comedy,4
+280,"White Hunter, Black Heart",1990,110,Adventure,66
+281,Sundays & Cybele,1962,110,Drama,11
+282,Puppet Master,1989,90,Science Fiction,20
+283,Night Gallery,1991,95,Horror,31
+284,Pet Sematary,1989,103,Horror,27
+285,"America's Music, Gospel",1992,60,Music,13
+286,Slap Shot,1977,123,Comedy,82
+287,O. C. & Stiggs,1987,109,Comedy,3
+288,A Fish Called Wanda,1988,108,Comedy,7
+289,A Lesson in Love,1954,96,Comedy,48
+290,Brink of Life,1957,82,Drama,57
+291,Betty Blue,1986,120,Drama,71
+292,Hair,1979,122,Music,67
+293,National Lampoon's Christmas Vacation,1989,97,Comedy,81
+294,"Dersu Uzala, (The Hunter)",1974,124,Adventure,81
+295,Alice,1990,106,Comedy,22
+296,"Fifth Floor, The",1980,90,Mystery,74
+297,Snow Kill,1990,94,Drama,35
+298,"People, The",1971,74,Drama,36
+299,True Grit,1969,128,Western,77
+300,"Battle of Midway, The",1942,18,War,75
+301,Three Godfathers,1948,103,Western,72
+302,"Hush, Hush, Sweet Charlotte",1965,133,Mystery,68
+303,A Stolen Life,1946,110,Drama,20
+304,"Old Maid, The",1939,96,Drama,18
+305,All about Eve,1950,138,Drama,23
+306,"Fly, The",1986,96,Horror,33
+307,Quick Change,1990,89,Comedy,24
+308,"Lair of the White Worm, The",1988,93,Horror,16
+309,"Rainbow, The",1989,104,Drama,53
+310,"Man Who Knew Too Much, The",1956,120,Mystery,15
+311,Beauty & the Beast,1992,90,Science Fiction,14
+312,Foreign Correspondent,1940,120,Mystery,61
+313,"Heiress, The",1949,115,Drama,81
+314,"Boy Who Could Fly, The",1986,120,Drama,25
+315,"Terrorists, The",1975,89,Action,4
+316,Wheel of Fortune,1942,85,Drama,36
+317,Do the Right Thing,1989,120,Drama,5
+318,"Court-Martial of Jackie Robinson, The",1990,93,Drama,33
+319,Elvira Madigan,1967,90,Drama,28
+320,Hurricane Smith,1992,86,Action,16
+321,Fair Game,1987,86,Action,24
+322,"Rape of the Sabines, The",1989,95,Action,83
+323,Risky Business,1983,99,Comedy,28
+324,I Love All of You (Je Vous Aime),1980,103,Drama,40
+325,Love Songs,1986,108,Drama,15
+326,Le Choix des Armes,1983,114,Mystery,15
+327,Choice of Arms,1981,135,Action,87
+328,March or Die,1977,107,War,59
+329,"Last Metro, The",1980,135,Drama,66
+330,Jean de Florette,1986,120,Drama,87
+331,Fat Man & Little Boy,1989,127,Drama,86
+332,Wild at Heart,1990,125,Drama,6
+333,Family Business,1989,113,Action,5
+334,Stand & Deliver,1988,103,Drama,19
+335,Looker,1981,94,Science Fiction,62
+336,Fire & Rain,1989,89,Action,10
+337,"Best of Candid Camera, The",1990,56,Comedy,12
+338,Seven Sinners,1940,83,Drama,24
+339,Judgment at Nuremberg,1961,190,Drama,39
+340,Minsky's Follies,1989,60,Comedy,12
+341,"Novice, The",1990,97,Comedy,72
+342,Wings of Desire,1987,130,Drama,71
+343,Until the End of the World,1991,158,Drama,57
+344,Castaway,1987,118,Drama,41
+345,"Alfred Hitchcock Presents, Sorcerer's Apprentice",1993,30,Mystery,60
+346,Delicatessen,1991,99,Comedy,78
+347,"Great Train Robbery, The",1979,110,Mystery,7
+348,Hanover Street,1991,110,Drama,81
+349,Hunchback,1991,102,Drama,33
+350,My Darling Clementine,1946,97,Western,12
+351,Wagon Master,1950,86,Western,30
+352,She Wore a Yellow Ribbon,1949,93,Western,84
+353,Fantasy Man,1985,90,Comedy,82
+354,Monster in the Closet,1986,87,Comedy,39
+355,Double Edge,1992,85,Drama,69
+356,Network,1976,116,Comedy,48
+357,Chinatown,1974,131,Drama,55
+358,Three Days of the Condor,1975,117,Drama,87
+359,Voyage of the Damned,1977,134,Drama,34
+360,Barfly,1987,97,Drama,23
+361,"Wait Until Spring, Bandini",1990,104,Drama,20
+362,Life with Father,1947,118,Comedy,10
+363,A Guy Named Joe,1943,,Drama,42
+364,Stavisky,1974,117,Drama,1
+365,Time Bandits,1981,117,Comedy,5
+366,"Shining, The",1980,144,Horror,32
+367,Flame of Barbary Coast,1945,91,Western,54
+368,"Naked Truth, The",1993,92,Comedy,34
+369,"Brood, The",1979,92,Horror,51
+370,"Molly Maguires, The",1970,123,Action,3
+371,Beverly Hills Cop,1984,105,Comedy,41
+372,Blind Man's Bluff,1991,86,Mystery,64
+373,La Dolce Vita,1961,140,Drama,20
+374,After the Fox,1966,103,Comedy,60
+375,"Man with the Golden Gun, The",1974,127,Action,41
+376,Marbella,1985,96,Action,45
+377,"Bobo, The",1967,103,Comedy,80
+378,"Big Bands, The",1993,53,Music,48
+379,Killer Image.,1992,97,Mystery,8
+380,Kandyland,1987,94,Drama,41
+381,Campus Man,1987,94,Drama,38
+382,Jubal,1956,101,Drama,32
+383,"Purple Rose of Cairo, The",1985,84,Comedy,20
+384,Broadway Danny Rose,1984,85,Comedy,14
+385,Husbands & Wives,1992,108,Comedy,80
+386,Hannah & Her Sisters,1986,103,Comedy,8
+387,Hurricane,1979,115,Action,8
+388,Between Two Women,1986,95,Drama,52
+389,"Cannonball Run, The",1981,96,Comedy,80
+390,Doughnuts & Society,1936,70,Comedy,28
+391,Holocaust,1978,450,Drama,1
+392,Meridian,1990,103,Science Fiction,47
+393,Diary of a Hitman,1992,90,Drama,67
+394,Gor,1988,95,Action,2
+395,Surrender,1987,95,Comedy,84
+396,Places in the Heart,1984,112,Drama,83
+397,Not Without My Daughter,1991,106,Drama,55
+398,Heroes,1977,113,Drama,17
+399,Absence of Malice,1981,116,Drama,76
+400,Norma Rae,1979,110,Drama,64
+401,Steel Magnolias,1989,118,Drama,66
+402,"Burbs, The",1989,101,Comedy,42
+403,"Empire Strikes Back, The",1980,124,Science Fiction,33
+404,Star Wars,1977,121,Science Fiction,44
+405,Return of the Jedi,1983,132,Science Fiction,4
+406,Hear My Song,1991,104,Drama,72
+407,Slightly Scarlet,1956,99,Action,52
+408,Gunfight at the OK Corral,1957,120,Western,84
+409,"Range Feud, The",1931,,Western,51
+410,Bloodsucking Pharaohs in Pittsburgh,1990,89,Comedy,79
+411,Roma,1972,129,Drama,75
+412,"China Syndrome, The",1979,122,Drama,43
+413,"Morning After, The",1986,100,Mystery,6
+414,Klute,1971,114,Drama,15
+415,"Electric Horseman, The",1979,113,Comedy,34
+416,Cat Ballou,1965,97,Comedy,62
+417,Coming Home,1991,,Drama,1
+418,Rebecca,1940,130,Drama,78
+419,Jane Eyre,1944,96,Drama,44
+420,Stacey!,1973,87,Action,31
+421,Naked Obsession,1992,85,Mystery,26
+422,"Stripped to Kill II, Live Girls",1989,83,Mystery,80
+423,"Rain Killer, The",1990,94,Mystery,10
+424,Valley Girl,1983,95,Comedy,30
+425,"Silence of the Lambs, The",1991,118,Mystery,8
+426,Stealing Home,1988,98,Drama,76
+427,Napoleon & Samantha,1972,92,Comedy,33
+428,Five Corners,1988,,Drama,88
+429,"Blackboard Jungle, The",1955,,Drama,66
+430,My Left Foot,1989,103,Drama,32
+431,Back to the Beach,1987,92,Comedy,45
+432,"Painted Veil, The",1934,85,Drama,57
+433,Inspiration,1931,74,Drama,66
+434,Anna Christie,1930,92,Drama,0
+435,"Flesh & the Devil, The",1926,109,Drama,72
+436,Woman of Affairs,1928,90,Drama,83
+437,Anna Karenina,1935,96,Drama,35
+438,Camille,1936,110,Drama,74
+439,Mata Hari,1931,91,Drama,67
+440,Wild Orchids,1929,100,Drama,70
+441,Grand Hotel,1932,112,Drama,81
+442,"Susan Lennox, Her Fall & Rise",1931,84,Drama,64
+443,Ninotchka,1939,108,Comedy,40
+444,Queen Christina,1933,97,Drama,82
+445,"Mysterious Lady, The",1928,96,Drama,72
+446,Joyless Street,1925,125,Drama,73
+447,"Single Standard, The",1929,74,Drama,73
+448,As You Desire Me,1932,71,Drama,85
+449,Romance,1930,76,Drama,62
+450,A Child Is Waiting,1962,105,Drama,60
+451,Tootsie,1982,116,Comedy,8
+452,Let It Ride,1989,86,Comedy,88
+453,Julius Caesar,1953,120,Drama,50
+454,Nineteen Forty-One,1979,120,Comedy,24
+455,Jaws,1975,124,Action,6
+456,Hot Pursuit,1987,93,Drama,44
+457,Triumph of the Spirit,1989,120,Drama,49
+458,Brannigan,1975,111,Drama,64
+459,Buffet Froid,1979,89,Comedy,75
+460,Salvador,1986,122,Drama,77
+461,"Horse Soldiers, The",1959,102,Western,76
+462,Long John Silver,1954,108,Action,56
+463,"Hustler, The",1961,134,Drama,43
+464,"Star Chamber, The",1983,109,Drama,3
+465,Clara's Heart,1988,100,Drama,60
+466,Burglar,1987,102,Comedy,44
+467,Comic Relief,1986,120,Comedy,69
+468,Bloodbrothers,1978,117,Drama,11
+469,Rain Man,1988,134,Drama,8
+470,Masculine Feminine,1966,95,Drama,20
+471,"Outer Limits, The",1964,51,Science Fiction,27
+472,Mama's Dirty Girls,1988,,Horror,62
+473,"Last Ride of the Dalton Gang, The",1979,180,Western,62
+474,Why Me?,1991,,Comedy,74
+475,Number Seventeen,1932,66,Crime,66
+476,Manhunter,1986,120,Drama,19
+477,"Bonfire of the Vanities, The",1990,126,Drama,82
+478,Working Girl,1988,115,Comedy,25
+479,Shining Through,1992,133,Mystery,11
+480,Slumber Party Massacre III,1991,76,Horror,40
+481,Tokyo Pop,1988,99,Comedy,2
+482,Terminator 2,1991,136,Action,8
+483,"Terminator, The",1984,108,Action,17
+484,King Kong Lives!,1986,105,Action,20
+485,Those Daring Young Men in Their Jaunty,1969,125,Comedy,59
+486,At Play in the Fields of the Lord,1991,186,Drama,81
+487,Crazy People,1990,,Comedy,61
+488,Memoirs of an Invisible Man,1992,99,Comedy,58
+489,"Clan of the Cave Bear, The",1985,100,Drama,73
+490,"Final Terror, The",1983,82,Horror,24
+491,Reckless,1984,93,Drama,14
+492,High Spirits,1989,,Comedy,53
+493,Roxanne,1987,107,Comedy,66
+494,Blade Runner,1982,117,Action,1
+495,Wall Street,1987,126,Drama,6
+496,Pope of Greenwich Village,1992,111,Drama,58
+497,After School,1989,89,Drama,59
+498,Flaming Frontiers,1938,298,Western,82
+499,Libeled Lady,1936,89,Comedy,86
+500,Inserts,1976,99,Drama,85
+501,"Blue Iguana, The",1988,88,Drama,65
+502,Tender Mercies,1983,93,Drama,61
+503,Nights in White Satin,1987,96,Drama,5
+504,Videodrome,1989,87,Horror,36
+505,Intimate Stranger,1991,96,Mystery,23
+506,Highlander,1986,110,Science Fiction,8
+507,Bodycount,1987,93,Action,51
+508,Tango & Cash,1989,104,Action,9
+509,There's a Girl in My Soup,1970,94,Comedy,41
+510,Swing Shift,1984,100,Drama,81
+511,Foul Play,1978,112,Comedy,46
+512,Best Friends,1982,109,Comedy,74
+513,Butterflies Are Free,1972,109,Drama,82
+514,Overboard,1987,112,Comedy,6
+515,"Girl from Petrovka, The",1974,103,Drama,23
+516,Housesitter,1992,102,Comedy,14
+517,Wildcats,1986,106,Comedy,22
+518,Protocol,1984,100,Comedy,53
+519,Seems Like Old Times,1980,102,Comedy,49
+520,"Sugarland Express, The",1974,109,Drama,28
+521,Private Benjamin,1980,110,Comedy,61
+522,Deceived,1991,115,Mystery,55
+523,Arrowsmith,1931,95,Drama,84
+524,Say Goodbye Maggie Cole,1972,78,Drama,84
+525,Circus World,1964,132,Drama,29
+526,Affair in Trinidad,1952,98,Drama,49
+527,Lady from Shanghai,1948,87,Mystery,16
+528,Lady in Question,1940,81,Drama,57
+529,Gilda,1946,110,Drama,57
+530,"Loves of Carmen, The",1948,98,Drama,48
+531,Dick Tracy,1990,105,Comedy,84
+532,Marnie,1964,130,Drama,2
+533,Hot Child in the City,1987,85,Mystery,0
+534,Johnny Dangerously,1984,90,Comedy,3
+535,Stark,1985,95,Mystery,27
+536,Three Strange Loves,1949,84,Drama,87
+537,My Fair Lady,1964,170,Music,10
+538,"Unforgiven, The",1960,123,Drama,32
+539,Robin & Marian,1976,106,Action,6
+540,"Children's Hour, The",1961,109,Drama,60
+541,"Rainmaker, The",1956,121,Drama,21
+542,Pat & Mike,1952,95,Comedy,48
+543,"Lion in Winter, THe",1968,134,Drama,78
+544,"Sea of Grass, The",1991,132,Western,75
+545,Guess Who's Coming to Dinner,1967,108,Drama,50
+546,Desk Set,1957,153,Comedy,51
+547,Rooster Cogburn,1975,107,Western,76
+548,On Golden Pond,1981,109,Drama,23
+549,Adam's Rib,1991,101,Comedy,62
+550,Boom Town,1991,116,Drama,73
+551,Dragon Seed,1991,145,Drama,34
+552,Little Women,1991,115,Drama,22
+553,"Philadelphia Story, The",1991,113,Comedy,25
+554,Without Love,1991,112,Comedy,66
+555,Woman of the Year,1991,113,Comedy,12
+556,Juice,1992,95,Drama,31
+557,Hoosiers,1986,114,Drama,2
+558,Tin Men,1987,112,Comedy,50
+559,"Last Temptation of Christ, The",1988,163,Drama,32
+560,Paris Trout,1991,99,Drama,53
+561,Souvenir,1988,87,Drama,42
+562,A Man for All Seasons,1966,120,Drama,20
+563,Knights & Emeralds,1986,90,Drama,
+564,Masque of the Red Death,1989,83,Horror,9
+565,"Adventures of Smilin' Jack, The",1943,265,Mystery,77
+566,Adventures in Dinosaur City,1992,88,Action,19
+567,"Allnighter, The",1987,95,Comedy,71
+568,Caddyshack,1980,99,Comedy,70
+569,Tom Sawyer,1973,102,Music,11
+570,"Rita, Sue & Bob Too",1987,94,Comedy,5
+571,Hawk of Powder River,1947,56,Western,61
+572,Tempest,1928,148,Drama,33
+573,Running Mates,1986,90,Drama,63
+574,Prettykill,1987,105,Drama,71
+575,Judge Priest,1934,80,Drama,9
+576,Harvey,1950,104,Comedy,42
+577,If Looks Could Kill,1991,89,Action,10
+578,Raising Arizona,1987,94,Comedy,23
+579,Once Around,1989,114,Comedy,68
+580,Loulou,1980,110,Drama,65
+581,"World According to Garp, The",1982,136,Drama,59
+582,Virus,1980,106,Science Fiction,62
+583,Northwest Passage,1940,127,Action,51
+584,Gardens of Stone,1987,112,Drama,27
+585,"Enemies, a Love Story",1989,121,Drama,5
+586,"Addams Family, The",1992,102,Comedy,8
+587,Freaks,1932,65,Horror,61
+588,Necessary Roughness,1991,108,Comedy,60
+589,A Show of Force,1990,93,Drama,1
+590,"Competition, The",1980,129,Drama,45
+591,Crossing Delancey,1988,97,Comedy,6
+592,"State of Things, The",1982,120,Drama,73
+593,Business As Usual,1987,89,Comedy,17
+594,A Touch of Class,1973,103,Comedy,79
+595,Women in Love.,1970,129,Drama,18
+596,Salome's Last Dance,1988,89,Comedy,76
+597,Casino,1986,100,Mystery,5
+598,Smiles of a Summer Night,1955,108,Comedy,58
+599,New Year's Day,1989,90,Comedy,88
+600,Mephisto,1981,132,Drama,80
+601,Easy Virtue,1927,60,Mystery,45
+602,Swing It Sailor!,1937,59,Comedy,6
+603,Strictly Business,1991,83,Comedy,3
+604,Blame It on Rio,1983,90,Comedy,10
+605,Straight to Hell,1987,86,Action,47
+606,A View to a Kill,1990,131,Action,44
+607,American Anthem,1986,100,Drama,74
+608,Bedtime Story,1963,99,Comedy,7
+609,"Courtship of Eddie's Father, The",1991,117,Comedy,43
+610,"Night Train to Katmandu, THe",1988,102,Action,43
+611,Port of Call,1948,100,Drama,29
+612,Paper Moon,1973,103,Comedy,3
+613,Yellowbeard,1983,97,Comedy,34
+614,Adventures of Sherlock Holmes' Smarter,1975,91,Comedy,42
+615,Flashback,1990,108,Comedy,19
+616,"World's Greatest Lover, The",1977,89,Comedy,42
+617,Killer's Kiss,1955,67,Mystery,66
+618,"Deceivers, The",1988,103,Action,14
+619,Breathless,1983,97,Action,51
+620,Born on the Fourth of July,1989,145,Drama,8
+621,Awakenings,1991,120,Drama,8
+622,Annie Hall,1977,94,Comedy,68
+623,Manhattan,1979,96,Comedy,82
+624,Reds,1981,195,Drama,76
+625,Crimes of the Heart,1986,105,Comedy,84
+626,Looking for Mr. Goodbar,1977,136,Drama,54
+627,"Godfather, The",1972,175,Drama,8
+628,"Godfather, Pt 2., The",1974,201,Drama,8
+629,"I Will, I Will...For Now",1976,109,Comedy,6
+630,"Play It Again, Sam",1972,86,Comedy,81
+631,Love & Death,1975,82,Comedy,84
+632,Sleeper,1973,88,Comedy,59
+633,Fellini Satyricon,1970,130,Drama,88
+634,"Formula, The",1980,117,Mystery,82
+635,Black Sunday,1977,143,Drama,76
+636,Bobby Deerfield,1977,124,Drama,36
+637,Last of the Red Hot Lovers,1972,98,Comedy,40
+638,Mogambo,1953,116,Action,71
+639,To Catch a Thief,1955,103,Mystery,69
+640,Rear Window,1954,113,Mystery,25
+641,Woman Who Came Back,1945,69,Drama,26
+642,Stanley & Livingstone,1939,101,Action,11
+643,"Bad Seed, The",1956,129,Horror,69
+644,Lethal Weapon 2,1989,113,Action,69
+645,Blame It on the Bellboy,1992,79,Comedy,69
+646,"Drop Kick, The",1927,62,Drama,
+647,"Superman, The Movie",1978,145,Action,87
+648,Superman IV: The Quest for Peace,1987,90,Action,77
+649,Quackser Fortune Has a Cousin in the Bronx,1970,90,Comedy,49
+650,Dead Calm,1989,96,Mystery,1
+651,Days of Thunder,1990,107,Action,3
+652,My Life As a Dog,1987,101,Comedy,21
+653,"Moon in the Gutter, The",1983,,Action,29
+654,"Paris, Texas",1984,150,Drama,27
+655,Unfaithfully Yours,1984,96,Comedy,73
+656,Bullseye!,1987,95,Comedy,8
+657,Erik the Viking,1989,104,Action,25
+658,Dragonard,1987,90,Drama,71
+659,Hard Choices,1986,90,Drama,41
+660,"Rain People, The",1969,102,Drama,78
+661,A Year of the Quiet Sun,1984,106,Drama,78
+662,"Desert Trail, The",1935,54,Western,50
+663,Almost an Angel,1990,98,Comedy,14
+664,Crocodile Dundee,1986,98,Comedy,66
+665,"American Friend, The",1977,127,Mystery,35
+666,See You in the Morning,1989,119,Drama,53
+667,"Arrogant, The",1987,88,Drama,62
+668,Dracula's Widow,1989,86,Horror,55
+669,Ninja Masters of Death,1987,90,Action,15
+670,Mystery Train,1990,110,Comedy,23
+671,Go Tell the Spartans,1978,114,War,67
+672,True Stories,1986,89,Comedy,79
+673,Ugetsu Monogatari,1953,94,Drama,82
+674,Rebel Rousers,1969,80,Action,44
+675,Plain Clothes,1988,98,Comedy,4
+676,"Whose Life Is It, Anyway?",1981,119,Drama,62
+677,Running on Empty,1988,116,Drama,2
+678,Funny about Love,1990,101,Comedy,60
+679,"A Chorus Line, The Movie",1985,118,Music,71
+680,Stewardess School,1986,84,Comedy,28
+681,"Big Town, The",1987,109,Drama,11
+682,Rumble Fish,1983,94,Drama,4
+683,"Outsiders, The",1983,91,Drama,56
+684,Priceless Beauty,1990,94,Science Fiction,7
+685,Streets of Fire,1989,93,Action,65
+686,Men Don't Leave,1990,115,Drama,66
+687,Everybody's All American,1988,127,Romance,62
+688,Cape Fear,1992,128,Mystery,7
+689,"Postman Always Rings Twice, The",1992,121,Mystery,24
+690,Crashing Thru,1949,58,Western,19
+691,Get Out Your Handkerchiefs,1978,109,Comedy,78
+692,"Boy Friend, THe",1971,137,Music,8
+693,Hard To Kill,1990,100,Action,49
+694,Psycho,1960,109,Horror,56
+695,Jet Pilot,1957,112,Action,43
+696,Under Cover,1987,95,Mystery,36
+697,A Streetcar Named Desire,1951,122,Drama,75
+698,"Golden Child, The",1986,93,Comedy,86
+699,"Statue, The",1971,84,Drama,80
+700,Christopher Columbus,1985,128,Drama,69
+701,In Country,1989,116,Drama,76
+702,"Wild Geese, The",1978,132,Action,21
+703,"Second Coming of Suzanne., The",1974,90,Drama,21
+704,Bronco Billy,1980,116,Westerns,57
+705,"Gauntlet, The",1977,109,Action,18
+706,Ratboy,1986,105,Drama,1
+707,Lady Vanishes,1938,96,Mystery,27
+708,"Kitchen Toto, THe",1987,95,Drama,41
+709,Carlton-Browne of the F.O.,1959,88,Comedy,63
+710,Racketeer,1929,68,Drama,2
+711,Mr. & Mrs. Smith,1941,95,Comedy,3
+712,Alrededor de Medianoche,1986,132,Drama,47
+713,Losin' It,1982,101,Comedy,4
+714,Into the Homeland,1987,114,Action,34
+715,Boxing Babes,1991,60,Action,9
+716,Shock 'em Dead,1991,94,Horror,31
+717,Heller in Pink Tights,1960,101,Drama,52
+718,Two Women,1961,100,Drama,83
+719,"Gold of Naples, The",1954,107,Drama,40
+720,"Yesterday, Today & Tomorrow",1963,118,Comedy,73
+721,Legend of the Lost,1957,109,Action,84
+722,Brass Target,1978,111,Action,53
+723,"Fall of the Roman Empire, The",1964,188,Drama,62
+724,El Cid,1961,172,Drama,10
+725,Desire under the Elms,1958,114,Drama,13
+726,Two Nights with Cleo,1953,92,Drama,54
+727,"Black Orchid, The",1959,,Drama,54
+728,Angela,1977,91,Drama,80
+729,A Special Day,1977,105,Drama,80
+730,Blood Feud,1979,112,Action,52
+731,"Sophia Loren, Her Own Story",1991,145,Drama,49
+732,Running Away,1990,,Drama,2
+733,Man of La Mancha,1991,130,Music,55
+734,Operation Crossbow,1992,116,Action,1
+735,Courage,1986,141,Drama,56
+736,RAD,1986,94,Action,75
+737,Secret Admirer,1992,98,Comedy,55
+738,Cocaine Cowboys,1979,85,Action,17
+739,Test Pilot,1991,118,Drama,13
+740,"Ape Man, The",1943,64,Horror,83
+741,"Mission, The",1986,125,Drama,20
+742,Curly Sue,1991,102,Comedy,2
+743,Lolita,1962,150,Drama,80
+744,"Sex, Lies, and Videotape",1989,101,Drama,70
+745,Green Card,1990,107,Comedy,25
+746,Gator Bait II,1988,95,Action,73
+747,Being There,1979,129,Comedy,31
+748,Terms of Endearment,1983,132,Drama,32
+749,Woman Times Seven,1967,99,Comedy,36
+750,"Bliss of Mrs. Blossom, The",1968,,Comedy,86
+751,Postcards from the Edge,1990,101,Comedy,63
+752,Two Mules for Sister Sara,1970,105,Western,36
+753,Dragonfight,1992,84,Drama,71
+754,Back Door to Heaven,1939,85,Drama,83
+755,"Ciao Italia, Madonna Live from Italy",1988,100,Music,74
+756,"Madonna, Truth or Dare",1991,118,Music,54
+757,A Certain Sacrifice,1992,60,Music,24
+758,"National Enquirer, The Untold Story",1991,40,Music,65
+759,"Immaculate Collection, The",1990,60,Music,32
+760,"Madonna Live, The Virgin Tour",1987,50,Music,75
+761,"Madonna, Justify My Love",1990,5,Music,77
+762,"Madonna, Like a Virgin",1991,16,Music,63
+763,Hot to Trot,1988,83,Comedy,78
+764,Fire with Fire,1986,103,Drama,9
+765,Hot Spot,1990,120,Drama,70
+766,Amarcord,1974,124,Drama,50
+767,Casablanca Express,1988,85,Action,33
+768,Out of the Blue,1980,94,Drama,4
+769,Sands of Iwo Jima,1949,110,War,72
+770,"Hand, The",1981,104,Horror,44
+771,Deep Cover,1989,81,Mystery,15
+772,Il Bidone,1955,92,Drama,70
+773,El Guerrero Solitario,1986,130,Drama,77
+774,Heartbreak Ridge,1986,130,War,61
+775,"Goodbye Girl, The",1977,110,Comedy,6
+776,Audrey Rose,1991,113,Drama,62
+777,Polyester,1981,86,Comedy,68
+778,Robin Hood: Prince of Thieves,1991,144,Action,8
+779,White Sands,1992,101,Drama,38
+780,"Color of Money, The",1986,119,Drama,6
+781,Children of a Lesser God,1986,119,Drama,20
+782,Matador,1986,,Comedy,34
+783,Women on the Verge of a Nervous Breakdown,1989,88,Comedy,65
+784,Pepi Luci Bom,1980,86,Comedy,66
+785,"Forgotten, The",1989,100,Mystery,69
+786,"Flame & the Arrow, The",1992,89,Action,0
+787,After the Shock,1990,92,Drama,28
+788,Modern Love,1990,110,Comedy,18
+789,Riff Raff,1992,95,Comedy,71
+790,"Glory Stompers, The",1967,81,Action,27
+791,Dances with Wolves,1990,181,Western,8
+792,Matewan,1987,130,Drama,81
+793,Mississippi Burning,1988,120,Drama,41
+794,"Eiger Sanction, The",1975,130,Action,69
+795,Unsettled Land,1988,109,Drama,75
+796,Cat Chaser,1991,98,Drama,6
+797,"Accused, The",1988,110,Drama,71
+798,Winter People,1989,109,Drama,30
+799,"Reuben, Reuben",1983,101,Comedy,2
+800,Made in Heaven,1987,102,Fantasy,57
+801,Top Gun,1986,109,Action,8
+802,Witness,1985,112,Drama,59
+803,"House on Carroll Street, The",1988,111,Mystery,6
+804,Racing with the Moon,1984,109,Drama,50
+805,Lovesick,1983,98,Comedy,51
+806,She's Having a Baby,1988,106,Comedy,18
+807,"Greatest Story Ever Told, The",1965,199,Drama,26
+808,Hawks,1989,105,Drama,11
+809,So Fine,1981,91,Comedy,17
+810,Paths of Glory,1957,89,Drama,47
+811,Tom Jones,1964,120,Drama,39
+812,"Sunshine Boys, The",1975,103,Comedy,35
+813,Caddyshack 2,1988,98,Comedy,34
+814,Internal Affairs,1990,117,Drama,3
+815,JFK,1991,206,Drama,78
+816,New Jack City,1991,97,Action,80
+817,Scenes from a Mall,1991,87,Comedy,8
+818,Hope & Glory,1987,118,War,3
+819,Ryan's Daughter,1970,194,Drama,81
+820,"Man Who Loved Cat Dancing, The",1973,127,Western,40
+821,"Man Who Shot Liberty Valance, The",1962,123,Western,85
+822,Dead-Bang,1989,102,Action,9
+823,Big Top Pee-wee,1988,90,Comedy,17
+824,"Time Machine, The",1960,103,Science Fiction,88
+825,Cabaret,1972,128,Drama,59
+826,Arthur,1981,97,Comedy,79
+827,A Matter of Time,1976,97,Drama,70
+828,"New York, New York",1977,137,Drama,8
+829,"Nightmare on Elm Street, Pt. 5, The Dream Child",1989,89,Horror,41
+830,"Fiendish Plot of Dr. Fu Manchu, The",1980,100,Comedy,29
+831,Four American Composers,1991,240,Music,3
+832,"Asphalt Jungle, The",1950,112,Action,77
+833,Ladies of the Chorus,1992,61,Music,60
+834,How to Marry a Millionaire,1953,95,Comedy,65
+835,Hollywood Out-Takes & Rare Footage,1983,,Comedy,27
+836,Nothing But Trouble,1991,94,Comedy,25
+837,Wisdom,1987,109,Action,25
+838,One Crazy Summer,1986,94,Comedy,61
+839,We're No Angels,1989,110,Comedy,51
+840,No Small Affair,1984,102,Comedy,10
+841,Ghost,1990,127,Science Fiction,6
+842,About Last Night,1986,113,Drama,66
+843,Six Weeks,1982,107,Drama,73
+844,Return of October,1948,89,Comedy,35
+845,"Come Back, Little Sheba",1952,99,Drama,50
+846,Going Places,1974,117,Drama,66
+847,Monte Walsh,1970,99,Western,29
+848,Mr. Arkadin,1955,100,Drama,80
+849,White of the Eye,1988,,Mystery,48
+850,"Producers, The",1968,90,Comedy,33
+851,"Front, The",1976,94,Drama,70
+852,House of the Rising Sun,1987,86,Drama,45
+853,In a Shallow Grave,1988,91,Drama,72
+854,Mc Q,1974,111,Action,73
+855,Lady from Louisiana,1941,85,Drama,38
+856,Wait Until Spring Bandini,1990,102,Drama,29
+857,"Long Voyage Home, The",1940,105,Drama,88
+858,"Trouble with Harry, The",1955,100,Mystery,28
+859,Encounters,1987,60,Drama,44
+860,Hud,1963,112,Drama,2
+861,Operation Pacific,1951,111,War,5
+862,Surf Nazis Must Die,1987,83,Horror,50
+863,Teahouse of the August Moon,1956,124,Drama,11
+864,Back in the U.S.S.R.,1992,88,Action,61
+865,"Man Who Haunted Himself, The",1970,91,Drama,75
+866,Prisoner of Honor.,1991,108,Drama,58
+867,Control,1988,83,Drama,27
+868,Desert Rider,1923,57,Western,
+869,Wholly Moses!,1980,109,Comedy,25
+870,Star Trek VI: The Undiscovered Country,1991,110,Science Fiction,11
+871,Star Trek V: The Final Frontier,1989,107,Action,87
+872,Circuitry Man,1991,85,Action,78
+873,Cobra,1986,87,Action,57
+874,Beverly Hills Cop II,1987,103,Comedy,37
+875,Red Sonja,1990,90,Action,40
+876,To Joy,1950,93,Drama,65
+877,Macbeth,1992,112,Drama,45
+878,Vertigo,1958,128,Drama,10
+879,Young Love: Lemon Popsicle Seven,1987,91,Comedy,47
+880,Crack-Up,1946,93,Mystery,25
+881,Bury Me Not on the Lone Prairie,1941,57,Western,85
+882,Law & Order,1940,57,Western,87
+883,Man from Montana,1941,56,Western,85
+884,"Long Gray Line, The",1992,137,Drama,26
+885,Rio Grande,1950,105,Western,64
+886,"Wings of Eagles, The",1957,107,Drama,29
+887,Jamaica Inn,1939,94,Drama,75
+888,Big Jake,1971,110,Action,68
+889,"Quiet Man, The",1992,153,Drama,74
+890,After the Rehearsal,1983,72,Drama,0
+891,Big Jim McLain,1952,90,Western,14
+892,Smith!,1969,101,Western,62
+893,"Wild One, The",1953,79,Drama,26
+894,"Manxman, The",1929,129,Drama,65
+895,International Velvet,1978,126,Drama,40
+896,Scanners,1981,104,Horror,32
+897,Trick or Treat,1986,98,Horror,47
+898,48 Hrs.,1982,92,Action,67
+899,"Trip to Bountiful, The",1985,108,Drama,62
+900,Mister Roberts,1955,116,Comedy,8
+901,Z,1969,127,Drama,72
+902,Maurice,1987,139,Drama,45
+903,Hamlet,1969,114,Drama,39
+904,La Femme Nikita,1991,117,Drama,6
+905,Honeymoon in Vegas,1993,95,Comedy,53
+906,Going for the Gold,1988,90,Action,10
+907,Shout at the Devil,1976,128,Action,0
+908,A Smoky Mountain Christmas,1986,94,Music,23
+909,Getting Physical,1984,95,Drama,75
+910,Torn Apart,1990,95,Drama,8
+911,From the Hip,1986,112,Comedy,36
+912,"Ratings Game, The",1984,102,Comedy,21
+913,Class Act,1992,100,Drama,88
+914,Water,1986,89,Comedy,47
+915,Silent Movie,1978,88,Comedy,27
+916,Pink Cadillac,1989,122,Comedy,12
+917,"Jerk, The",1979,94,Comedy,22
+918,Wild Times,1980,180,,75
+919,Sweet Liberty,1986,107,Comedy,12
+920,Grease II,1982,115,Music,64
+921,Married to the Mob,1989,104,Comedy,8
+922,Ladyhawke,1985,121,Adventure,68
+923,"Fabulous Baker Boys, The",1989,114,Drama,66
+924,Into the Night,1985,115,Comedy,62
+925,"Russia House, The",1991,124,Drama,3
+926,Tequila Sunrise,1988,116,Mystery,50
+927,B. A. D. Cats,1989,74,Action,87
+928,"Last Movie, The",1971,108,Drama,22
+929,Dillinger,1973,106,Drama,83
+930,Little Dorrit,1988,360,Drama,12
+931,My Best Girl,1927,78,Drama,31
+932,Seizure,1989,93,Horror,59
+933,A Chorus of Disapproval,1990,89,Comedy,0
+934,Rome Adventure,1962,119,Drama,39
+935,Drowning by Numbers,1992,121,Mystery,28
+936,Born to Ride,1991,88,Action,59
+937,Her Alibi,1988,94,Comedy,80
+938,Glitz,1988,96,Mystery,9
+939,Dangerous Pursuit,1990,95,Mystery,88
+940,Experiment in Terror,1962,123,Mystery,77
+941,"Hideaways, The",1972,105,Comedy,42
+942,What's New Pussycat,1965,108,Comedy,83
+943,What's New Pussycat?,1965,108,Comedy,46
+944,Packin' It In,1983,98,Comedy,8
+945,"Naked Gun: From the Files of Police Squad!, THe",1988,90,Comedy,9
+946,In Too Deep,1990,106,Drama,50
+947,Twins,1988,107,Comedy,23
+948,"Experts, The",1988,94,Comedy,67
+949,Naked Lie,1989,94,Drama,7
+950,Mistress,1987,87,Drama,36
+951,Pleasure Palace,1992,,Action,45
+952,Adam at 6 A.M.,1970,100,Drama,3
+953,Web of Deceit,1990,93,Drama,6
+954,New York Stories,1991,119,Comedy,6
+955,"Dreams Lost, Dreams Found",1987,97,Drama,66
+956,Au Revoir les Enfants,1987,103,Drama,35
+957,Quo Vadis,1989,122,Drama,6
+958,"Fighting Kentuckian, The",1949,100,Action,74
+959,Zardoz,1974,104,Science Fiction,6
+960,Police Academy 6: City under Siege,1989,84,Comedy,29
+961,Police Academy 5: Assignment Miami Beach,1988,90,Comedy,59
+962,Police Academy 3: Back in Training,1986,84,Comedy,6
+963,"America's Music, Blues",1991,60,Music,54
+964,Julia,1977,100,Drama,75
+965,"Devils, The",1971,111,Drama,69
+966,Ransom,1984,90,Drama,73
+967,Cadillac Man,1990,97,Comedy,28
+968,"Best of Times, The",1986,104,Comedy,88
+969,Death of a Salesman,1985,135,Drama,13
+970,It Started with a Kiss,1993,104,Drama,80
+971,"Money, The",1989,88,Drama,29
+972,Empire of the Sun,1987,153,Drama,6
+973,"Comfort of Strangers, The",1991,102,Mystery,5
+974,On Her Majesty's Secret Service,1969,135,Action,66
+975,Pretty in Pink,1986,96,Drama,75
+976,PK. & the Kid.,1987,90,Drama,49
+977,"Lone Star Trail, The",1943,60,Western,27
+978,Summer,1986,98,Comedy,11
+979,"Planes, Trains & Automobiles",1987,93,Comedy,73
+980,Pretty Woman,1990,119,Comedy,43
+981,Flatliners,1991,111,Drama,19
+982,Hook,1991,142,Action,4
+983,Riders of Pasco Basin,1940,56,Western,17
+984,"Gotta Dance, Gotta Sing",1992,53,Music,20
+985,Desperate Hours,1990,106,Mystery,58
+986,Gung Ho,1986,111,Comedy,59
+987,Shooting Elizabeth,1992,96,Mystery,5
+988,Strangers on a Train,1951,101,Mystery,17
+989,"Sacketts, The",1979,198,Western,86
+990,To Die Standing,1991,87,Action,53
+991,Rodeo Girl,1980,92,Drama,80
+992,Butch Cassidy & the Sundance Kid,1969,110,Western,29
+993,Hellfighters,1968,121,Action,22
+994,"Final Countdown, The",1980,92,Action,35
+995,Blue Velvet,1986,120,Mystery,6
+996,Cousins,1989,110,Comedy,28
+997,Black & White in Color,1976,90,Comedy,24
+998,Another Woman,1988,81,Drama,7
+999,Night on Earth,1992,128,Drama,24
+1000,Permanent Record,1988,92,Drama,42
+1001,"Fisher King, The",1992,138,Drama,8
+1002,Another You,1991,98,Comedy,75
+1003,"Young Lions, The",1958,167,Drama,10
+1004,Cheerleader Camp,1988,89,Horror,79
+1005,Trapper County War,1990,98,Action,5
+1006,Angel & the Badman,1947,96,Western,84
+1007,Impulse,1990,109,Mystery,23
+1008,Track Twenty-Nine,1988,91,Drama,48
+1009,Freejack,1991,110,Action,26
+1010,"John Wayne Matinee Double Feature, No. 1",1939,109,Western,30
+1011,"Smallest Show on Earth, The",1988,81,Comedy,24
+1012,Innerspace,1987,120,Science Fiction,41
+1013,"Presidio, The",1988,97,Action,4
+1014,Joe Versus the Volcano,1990,102,Comedy,17
+1015,"Doors, The",1991,135,Drama,60
+1016,"Welcome Home, Roxy Carmichael",1990,98,Comedy,41
+1017,Cancel My Reservation,1972,99,Comedy,60
+1018,North by Northwest,1991,135,Mystery,20
+1019,"Russians Are Coming, the Russians Are, The",1966,127,Comedy,79
+1020,Exodus,1992,213,Drama,13
+1021,"Ballad of Narayama, The",1982,128,Drama,88
+1022,Out of the Darkness,1985,96,Mystery,86
+1023,"Garden of the Finzi-Continis, The",1971,90,Drama,42
+1024,Steppenwolf,1974,105,Drama,20
+1025,"Mackintosh Man, The",1973,100,Action,65
+1026,Partner,1968,105,Drama,26
+1027,"Conformist, The",1970,107,Drama,72
+1028,Dirty Harry,1971,102,Drama,72
+1029,Ferris Bueller's Day Off,1986,103,Comedy,12
+1030,Legend,1986,89,Science Fiction,42
+1031,"Buddy System, The",1984,110,Drama,48
+1032,A Dry White Season,1989,97,Drama,71
+1033,"Rocky Horror Picture Show, The",1975,105,Music,59
+1034,War & Peace,1968,360,Drama,80
+1035,Defense of the Realm,1992,96,Drama,79
+1036,Basil The Rat,1991,90,Comedy,9
+1037,"Fawlty Towers, Gourmet Night, Waldorf Salad & The Kipper & the Corpse",1979,90,Comedy,46
+1038,Going Under,1991,80,Comedy,30
+1039,U S. Sub Standard.,1990,83,Comedy,27
+1040,Hells Angels on Wheels,1990,,Action,1
+1041,"Passenger, The",1975,118,Drama,32
+1042,Last Tango in Paris,1973,127,Drama,28
+1043,Indigo Autumn & Lilac Dream,1987,155,Drama,72
+1044,"Kriemhild's Revenge, The Nibelungenlied",1924,95,Drama,74
+1045,Johnny Tiger,1966,102,Drama,69
+1046,Head Office,1986,90,Comedy,88
+1047,Live & Let Die,1990,,Action,62
+1048,Le Charme Discret de la Bourgeoisie,1972,100,Comedy,4
+1049,Blue City,1986,83,Action,38
+1050,Bad Boys,1983,123,Drama,7
+1051,"Whoopee Boys, The",1986,82,Comedy,54
+1052,"Last Picture Show, The",1971,118,Drama,62
+1053,"Diamond Trap, The",1988,93,Drama,58
+1054,Endless Love,1981,115,Drama,20
+1055,Rocky,1976,90,Drama,78
+1056,Cocktail,1988,103,Drama,13
+1057,Sabotage,1936,77,Mystery,74
+1058,Madame Rosa,1977,105,Drama,11
+1059,Fozzie's Muppet Scrapbook,1985,56,Comedy,86
+1060,Desiree,1954,110,Drama,22
+1061,Spartacus,1960,185,Drama,67
+1062,Guys & Dolls,1955,150,Comedy,70
+1063,Until They Sail,1992,95,Drama,77
+1064,Coming to America,1988,116,Comedy,11
+1065,Lilies of the Field,1963,93,Drama,36
+1066,River's Edge,1987,99,Drama,3
+1067,Ruthless People,1986,93,Comedy,84
+1068,"Secret of My Success, The",1987,110,Comedy,5
+1069,"Shop on Main Street, The",1965,128,Drama,37
+1070,Funny Farm,1988,101,Comedy,30
+1071,"Lonely Passion of Judith Hearne, The",1988,120,Drama,24
+1072,California Suite,1978,103,Comedy,11
+1073,Maximum Overdrive,1986,97,Horror,40
+1074,Pale Rider,1985,116,Western,45
+1075,"Kissing Place, The",1990,88,Drama,41
+1076,French Lesson,1986,90,Comedy,29
+1077,Roller Blade,1985,88,Action,31
+1078,A Shot in the Dark,1964,101,Comedy,51
+1079,"Treasure Seekers, The",1979,88,Action,2
+1080,Missing,1982,122,Drama,30
+1081,Picasso Trigger,1989,99,Action,20
+1082,Hard Ticket to Hawaii,1987,97,Action,36
+1083,Diamonds are Forever,1990,,Action,8
+1084,Baby Face,1933,72,Drama,66
+1085,"Violent Men, The",1992,95,Action,25
+1086,Cocoon,1985,117,Science Fiction,45
+1087,Clockwise,1986,96,Comedy,10
+1088,Romantic Comedy,1993,103,Comedy,8
+1089,Outland,1981,111,Science Fiction,7
+1090,Hang 'em High,1967,114,Western,67
+1091,Basic Instinct,1992,123,Mystery,41
+1092,Total Recall,1990,113,Action,8
+1093,Stakeout,1987,115,Comedy,13
+1094,"Unnamable II, The Statement of Randolph Carter, The",1992,104,Drama,36
+1095,"Trip, The",1967,85,Drama,64
+1096,Ironweed,1987,135,Drama,32
+1097,Kramer vs. Kramer,1979,,Drama,8
+1098,Still of the Night,1988,,Mystery,42
+1099,Defending Your Life,1991,112,Comedy,75
+1100,"Deer Hunter, The",1978,183,Drama,82
+1101,Falling in Love,1984,106,Drama,31
+1102,Heartburn,1986,108,Comedy,57
+1103,Silkwood,1983,131,Drama,52
+1104,Sophie's Choice,1982,151,Drama,64
+1105,Out of Africa,1985,161,Drama,88
+1106,"French Lieutenant's Woman, The",1981,127,Drama,37
+1107,Plenty,1985,124,Drama,9
+1108,A Cry in the Dark,1988,122,Drama,67
+1109,She-Devil,1989,99,Comedy,43
+1110,Death Becomes Her,1992,103,Drama,61
+1111,Kids & Pesticides,1991,28,Drama,36
+1112,On a Clear Day You Can See Forever,1970,129,Music,67
+1113,Nuts,1987,100,Drama,52
+1114,Yentl,1983,134,Music,46
+1115,Funny Girl,1968,151,Music,30
+1116,Fellow Traveller,1990,97,Drama,39
+1117,Dodesukaden,1970,140,Drama,75
+1118,"Sicilian, The",1987,,Drama,41
+1119,So Ends Our Night,1941,117,Drama,2
+1120,Sword of the Valiant,1984,102,Action,5
+1121,"Devil's Wanton, The",1949,78,Drama,66
+1122,Driving Miss Daisy,1989,99,Drama,6
+1123,"Seventh Cross, The",1991,111,Drama,35
+1124,Between Friends,1983,105,Drama,54
+1125,Raintree County,1957,173,Drama,74
+1126,"Driver's Seat, The",1975,101,Drama,72
+1127,Reflections in a Golden Eye,1967,109,Drama,81
+1128,"X, Y & Zee",1972,110,Drama,87
+1129,Secret Ceremony,1968,109,Drama,60
+1130,Cleopatra,1963,243,Drama,80
+1131,Father of the Bride,1950,,Comedy,54
+1132,Who's Afraid of Virginia Woolf?,1992,130,Drama,82
+1133,A Little Night Music,1977,110,Music,61
+1134,Giant,1956,201,Drama,61
+1135,"Rumor Mill, The",1985,94,Drama,62
+1136,Lassie Come Home,1943,90,Drama,79
+1137,Return Engagement,1993,76,Drama,26
+1138,Hammersmith Is Out,1972,108,Drama,80
+1139,Super Duper Bloopers,1991,60,Comedy,21
+1140,"Elizabeth Taylor Collection, The",1991,,Drama,21
+1141,Ash Wednesday,1973,99,Drama,54
+1142,"Last Time I Saw Paris, The",1991,117,Drama,13
+1143,Cimarron,1931,125,Western,44
+1144,Apache Woman,1992,83,Western,32
+1145,Gary Numan - Berzerker,1984,,Music,60
+1146,Mystic Pizza,1988,101,Comedy,74
+1147,Dogfight,1991,95,Action,66
+1148,"Adventures of Rex & Rinty, The",1935,234,Western,87
+1149,Daphnis & Chloe,1988,60,Music,85
+1150,Marathon,1980,97,Comedy,76
+1151,Fort Apache,1948,127,Western,4
+1152,Wee Willie Winkie,1937,100,Drama,78
+1153,Big Shots,1987,91,Action,5
+1154,Doin' Time on Planet Earth,1988,85,Comedy,44
+1155,All the Right Moves,1983,91,Drama,65
+1156,Some Kind of Wonderful,1987,93,Drama,16
+1157,"All New Tales from the Crypt, A Trilogy",1990,87,Horror,33
+1158,Back to the Future,1985,116,Comedy,9
+1159,Winter Light,1963,80,Drama,2
+1160,"Silence, The",1963,95,Drama,79
+1161,"Magician, The",1959,100,Drama,3
+1162,"Four Horsemen of the Apocalypse, The",1961,154,Drama,71
+1163,Critical Condition,1986,99,Comedy,41
+1164,Center of the Web,1989,88,Mystery,42
+1165,Border Shootout,1990,110,Action,7
+1166,Lean on Me,1989,109,Drama,51
+1167,On Wings of Eagles,1986,221,Drama,53
+1168,Texas,1941,94,Western,79
+1169,Allegheny Uprising,1939,80,Drama,53
+1170,Dark Command,1940,95,Western,52
+1171,Peggy Sue Got Married,1986,103,Drama,62
+1172,"Dear America, Letters Home from Vietnam",1989,84,War,57
+1173,Prizzi's Honor,1985,130,Comedy,25
+1174,"Man with Two Brains, The",1983,90,Comedy,68
+1175,Crimes of Passion,1984,101,Drama,4
+1176,"Jewel of the Nile, The",1985,106,Action,68
+1177,Romancing the Stone,1984,106,Action,83
+1178,"Accidental Tourist, The",1988,121,Comedy,56
+1179,"Sea Chase, The",1955,117,War,4
+1180,"Another Time, Another Place",1958,98,Drama,4
+1181,Cannibal Women in the Avocado Jungle of Death,1988,90,Comedy,56
+1182,Mr Love.,1986,91,Comedy,10
+1183,2001: A Space Odyssey,1968,139,Science Fiction,83
+1184,Persona,1966,81,Drama,81
+1185,Scenes from a Marriage,1973,,Drama,3
+1186,Hour of the Wolf,1968,88,Drama,37
+1187,"Passion of Anna, The",1969,101,Drama,6
+1188,Dangerous Moves,1984,96,Drama,7
+1189,Sayonara,1957,147,Drama,19
+1190,Where Eagles Dare,1968,158,War,57
+1191,Teen Wolf,1985,95,Drama,58
+1192,Amazon,1990,88,Action,30
+1193,"Paper Chase, The",1973,,Drama,7
+1194,"Virgin Spring, The",1959,88,Drama,8
+1195,Spider's Stratagem,1970,97,Drama,45
+1196,Play Misty for Me,1971,102,Mystery,47
+1197,Going Ape,1981,88,Comedy,65
+1198,Cool Hand Luke,1967,127,Drama,49
+1199,Phantom of the Ritz,1988,89,Horror,85
+1200,Crash & Burn,1990,85,Science Fiction,75
+1201,After Dark My Sweet,1991,114,Mystery,33
+1202,Christopher Columbus: The Discovery,1992,121,Adventure,39
+1203,Young Sherlock Holmes,1986,109,Mystery,16
+1204,Doc Hollywood,1991,104,Comedy,64
+1205,Baja Oklahoma,1988,96,Comedy,71
+1206,Aliens,1986,137,Science Fiction,82
+1207,Alien Three,1992,115,Science Fiction,59
+1208,Alien: resurrection,1997,109,Science Fiction,60
+1209,Alien,1979,117,Science Fiction,83
+1210,One Woman or Two,1985,97,Comedy,64
+1211,Soggy Bottom U. S. A.,1984,96,Comedy,50
+1212,Bang the Drum Slowly,1973,96,Drama,73
+1213,"Catamount Killing, The",1974,82,Action,84
+1214,Fuzz,1972,92,Action,37
+1215,"Shoot Loud, Louder, I Don't Understand!",1966,101,Mystery,70
+1216,Bedazzled,1967,107,Comedy,67
+1217,"Prince & the Pauper, The",1977,120,Action,86
+1218,One Hundred Rifles,1969,110,Western,48
+1219,"Wild Party, The",1975,90,Drama,75
+1220,Bandolero!,1968,106,Western,9
+1221,"Last of Sheila, The",1973,119,Mystery,39
+1222,Hannie Caulder,1972,87,Drama,9
+1223,Sounds of the Seventies...& the Beat Goes,1990,,Music,13
+1224,Bird,1988,161,Drama,24
+1225,Meet Millie,1955,60,Drama,82
+1226,Hell Comes to Frogtown,1987,88,Science Fiction,74
+1227,"Fortune Cookie, The",1966,126,Comedy,3
+1228,"Sun Shines Bright, The",1990,92,Action,46
+1229,"Squeeze, The",1987,106,Action,23
+1230,Start the Revolution Without Me,1970,91,Comedy,62
+1231,Major League,1989,107,Comedy,64
+1232,"Bright Lights, Big City",1990,108,Drama,30
+1233,"Lost Boys, The",1987,97,Horror,67
+1234,Cookie,1989,93,Comedy,43
+1235,"Conversation, The",1974,114,Drama,59
+1236,American Graffiti,1973,112,Comedy,39
+1237,Dangerous When Wet,1953,96,Music,67
+1238,Stir Crazy,1980,111,Comedy,40
+1239,Young Einstein,1989,91,Comedy,47
+1240,"Killing, The",1956,83,Drama,51
+1241,"Cahill, United States Marshal",1973,102,Western,12
+1242,"Savage Intruder, The",1989,90,Horror,24
+1243,"Sheltering Sky, The",1992,139,Drama,64
+1244,An Officer & a Gentleman,1982,125,Drama,1
+1245,Black Widow,1987,101,Mystery,54
+1246,Legal Eagles,1986,116,Comedy,39
+1247,Bloody Mama,1970,90,Action,17
+1248,A Patch of Blue,1965,106,Drama,51
+1249,I Died a Thousand Times,1955,109,Drama,23
+1250,Tentacles,1977,90,Horror,62
+1251,"Scalphunters, The",1968,100,Western,33
+1252,A Day in October,1992,96,Drama,76
+1253,A Fistful of Dollars,1964,102,Westerns,61
+1254,My Science Project,1985,94,Comedy,84
+1255,"Great Race, The",1991,160,Comedy,88
+1256,"Searchers, The",1956,119,Western,9
+1257,Meteor,1979,105,Action,5
+1258,Rebel Without a Cause,1955,111,Drama,82
+1259,West Side Story,1961,153,Music,38
+1260,Trash,1970,110,Comedy,68
+1261,A Big Hand for the Little Lady,1966,95,Comedy,12
+1262,A Fine Madness,1966,104,Comedy,6
+1263,"Glass Menagerie, The",1987,134,Drama,68
+1264,Harry & Son,1989,117,Drama,57
+1265,"Rachel, Rachel",1968,102,Drama,32
+1266,Paris Blues,1961,98,Drama,54
+1267,"Fugitive Kind, The",1960,135,Drama,3
+1268,Mr. & Mrs. Bridge,1993,,Drama,29
+1269,State of Grace,1991,144,Drama,49
+1270,Shadow of a Doubt,1943,108,Drama,32
+1271,"Men, The",1950,85,Drama,27
+1272,Stage Fright,1950,110,Mystery,72
+1273,Magic Town,1947,103,Drama,4
+1274,That Lucky Touch,1975,93,Action,85
+1275,Lust for Gold,1949,90,Drama,57
+1276,Heat,1987,103,Mystery,69
+1277,Employee's Entrance,1993,75,Drama,0
+1278,Night Is My Future,1947,87,Drama,17
+1279,"Witches, The",1990,92,Science Fiction,18
+1280,Vera Cruz,1953,94,Action,71
+1281,Apache,1954,91,Western,78
+1282,Twilight's Last Gleaming,1977,146,Drama,84
+1283,"Frisco Kid, The",1979,119,Comedy,10
+1284,Bank on the Stars,1954,30,Drama,
+1285,Law of Desire,1987,100,Drama,73
+1286,"Quiller Memorandum, The",1966,103,Mystery,34
+1287,"Longest Day, The",1962,183,War,7
+1288,"Name of the Rose, The",1986,128,Drama,8
+1289,Bloodsport,1988,92,Action,78
+1290,Torment,1986,85,Horror,8
+1291,Pelle the Conqueror,1988,138,Drama,14
+1292,Taps,1981,118,Drama,84
+1293,"Freshman, The",1991,102,Comedy,32
+1294,"Last Emperor, The",1987,164,Drama,1
+1295,"Grim Reaper, The",1962,100,Drama,35
+1296,Le Dernier Combat,1983,90,Drama,72
+1297,Too Beautiful for You,1989,91,Drama,35
+1298,"Fire, Ice & Dynamite",1991,105,Action,72
+1299,Heavens Above,1963,113,Comedy,38
+1300,One Eyed Jacks,1961,141,Western,26
+1301,"Swing It, Sailor!",1937,61,Comedy,83
+1302,"Wolf at the Door, The",1987,94,Drama,68
+1303,Modern Times,1936,87,Comedy,4
+1304,Thunderbolt & Lightfoot,1991,114,Action,16
+1305,A Nous la Liberte,1931,87,Drama,60
+1306,Scum,1979,95,Action,68
+1307,"Inside Man, The",1984,90,Action,45
+1308,Apocalypse Now,1979,153,Drama,8
+1309,"Bellboy & the Playgirls, The",1990,94,Drama,7
+1310,"Terror, The",1963,81,Horror,88
+1311,"Raven, The",1963,86,Horror,85
+1312,They Came from Within,1975,87,Horror,21
+1313,"Boy in Blue, The",1986,97,Drama,63
+1314,Killer Tomatoes Strike Back,1991,87,Comedy,24
+1315,Attack of the Killer Tomatoes,1979,87,Comedy,47
+1316,"Untouchables, The",1987,119,Drama,7
+1317,Wise Guys,1986,91,Comedy,16
+1318,American Autobahn,1989,90,Drama,75
+1319,"Final Alliance, The",1990,94,Action,10
+1320,"Bounty, The",1984,130,Drama,25
+1321,"Little Prince, The",1974,89,Music,31
+1322,Posse,1975,94,Western,76
+1323,Firefox,1982,136,Action,64
+1324,Penitentiary III,1987,91,Action,82
+1325,Ginger & Fred,1993,,Comedy,29
+1326,"Wrong Box, The",1966,107,Comedy,40
+1327,Wagonmaster,1990,86,Western,1
+1328,They Were Expendable,1945,135,War,88
+1329,"Last Hurrah, The",1991,125,Drama,46
+1330,Law of the Golden West,1949,59,Western,1
+1331,Pioneer Marshal,1949,60,Western,8
+1332,Ranger of the Cherokee Strip,1949,60,Western,31
+1333,Vanishing Westerner,1950,60,Western,6
+1334,Bandits of Dark Canyon,1948,59,Western,72
+1335,"Bold Frontiersman, The",1948,60,Western,18
+1336,"Wild Frontier, The",1948,59,Western,61
+1337,"Firemen's Ball, The",1968,73,Comedy,8
+1338,Local Hero,1983,112,Comedy,54
+1339,"French Connection, The",1971,104,Drama,88
+1340,To Live & Die in L. A.,1985,114,Action,70
+1341,Ferry to Hong Kong,1961,113,Drama,77
+1342,"Eddie Murphy, Delirious",1983,69,Comedy,6
+1343,"Secret Policeman's Private Parts, The",1984,77,Comedy,36
+1344,Up the Creek,1958,83,Comedy,54
+1345,Yol,1982,111,Drama,53
+1346,Sara Dane,1989,150,Drama,75
+1347,Night Tide,1988,84,Drama,50
+1348,His Majesty O'Keefe,1953,92,Action,3
+1349,North to Alaska,1960,122,Western,31
+1350,Flight to Fury,1966,76,Action,70
+1351,Ride in the Whirlwind,1966,82,Western,26
+1352,Powderkeg,1970,93,Western,26
+1353,I Confess,1953,95,Drama,63
+1354,"Thirty-Nine Steps, The",1935,88,Science Fiction,8
+1355,Topaz,1969,126,Mystery,12
+1356,Murder,1930,95,Mystery,50
+1357,Dial M for Murder,1954,123,Mystery,52
+1358,Young & Innocent,1937,80,Mystery,43
+1359,Creature from Black Lake,1976,95,Horror,88
+1360,Chariots of Fire,1981,124,Drama,6
+1361,Monty Python Live at the Hollywood Bowl,1982,81,Comedy,81
+1362,"Man Who Would Be King, The",1975,129,Drama,6
+1363,Victory,1981,117,Drama,39
+1364,Kelly's Heroes,1970,146,War,84
+1365,Next of Kin,1989,109,Mystery,63
+1366,Chattahoochee,1990,96,Drama,30
+1367,"Angelic Conversation, The",1985,82,Comedy,41
+1368,Down by Law,1986,107,Comedy,49
+1369,"Killing Fields, The",1984,141,Drama,6
+1370,Survival Zone,1992,85,Action,25
+1371,Monty Python's Life of Brian,1979,94,Comedy,11
+1372,Monty Python's the Meaning of Life,1983,107,Comedy,33
+1373,"Red Tent, The",1971,121,Action,7
+1374,Dakota,1945,82,Western,27
+1375,Viva Zapata!,1952,112,Drama,86
+1376,"Green Berets, The",1968,133,War,36
+1377,Big Bad John,1990,90,Action,84
+1378,"Ticket of Leave Man, The",1937,71,Mystery,45
+1379,"D-Day, The Sixth of June",1956,106,War,84
+1380,"Apprenticeship of Duddy Kravitz, The",1974,121,Drama,64
+1381,A Clockwork Orange,1971,138,Science Fiction,83
+1382,Full Metal Jacket,1991,117,War,45
+1383,Sanshiro Sugata,1943,82,Drama,85
+1384,Rhapsody in August,1991,97,Drama,50
+1385,No Regrets for Our Youth,1946,110,Drama,31
+1386,"Bad Sleep Well, The",1960,152,Drama,65
+1387,"Idiot, The",1951,166,Drama,40
+1388,Rashomon,1951,83,Drama,59
+1389,Sanjuro,1962,96,Mystery,6
+1390,Seven Samurai,1955,200,Drama,9
+1391,Throne of Blood,1957,110,Drama,60
+1392,Yojimbo,1961,110,Action,60
+1393,Kagemusha,1980,161,Drama,74
+1394,Ikiru,1952,134,Drama,36
+1395,Empire of Spiritual Ninja,1987,90,Action,26
+1396,"Ninja, the Violent Sorcerer",1986,90,Action,
+1397,Metropolis,1926,139,Science Fiction,49
+1398,Cloak & Dagger,1946,106,Mystery,55
+1399,Spiders,1920,137,Drama,29
+1400,Human Desire,1954,90,Drama,27
+1401,Spies,1928,130,Drama,49
+1402,"Testament of Dr. Mabuse, The",1933,120,Drama,4
+1403,Fury,1991,95,Drama,48
+1404,Mo' Better Blues,1990,129,Drama,78
+1405,Matt Talbot,1989,30,Drama,35
+1406,"Will Rogers, Look Back in Laughter",1989,55,Comedy,6
+1407,For a Few Dollars More,1991,130,Westerns,34
+1408,Thirty Seconds over Tokyo,1944,139,War,45
+1409,Class of 1984,1982,93,Drama,23
+1410,Juggernaut,1974,109,Action,63
+1411,"Good Morning, Vietnam",1987,120,Comedy,37
+1412,Blood on the Sun,1945,94,Drama,76
+1413,Paint Your Wagon,1969,161,Music,46
+1414,Ensign Pulver,1964,105,Comedy,16
+1415,Street People,1976,92,Action,25
+1416,"Manhunt, The",1984,83,Action,34
+1417,Operation Nam,1987,85,War,37
+1418,"Fighting Seabees, The",1944,100,War,35
+1419,Let It Rock,1988,75,Drama,32
+1420,Eraserhead,1978,90,Horror,2
+1421,"Ladykillers, The",1955,87,Comedy,28
+1422,Sweet Smell of Success,1957,97,Drama,12
+1423,And Now for Something Completely Different,1971,88,Comedy,44
+1424,Crackers,1984,92,Action,17
+1425,Green Glove,1991,89,Drama,54
+1426,Menace on the Mountain,1970,89,Action,69
+1427,In Old California,1940,90,Western,27
+1428,"Thirty Is a Dangerous Age, Cynthia",1967,85,Comedy,28
+1429,Ffolkes,1980,99,Action,62
+1430,Chisum,1970,111,Western,72
+1431,"Hunt for Red October, The",1990,135,Drama,8
+1432,Closely Watched Trains,1966,123,Drama,75
+1433,Executive Action,1973,91,Drama,6
+1434,Flying Tigers,1942,101,Action,61
+1435,Father's Little Dividend,1991,87,Comedy,52
+1436,An Evening with Robin Williams,1982,92,Comedy,68
+1437,Eddie Murphy Raw,1987,90,Comedy,51
+1438,Harlem Nights,1989,118,Comedy,11
+1439,Santee,1973,93,Western,47
+1440,"Good Father, The",1987,90,Drama,42
+1441,Sometimes a Great Notion,1971,115,Drama,7
+1442,Catch Twenty-Two,1970,117,Comedy,50
+1443,Dark Age,1988,90,Action,3
+1444,Deadline,1981,94,Mystery,9
+1445,Mysterious Mr. Wong,1935,60,Mystery,71
+1446,A Month in the Country,1988,92,Drama,57
+1447,"Prom Night III, The Last Kiss",1990,97,Horror,29
+1448,"Blood in, Blood Out",1990,,Drama,88
+1449,"Wrong Arm of the Law, The",1989,94,Comedy,25
+1450,Orphans,1987,116,Drama,21
+1451,All the President's Men,1976,139,Drama,45
+1452,J-Men Forever,1987,73,Action,59
+1453,"Wild Bunch, The",1969,144,Western,50
+1454,Judgement in Berlin,1988,92,Drama,13
+1455,"Hot Line, The",1993,,Comedy,70
+1456,Rocket Gibraltar,1988,100,Drama,26
+1457,"Yakuza, The",1975,112,Action,16
+1458,Jeremiah Johnson,1972,116,Drama,88
+1459,Burn!,1970,112,Drama,75
+1460,Magnum Force,1973,122,Action,28
+1461,Cyborg,1989,86,Action,31
+1462,"Prisoner of Zenda, The",1979,108,Comedy,12
+1463,Scream,1983,86,Horror,24
+1464,"Assault, The",1986,140,Drama,71
+1465,Flying Leathernecks,1951,102,Action,23
+1466,What Comes Around,1985,92,Drama,49
+1467,Mon Oncle D'Amerique,1980,123,Comedy,71
+1468,"Culpepper Cattle Company, The",1972,92,Western,29
+1469,"Survivors, The",1983,102,Comedy,52
+1470,Roadhouse Sixty-Six,1984,96,Action,20
+1471,"Burning Poles, Cecil Taylor in Performance",1991,60,Music,82
+1472,Russkies,1987,98,Action,87
+1473,My Blue Heaven,1990,96,Comedy,63
+1474,Altered States,1990,103,Science Fiction,22
+1475,"Cowboys, The",1972,128,Western,58
+1476,"Code Name, Emerald",1985,95,Drama,22
+1477,Patton,1970,170,War,8
+1478,Midnight Cowboy,1969,123,Drama,33
+1479,"Falcon & the Snowman, The",1985,131,Drama,61
+1480,Maitresse,1976,112,Drama,39
+1481,Disorderlies,1987,86,Comedy,69
+1482,Raging Bull,1991,,Drama,25
+1483,Garrison Keillor's Home,1991,60,Comedy,6
+1484,Overland Stage Raiders,1938,55,Western,83
+1485,Pals of the Saddle,1938,55,Western,33
+1486,Alone in the Dark,1982,92,Horror,75
+1487,"Beguiled, The",1971,109,Drama,60
+1488,Escape from Alcatraz,1979,112,Drama,22
+1489,Criss Cross,1948,88,Drama,77
+1490,Midway,1976,132,War,36
+1491,Indiana Jones & the Last Crusade,1990,126,Action,8
+1492,Duel,1993,90,Mystery,48
+1493,Separate but Equal,1991,193,Drama,56
+1494,Gosta Berling's Saga,1924,123,Drama,63
+1495,Platoon,1986,120,Drama,8
+1496,"Crawling Hand, The",1963,89,Science Fiction,79
+1497,Willy Wonka & the Chocolate Factory,1971,100,Music,65
+1498,Joe Kidd,1971,88,Western,79
+1499,"Santa Claus, The Movie",1985,104,Comedy,19
+1500,Boys Town,1938,96,Drama,21
+1501,"Erasure, Live Wild!",1990,59,Music,48
+1502,A Question of Honor,1982,150,Drama,80
+1503,Check Your Guns,1947,61,Western,80
+1504,West to Glory,1947,56,Western,43
+1505,"Throwback, The",1937,60,Western,53
+1506,Border Feud,1992,54,Action,43
+1507,"Fighting Vigilantes, The",1947,58,Western,21
+1508,Law of the Lash,1947,53,Western,66
+1509,Outlaw Country,1949,66,Western,62
+1510,Return of the Lash,1992,53,Action,78
+1511,Mystery of the Hooded Horsemen,1937,60,Western,52
+1512,Tex Rides with the Boy Scouts,1937,60,Western,17
+1513,Shadows of the West,1949,59,Western,40
+1514,Instant Karma,1991,102,Comedy,47
+1515,Time Lock,1957,73,Drama,5
+1516,Appointment in Honduras,1953,79,Drama,7
+1517,Danton,1982,136,Drama,5
+1518,"Alamo, The",1960,164,Action,29
+1519,"La Chevre, (The Goat)",1986,91,Drama,24
+1520,Les Comperes,1985,109,Comedy,54
+1521,Dead Poets Society,1990,128,Drama,8
+1522,"Othello, The Lost Masterpiece",1952,93,Drama,23
+1523,"Battleground, The",1949,119,War,7
+1524,Kings of the Road (In the Course of Time),1976,176,Drama,41
+1525,Hiroshima,1990,98,Drama,17
+1526,"Return of Martin Guerre, The",1982,111,Drama,51
+1527,Somebody up There Likes Me,1956,97,Drama,56
+1528,Jack Benny Show,1955,57,Comedy,51
+1529,Mutiny on the Bounty,1962,182,Action,35
+1530,"Death Valley Days, Deadly Decision",1989,,Western,9
+1531,Monty Python's Flying Circus,1986,60,Comedy,4
+1532,"Monty Python's Flying Circus, Vol 1.",1986,60,Comedy,24
+1533,"Monty Python's Flying Circus, Vol 2.",1986,59,Comedy,79
+1534,"Monty Python's Flying Circus, Vol 3.",1986,58,Comedy,63
+1535,Valkenvania,1990,,Comedy,82
+1536,"Secret Policeman's Other Ball, The",1982,101,Comedy,86
+1537,"Taming of the Shrew, The",1981,127,Drama,2
+1538,From Russia with Love,1964,,Action,6
+1539,"Offence, The",1993,108,Mystery,6
+1540,Hollywood Mavericks,1992,60,Comedy,22
+1541,Live at Harrah's,1990,60,Comedy,6
+1542,"Persuaders, The Overture, The",1992,52,Mystery,40
+1543,Nineteen Hundred,1977,255,Drama,82
+1544,"Van, The",1989,90,Comedy,5
+1545,My Country Right or Wrong,1972,15,War,21
+1546,"Clint Eastwood Collection, The",1991,,Westerns,11
+1547,"Complete Dirty Harry, Magnum Force, The",1991,,Action,53
+1548,"Dead Pool, The",1992,92,Action,26
+1549,"Good, the Bad & the Ugly, The",1992,163,Westerns,68
+1550,"Rawhide, Premiere Episode",1959,60,Western,54
+1551,Tightrope,1992,118,Mystery,55
+1552,Hearts of Fire,1987,95,Drama,25
+1553,How the West Was Won,1992,165,Western,45
+1554,"Mummy's Hand, The",1992,,Mystery,54
+1555,Great White Death,1993,88,Action,26
+1556,"Mosquito Coast, The",1986,119,Drama,54
+1557,Today We Kill....Tomorrow We Die,1993,102,Western,25
+1558,Tormenta Sobre Arizona,1991,,Drama,81
+1559,Back to the Future II,1989,116,Comedy,65
+1560,"Maverick, Duel at Sundown",1959,60,Western,26
+1561,Shakespeare Series,1983,,Drama,23
+1562,Deadly Trackers,1973,105,Western,54
+1563,"American Film Institute, Alfred Hitchcock",1992,72,Mystery,70
+1564,A Married Man,1990,,Drama,79
+1565,Othello,1982,208,Drama,84
+1566,"Only Way Home, The",1975,85,Drama,60
+1567,Tales of Tomorrow,1953,120,Horror,0
+1568,Inherit the Wind,1991,128,Drama,18
+1569,This Is Horror,1990,45,Horror,3
+1570,Conversation Piece,1992,112,Drama,1
+1571,"Crimson Pirate, The",1992,105,Action,60
+1572,"Devil's Disciple, The",1992,83,Mystery,65
+1573,"Hallelujah Trail, The",1992,166,Drama,6
+1574,"Train, The",1992,133,Action,68
+1575,Jay Leno: The American Dream,1986,49,Comedy,67
+1576,Primal Rage,1990,92,Mystery,3
+1577,"Industrial Symphony, The Dream of the Broken-Hearted",1990,50,Music,49
+1578,Howie Mandel's North American Watusi Tour,1986,52,Comedy,65
+1579,"Branford Marsalis, Steep",1989,90,Music,52
+1580,L. A. Story,1991,98,Comedy,81
+1581,Steve Martin Live!,1986,60,Comedy,3
+1582,"Steve Martin, The Funnier Side of Eastern Canada",1974,60,Comedy,34
+1583,"Runaway Barge, The",1993,,Action,38
+1584,Romulus & the Sabines,1992,101,Action,76
+1585,"Saint, The",1989,,Mystery,29
+1586,Strange Brew,1983,91,Comedy,24
+1587,Another Forty-Eight Hours,1990,98,Action,54
+1588,"Best of Eddie Murphy, Saturday Night Live, The",1989,,Comedy,56
+1589,What about Bob?,1991,99,Comedy,6
+1590,"Mummy's Revenge, The",1953,91,Horror,56
+1591,Harper,1992,121,Mystery,86
+1592,"Left Handed Gun, The",1992,102,Western,26
+1593,Once upon a Wheel,1989,,Action,40
+1594,"Prize, The",1992,136,Drama,66
+1595,"Secret War of Harry Frigg, The",1968,,Comedy,28
+1596,"Two Jakes, The",1990,,Mystery,3
+1597,Exile in Concert,1989,61,Music,12
+1598,Joe Piscopo New Jersey Special,1987,60,Comedy,14
+1599,"Joe Piscopo Video, The",1991,60,Comedy,44
+1600,"Death Valley Days, No Gun Behind His Badge",1989,,Western,1
+1601,Salsa: The Motion Picture,1988,96,Drama,26
+1602,Hollywood's Greatest War Movies,1991,80,War,41
+1603,Out for Justice,1991,91,Action,2
+1604,"Case of the Mukkinese Battle Horn, The",1956,27,Comedy,45
+1605,"Goon Show Movie, The",1953,75,Comedy,80
+1606,"Great McGonagall, The",1975,95,Comedy,72
+1607,I'm All Right Jack,1991,101,Comedy,23
+1608,"Magic Christian, The",1991,101,Comedy,75
+1609,Never Let Go,1960,91,Action,5
+1610,"Pink Panther, The",1991,121,Comedy,77
+1611,Two-Way Stretch,1991,84,Comedy,7
+1612,"Face at the Window, The",1988,65,Horror,79
+1613,Tom Thumb,1958,92,Science Fiction,30
+1614,Beartooth,1989,90,Action,70
+1615,James Taylor in Concert,1979,90,Music,38
+1616,Gangbusters,1942,253,Drama,31
+1617,El Rublo de las Dos Caras,1992,,Action,83
+1618,"Law & Jake Wade, The",1992,87,Drama,68
+1619,Chuka,1967,105,Western,47
+1620,Cry of the Innocent,1980,93,Drama,13
+1621,Edison the Man,1991,108,Drama,19
+1622,Keeper of the Flame,1991,101,Drama,76
+1623,"Spencer Tracy Legacy, The",1991,92,Comedy,44
+1624,"Cheyenne, The Iron Trail",1957,60,Western,1
+1625,"Dawn Rider, The",1992,56,Western,44
+1626,"Duke, The Films of John Wayne",1993,,Western,70
+1627,Frontier Horizon,1939,55,Western,73
+1628,Hell Town,1934,54,Western,23
+1629,Hurricane Express,1932,,Western,7
+1630,"Hurricane Express, The",1932,210,Action,68
+1631,In Harm's Way,1965,165,War,66
+1632,"John Wayne Collection, Red River, The",1991,,War,49
+1633,John Wayne Collector's Limited Edition,1992,,War,3
+1634,John Wayne Four Pack,1991,,Western,58
+1635,"John Wayne Matinee Double Feature, No. 2",1939,112,Western,3
+1636,"John Wayne Matinee Double Feature, No. 3",1939,110,Western,24
+1637,"John Wayne Matinee Double Feature, No. 4",1938,110,Western,28
+1638,John Wayne Six Pack,1990,,Western,87
+1639,"John Wayne Western Greats, Rio Bravo",1991,,Western,22
+1640,King of the Pecos,1991,56,Western,78
+1641,Lawless Frontier,1992,59,Western,8
+1642,"Lawless Frontier, The",1991,52,Western,35
+1643,"Lawless Nineties, The",1991,56,Western,3
+1644,Lucky Texan,1934,54,Western,48
+1645,McQ,1992,112,Action,5
+1646,Neath Arizona Skies,1993,,Western,73
+1647,Neath the Arizona Skies,1991,54,Western,28
+1648,Randy Rides Alone,1991,53,Western,75
+1649,Range Feud,1993,58,Western,77
+1650,Red River,1992,134,Western,16
+1651,Riders of Destiny,1991,52,Western,30
+1652,Sagebrush Trail,1990,,Western,23
+1653,"Shadow of the Eagle, The",1932,226,Action,19
+1654,Blood & Guns,1989,103,Action,43
+1655,Hot Money,1988,78,Drama,19
+1656,Comedy Tonight,1977,75,Comedy,18
+1657,Robin Williams,1991,65,Comedy,4
