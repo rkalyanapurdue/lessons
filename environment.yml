@@ -29,5 +29,6 @@ dependencies:
     - wordcloud
     - spatialite
     - geojson
+    - pyarrow
       #- tensorflow
       #- mordecai
