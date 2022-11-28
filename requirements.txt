@@ -1,4 +1,5 @@
 jupyter-contrib-nbextensions>=0.5.1
 notebook>=6.0.0
+namba==0.56.3
 rise>=5.5.1
 

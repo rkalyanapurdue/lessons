@@ -1,0 +1,304 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20221019</CreaDate>
+		<CreaTime>23104400</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<lineage>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20221019" Time="231044">FeatureClassToFeatureClass stop_Layer \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb TransitStops # "site_id "site_id" true true false 4 Long 0 0,First,#,stop_Layer,site_id,-1,-1;site_on "site_on" true true false 255 Text 0 0,First,#,stop_Layer,site_on,0,255;site_at "site_at" true true false 255 Text 0 0,First,#,stop_Layer,site_at,0,255;corn_desc "corn_desc" true true false 255 Text 0 0,First,#,stop_Layer,corn_desc,0,255;city "city" true true false 255 Text 0 0,First,#,stop_Layer,city,0,255;county "county" true true false 255 Text 0 0,First,#,stop_Layer,county,0,255;publiccomm "publiccomm" true true false 255 Text 0 0,First,#,stop_Layer,publiccomm,0,255;dt_zone "dt_zone" true true false 255 Text 0 0,First,#,stop_Layer,dt_zone,0,255;parkride "parkride" true true false 255 Text 0 0,First,#,stop_Layer,parkride,0,255;sidewalk "sidewalk" true true false 255 Text 0 0,First,#,stop_Layer,sidewalk,0,255;adaaccess "adaaccess" true true false 255 Text 0 0,First,#,stop_Layer,adaaccess,0,255;busstop_yn "busstop_yn" true true false 2 Text 0 0,First,#,stop_Layer,busstop_yn,0,2;utmx "utmx" true true false 8 Double 0 0,First,#,stop_Layer,utmx,-1,-1;utmy "utmy" true true false 8 Double 0 0,First,#,stop_Layer,utmy,-1,-1;node_id "node_id" true true false 255 Text 0 0,First,#,stop_Layer,node_id,0,255;sign "sign" true true false 255 Text 0 0,First,#,stop_Layer,sign,0,255;shelter "shelter" true true false 255 Text 0 0,First,#,stop_Layer,shelter,0,255;hi_freq "hi_freq" true true false 255 Text 0 0,First,#,stop_Layer,hi_freq,0,255;street_id "street_id" true true false 36 Text 0 0,First,#,stop_Layer,street_id,0,36;gate "gate" true true false 255 Text 0 0,First,#,stop_Layer,gate,0,255;T_Code "T_Code" true true false 10 Text 0 0,First,#,stop_Layer,T_Code,0,10;active_status "active_status" true true false 25 Text 0 0,First,#,stop_Layer,active_status,0,25" #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\DefineProjection" Date="20221019" Time="231050">DefineProjection \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops PROJCS['NAD_1983_UTM_Zone_15N',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-93.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]]</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20221019" Time="231103">AddField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops board_flag "Long (large integer)" # # # board_flag NULLABLE NON_REQUIRED #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20221019" Time="231109">AddField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops alight_flag "Long (large integer)" # # # alight_flag NULLABLE NON_REQUIRED #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20221019" Time="231114">AddField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops UNIQUE_ID Text # # 36 UNIQUE_ID NULLABLE NON_REQUIRED #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20221019" Time="231118">AddField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops itinerary_yn Text # # 1 itinerary_yn NULLABLE NON_REQUIRED #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20221019" Time="231122">AddField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops route_provider Text # # 50 route_provider NULLABLE NON_REQUIRED #</Process>
+				<Process ToolSource="c:\users\svc-gisbatch\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\DeleteField" Date="20221019" Time="231153">DeleteField \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops utmx;utmy;sidewalk;shelter;hi_freq;sign;bench;routehold;street_id</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20221021" Time="232804">FeatureClassToFeatureClass \\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops \\rafsshare.mc.local\gis\gis_library\GDRS\STAGE\trans_transit_stops\fgdb\trans_transit_stops.gdb TransitStops # "site_id "site_id" true true false 4 Long 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,site_id,-1,-1;site_on "site_on" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,site_on,-1,-1;site_at "site_at" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,site_at,-1,-1;corn_desc "corn_desc" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,corn_desc,-1,-1;city "city" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,city,-1,-1;county "county" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,county,-1,-1;publiccomm "publiccomm" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,publiccomm,-1,-1;dt_zone "dt_zone" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,dt_zone,-1,-1;parkride "parkride" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,parkride,-1,-1;adaaccess "adaaccess" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,adaaccess,-1,-1;busstop_yn "busstop_yn" true true false 2 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,busstop_yn,-1,-1;node_id "node_id" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,node_id,-1,-1;gate "gate" true true false 255 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,gate,-1,-1;T_Code "T_Code" true true false 10 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,T_Code,-1,-1;active_status "active_status" true true false 25 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,active_status,-1,-1;board_flag "board_flag" true true false 4 Long 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,board_flag,-1,-1;alight_flag "alight_flag" true true false 4 Long 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,alight_flag,-1,-1;UNIQUE_ID "UNIQUE_ID" true true false 36 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,UNIQUE_ID,-1,-1;itinerary_yn "itinerary_yn" true true false 1 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,itinerary_yn,-1,-1;route_provider "route_provider" true true false 50 Text 0 0 ,First,#,\\rafsshare.mc.local\GIS\devel\data_devel\Transit_Stage\transit_stage.gdb\TransitStops,route_provider,-1,-1" #</Process>
+				<Process ToolSource="C:\program files\arcgis\server\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20221024" Time="235626">FeatureClassToFeatureClass /var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops /var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\shp TransitStops.shp # "site_id "site_id" true true false 4 Long 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,site_id,-1,-1;site_on "site_on" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,site_on,-1,-1;site_at "site_at" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,site_at,-1,-1;corn_desc "corn_desc" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,corn_desc,-1,-1;city "city" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,city,-1,-1;county "county" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,county,-1,-1;publiccomm "publiccomm" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,publiccomm,-1,-1;dt_zone "dt_zone" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,dt_zone,-1,-1;parkride "parkride" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,parkride,-1,-1;adaaccess "adaaccess" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,adaaccess,-1,-1;busstop_yn "busstop_yn" true true false 2 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,busstop_yn,-1,-1;node_id "node_id" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,node_id,-1,-1;gate "gate" true true false 255 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,gate,-1,-1;T_Code "T_Code" true true false 10 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,T_Code,-1,-1;active_sta "active_status" true true false 25 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,active_status,-1,-1;board_flag "board_flag" true true false 4 Long 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,board_flag,-1,-1;alight_fla "alight_flag" true true false 4 Long 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,alight_flag,-1,-1;UNIQUE_ID "UNIQUE_ID" true true false 36 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,UNIQUE_ID,-1,-1;itinerary_ "itinerary_yn" true true false 1 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,itinerary_yn,-1,-1;route_prov "route_provider" true true false 50 Text 0 0 ,First,#,/var/ftp/gdrs_temp/update\us_mn_state_metc\trans_transit_stops\fgdb\trans_transit_stops.gdb\TransitStops,route_provider,-1,-1" #</Process>
+			</lineage>
+			<itemProps>
+				<itemName Sync="TRUE">TransitStops</itemName>
+				<imsContentType Sync="TRUE">002</imsContentType>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\g46palgdrftp001\Z\var\ftp\gdrs_temp\update\us_mn_state_metc\trans_transit_stops\shp\TransitStops.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<itemSize Sync="TRUE">0.000</itemSize>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+				<projcsn Sync="TRUE">NAD_1983_UTM_Zone_15N</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_15N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-93.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26915]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26915&lt;/WKID&gt;&lt;LatestWKID&gt;26915&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20221024</SyncDate>
+		<SyncTime>23562400</SyncTime>
+		<ModDate>20221024</ModDate>
+		<ModTime>23562400</ModTime>
+	</Esri>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Professional x64 Edition Version 5.2 (Build 3790) Service Pack 2; Esri ArcGIS 10.4.1.5686</envirDesc>
+		<dataLang>
+			<languageCode value="en" Sync="TRUE"/>
+			<countryCode value="US" Sync="TRUE"/>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">TransitStops</resTitle>
+			<presForm>
+				<PresFormCd value="005" Sync="TRUE"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd value="001" Sync="TRUE"/>
+		</spatRpType>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode value="en" Sync="TRUE"/>
+		<countryCode value="US" Sync="TRUE"/>
+	</mdLang>
+	<distInfo>
+		<distFormat>
+			<formatName Sync="TRUE">Shapefile</formatName>
+		</distFormat>
+		<distTranOps>
+			<transSize Sync="TRUE">0.000</transSize>
+		</distTranOps>
+	</distInfo>
+	<mdHrLv>
+		<ScopeCd value="005" Sync="TRUE"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="26915" Sync="TRUE"/>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">6.13(3.0.1)</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs Name="TransitStops">
+				<geoObjTyp>
+					<GeoObjTypCd value="004" Sync="TRUE"/>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">0</geoObjCnt>
+			</geometObjs>
+			<topLvl>
+				<TopoLevCd value="001" Sync="TRUE"/>
+			</topLvl>
+		</VectSpatRep>
+	</spatRepInfo>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm Name="TransitStops">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom code="1" Sync="TRUE"/>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">0</efeacnt>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed Name="TransitStops">
+			<enttyp>
+				<enttypl Sync="TRUE">TransitStops</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">Esri</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">site_id</attrlabl>
+				<attalias Sync="TRUE">site_id</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">site_on</attrlabl>
+				<attalias Sync="TRUE">site_on</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">site_at</attrlabl>
+				<attalias Sync="TRUE">site_at</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">corn_desc</attrlabl>
+				<attalias Sync="TRUE">corn_desc</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">city</attrlabl>
+				<attalias Sync="TRUE">city</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">county</attrlabl>
+				<attalias Sync="TRUE">county</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">publiccomm</attrlabl>
+				<attalias Sync="TRUE">publiccomm</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">dt_zone</attrlabl>
+				<attalias Sync="TRUE">dt_zone</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">parkride</attrlabl>
+				<attalias Sync="TRUE">parkride</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">adaaccess</attrlabl>
+				<attalias Sync="TRUE">adaaccess</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">busstop_yn</attrlabl>
+				<attalias Sync="TRUE">busstop_yn</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">node_id</attrlabl>
+				<attalias Sync="TRUE">node_id</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">gate</attrlabl>
+				<attalias Sync="TRUE">gate</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">T_Code</attrlabl>
+				<attalias Sync="TRUE">T_Code</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">active_sta</attrlabl>
+				<attalias Sync="TRUE">active_sta</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">25</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">board_flag</attrlabl>
+				<attalias Sync="TRUE">board_flag</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">alight_fla</attrlabl>
+				<attalias Sync="TRUE">alight_fla</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">UNIQUE_ID</attrlabl>
+				<attalias Sync="TRUE">UNIQUE_ID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">36</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">itinerary_</attrlabl>
+				<attalias Sync="TRUE">itinerary_</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">route_prov</attrlabl>
+				<attalias Sync="TRUE">route_prov</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20221024</mdDateSt>
+</metadata>
