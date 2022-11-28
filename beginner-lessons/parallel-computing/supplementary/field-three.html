@@ -279,8 +279,8 @@
         .style("font-weight", 600);
 
       // red farmer speed control buttons
-      rstats.append("p").attr("id", "redspeed").text("Speed: fast");
-      var redspeed = 100;
+      rstats.append("p").attr("id", "redspeed").text("Speed: slow");
+      var redspeed = 750;
       rstats.append("button").text("Slow")
         .on("click", function() {
           redspeed = 750;
@@ -314,11 +314,11 @@
         .style("-webkit-text-fill-color", "transparent");
 
       // blue and purple farmer speed control buttons
-      pstats.append("p").attr("id", "purplespeed").text("Speed: fast")
+      pstats.append("p").attr("id", "purplespeed").text("Speed: medium")
         .style("background", "-webkit-linear-gradient(45deg, #cc33cc, #3399cc)")
         .style("-webkit-background-clip", "text")
         .style("-webkit-text-fill-color", "transparent");
-      var purplespeed = 100;
+      var purplespeed = 500;
       pstats.append("button").text("Slow")
         .on("click", function() {
           purplespeed = 750;
