@@ -15,9 +15,10 @@ jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
 ######Beginner######
 
 # BD 
-for i in 1 2 3 4; do
+for i in 1 2 3; do
     jupyter trust beginner-lessons/big-data/bigdata-$i.ipynb >> hci.log  
 done
+jupyter trust beginner-lessons/big-data/bigdata-exploration.ipynb >> hci.log
 
 # CT
 for i in 1 2 3 4 5 6 7; do
