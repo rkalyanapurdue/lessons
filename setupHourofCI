@@ -12,6 +12,9 @@ for i in 1 2 3 4 5 6; do
 done
 jupyter trust gateway-lesson/gateway/gateway-exploration.ipynb >> hci.log
 
+echo "Please wait until setup is complete ..."
+
+
 ######Beginner######
 
 # BD 
@@ -111,3 +114,5 @@ done
 
 
 echo "Hour of CI Setup Complete!"
+echo " "
+echo "Please click on the arrow in the lower right corner to continue."
