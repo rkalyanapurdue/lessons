@@ -93,7 +93,7 @@ done
 jupyter trust intermediate-lessons/geospatial-data/gd-exploration.ipynb >> hci.log 
 
 # IC
-for i in 1 2 3; do
+for i in 1 2; do
     jupyter trust intermediate-lessons/interdisciplinary-communication/ic-$i.ipynb >> hci.log 
 done
 
