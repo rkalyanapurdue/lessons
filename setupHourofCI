@@ -109,11 +109,11 @@ for i in 1 2 3 4 5 6; do
     jupyter trust intermediate-lessons/spatial-modeling-analytics/sma-$i.ipynb >> hci.log  
 done
 
-# Spatial Thinking
+# ST
 for i in 1 2 3 4; do
     jupyter trust intermediate-lessons/spatial-thinking/st-$i.ipynb >> hci.log
 done
-
+jupyter trust intermediate-lessons/spatial-thinking/st-exploration.ipynb >> hci.log 
 
 echo "Hour of CI Setup Complete!"
 echo " "
