@@ -6,6 +6,8 @@ echo "Hour of CI Setup Starting ..."
 # Trust all Hour of CI notebooks to improve learner experience
 # This enables us to auto-run code, initialize Markdown/code cells, etc.
 
+jupyter trust Welcome.ipynb
+
 # Gateway Lesson
 for i in 1 2 3 4 5 6; do
     jupyter trust gateway-lesson/gateway/gateway-$i.ipynb >> hci.log
